@@ -56,6 +56,15 @@ Validation Checklist
 - Chorus and verse numbering consecutive from first occurrence.
 - Well-formed XML; UTF-8 encoded.
 
+Conversion Log
+- Maintain a log file (e.g., conversion_log.txt) in the output folder, updated after processing each PPT file.
+- For each file, record:
+  - Filename of the PPT processed.
+  - Whether it was successfully converted to XML.
+  - If it contained embedded media (audio/video).
+  - If media was extracted (and to what filename).
+  - Any errors or notes (e.g., skipped due to existing audio, failed extraction).
+
 References
 - OpenLyrics repository: https://github.com/openlyrics/openlyrics/tree/master
 - OpenLyrics RelaxNG XML schema: https://github.com/openlyrics/openlyrics/blob/master/openlyrics-0.9.rng
