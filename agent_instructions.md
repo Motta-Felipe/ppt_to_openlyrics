@@ -33,6 +33,7 @@ Line Handling Inside a Block
 - Preserve line order; join lines with <br />. Remove lines that are empty after cleaning; do not emit empty blocks.
 
 XML Output (one file per song)
+- Output folder: Create a subfolder named "openLyrics" in the source folder for all generated XML files and extracted audio.
 - File name: <ppt_basename>.xml (UTF-8).
 - Envelope:
   <song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
