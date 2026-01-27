@@ -568,9 +568,23 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
     
     try:
         # Extract text - handle different formats
+        openlyrics_dir = output_dir / "openlyrics"
+        openlyrics_dir.mkdir(exist_ok=True)
+        raw_text_dir = output_dir / "raw text"
+        raw_text_dir.mkdir(exist_ok=True)
+        
         if input_path.suffix.lower() == '.pptx':
             slides_text = extract_text_from_pptx(input_path)
             actual_pptx = input_path
+            
+            # Write raw extracted text to txt file for debugging
+            raw_txt_path = raw_text_dir / f"{title}.txt"
+            with open(raw_txt_path, 'w', encoding='utf-8') as f:
+                for i, slide in enumerate(slides_text, 1):
+                    f.write(f"Slide {i}:\n")
+                    for block in slide:
+                        f.write(block + "\n")
+                    f.write("\n")
         elif input_path.suffix.lower() in {'.ppt', '.odp'}:
             # Legacy PPT or ODP - convert using LibreOffice first
             changes.append(f"Converted from legacy {input_path.suffix} format via LibreOffice")
@@ -591,7 +605,9 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
                         return False
                 
                 # Write raw extracted text to txt file for debugging
-                raw_txt_path = output_dir / f"{title}_raw.txt"
+                raw_text_dir = output_dir / "raw text"
+                raw_text_dir.mkdir(exist_ok=True)
+                raw_txt_path = raw_text_dir / f"{title}.txt"
                 with open(raw_txt_path, 'w', encoding='utf-8') as f:
                     for i, slide in enumerate(slides_text, 1):
                         f.write(f"Slide {i}:\n")
@@ -614,15 +630,17 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
                 xml_content = generate_openlyrics_xml(title, blocks)
                 
                 # Write XML file
-                output_path = output_dir / f"{title}.xml"
+                openlyrics_dir = output_dir / "openlyrics"
+                openlyrics_dir.mkdir(exist_ok=True)
+                output_path = openlyrics_dir / f"{title}.xml"
                 with open(output_path, 'w', encoding='utf-8') as f:
                     f.write(xml_content)
                 
-                # Extract media from converted pptx if exists
+                # Extract media to openlyrics folder
                 media_extracted = None
                 has_media = False
                 if converted_path and converted_path.exists():
-                    media_extracted = extract_media_from_pptx(converted_path, output_dir, title)
+                    media_extracted = extract_media_from_pptx(converted_path, openlyrics_dir, title)
                     has_media = media_extracted is not None
                 
                 log.log(filename, "SUCCESS", has_media=has_media, media_extracted=media_extracted,
@@ -647,7 +665,7 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
         xml_content = generate_openlyrics_xml(title, blocks)
         
         # Write XML file
-        output_path = output_dir / f"{title}.xml"
+        output_path = openlyrics_dir / f"{title}.xml"
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(xml_content)
         
@@ -656,7 +674,7 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
         has_media = False
         
         if input_path.suffix.lower() == '.pptx':
-            media_extracted = extract_media_from_pptx(input_path, output_dir, title)
+            media_extracted = extract_media_from_pptx(input_path, openlyrics_dir, title)
             has_media = media_extracted is not None
         
         log.log(filename, "SUCCESS", has_media=has_media, media_extracted=media_extracted,

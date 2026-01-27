@@ -3,6 +3,14 @@
 
 The convert_to_openlyrics.py script converts PowerPoint presentations (`.pptx`, `.ppt`, `.odp`) containing song lyrics into **OpenLyrics 0.8 XML** format for use in projection applications like FreeShow.
 
+**Key Features**:
+- Recursive text extraction from group shapes
+- Automatic case normalization (all-caps to sentence case)
+- Organized output with separate folders for raw text and XML
+- Comprehensive header/footer filtering
+- Chorus auto-detection from repeated blocks
+- Media extraction support
+
 ---
 
 ## Architecture
@@ -11,12 +19,14 @@ The convert_to_openlyrics.py script converts PowerPoint presentations (`.pptx`, 
 ┌─────────────────┐     ┌──────────────────┐     ┌─────────────────┐
 │  Input Files    │────▶│  Text Extraction │────▶│  Block Parsing  │
 │ .pptx/.ppt/.odp │     │  & Cleaning      │     │  (verse/chorus) │
+│  (incl. groups) │     │  (case norm.)    │     │  (auto-detect)  │
 └─────────────────┘     └──────────────────┘     └─────────────────┘
                                                           │
                                                           ▼
 ┌─────────────────┐     ┌──────────────────┐     ┌─────────────────┐
 │  Output Files   │◀────│  XML Generation  │◀────│  Deduplication  │
 │  .xml + audio   │     │  OpenLyrics 0.8  │     │  & Renumbering  │
+│  + raw .txt     │     │                  │     │                 │
 └─────────────────┘     └──────────────────┘     └─────────────────┘
 ```
 
@@ -104,6 +114,7 @@ def clean_text(text: str) -> str:
     # 2. Strip ASCII control chars (0x00-0x1F, 0x7F)
     # 3. Collapse multiple newlines to max 2
     # 4. Trim trailing spaces per line
+    # 5. Convert all-uppercase lines to sentence case
 ````
 
 **Transformations**:
@@ -114,6 +125,7 @@ def clean_text(text: str) -> str:
 | `\f` (form feed) | `\n` |
 | `\r` (carriage return) | `\n` |
 | `\n\n\n\n` | `\n\n` |
+| `TU SEI SANTO` | `Tu sei santo` |
 
 ---
 
@@ -158,7 +170,13 @@ def extract_text_from_pptx(pptx_path: Path) -> list[list[str]]:
             if shape.has_text_frame:
                 for paragraph in shape.text_frame.paragraphs:
                     # Extract text from each run
+            elif hasattr(shape, 'shapes'):  # Group shape support
+                # Recursively extract from grouped shapes
 ````
+
+**Enhanced Features**:
+- **Group Shape Support**: Recursively extracts text from shapes nested inside group elements (common in complex PPTX layouts)
+- **Comprehensive Coverage**: Handles all text-containing shapes, including those in groups
 
 **Return structure**:
 ```python
@@ -420,7 +438,24 @@ python convert_to_openlyrics.py "C:\path\to\songs"
 
 ---
 
-## Processing Example
+## Recent Features
+
+### Group Shape Support
+- **Problem**: Some PPTX files use grouped shapes where text elements are nested inside group containers
+- **Solution**: Recursive text extraction that handles group shapes (`hasattr(shape, 'shapes')`)
+- **Benefit**: Captures text from complex slide layouts that were previously missed
+
+### Case Normalization
+- **Problem**: Lyrics in all caps (e.g., `TU SEI SANTO`) are harder to read
+- **Solution**: Automatic conversion of all-uppercase lines to sentence case (`Tu sei santo`)
+- **Benefit**: Improved readability of generated OpenLyrics XML
+
+### Enhanced Output Organization
+- **Raw Text Files**: Debug-friendly text files showing extracted content per slide
+- **Structured Folders**: Separate `raw text/` and `openlyrics/` subfolders for better organization
+- **Media Extraction**: Audio files now extracted to the `openlyrics/` folder alongside XML
+
+---
 
 **Input**: `47 - Camminando.pptx`
 
@@ -475,9 +510,13 @@ python convert_to_openlyrics.py "C:\path\to\songs"
 input_folder/
 ├── 47 - Camminando.pptx
 ├── 10 CANTO PER CRISTO.pptx
-└── openLyrics/                    ◀── Output subfolder
-    ├── Camminando.xml
-    ├── Canto Per Cristo.xml
-    ├── Song Title.mp3             ◀── Extracted audio (if any)
-    └── conversion_log.txt         ◀── Processing log
+└── output/                          ◀── Output base folder
+    ├── raw text/                    ◀── Raw extracted text files
+    │   ├── Camminando.txt
+    │   └── Canto Per Cristo.txt
+    ├── openlyrics/                  ◀── OpenLyrics XML and media
+    │   ├── Camminando.xml
+    │   ├── Canto Per Cristo.xml
+    │   └── Song Title.mp3           ◀── Extracted audio (if any)
+    └── conversion_log.txt           ◀── Processing log
 ```
