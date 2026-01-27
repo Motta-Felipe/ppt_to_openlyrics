@@ -436,6 +436,15 @@ python convert_to_openlyrics.py
 python convert_to_openlyrics.py "C:\path\to\songs"
 ```
 
+### Environment Variables
+
+The script supports the following environment variables for configuration:
+
+- **`PPT_REMOVE_NUMBER_PREFIX`**: Controls whether to remove leading numbers from filenames
+  - **Default**: `true` (removes numbers like "47 - " from "47 - Camminando.pptx")
+  - **Values**: Set to `false`, `0`, `no`, or `off` to keep numbers in titles
+  - **Example**: `PPT_REMOVE_NUMBER_PREFIX=false python convert_to_openlyrics.py`
+
 ---
 
 ## Recent Features

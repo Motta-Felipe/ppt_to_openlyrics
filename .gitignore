@@ -1,4 +1,5 @@
 input/
+input_done/
 .venv/
 __pycache__/
 *.pyc

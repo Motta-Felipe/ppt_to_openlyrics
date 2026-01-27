@@ -13,6 +13,7 @@ import zipfile
 import shutil
 import subprocess
 import tempfile
+import unicodedata
 from pathlib import Path
 from datetime import datetime
 from xml.sax.saxutils import escape as xml_escape
@@ -143,7 +144,9 @@ def clean_text(text: str) -> str:
 
 def extract_title_from_filename(filename: str) -> tuple[str, list[str]]:
     """
-    Extract song title from filename, stripping leading numbers and separators.
+    Extract song title from filename, optionally stripping leading numbers and separators.
+    Controlled by PPT_REMOVE_NUMBER_PREFIX environment variable.
+    If set to 'false', '0', 'no', or 'off' (case insensitive), numbers are kept.
     Returns the title in Title Case and a list of changes made.
     """
     changes = []
@@ -152,12 +155,16 @@ def extract_title_from_filename(filename: str) -> tuple[str, list[str]]:
     name = Path(filename).stem
     original_name = name
     
-    # Remove leading numbers and separators
-    number_match = TITLE_NUMBER_PATTERN.match(name)
-    if number_match:
-        removed_prefix = number_match.group(0)
-        name = TITLE_NUMBER_PATTERN.sub('', name)
-        changes.append(f"Removed number prefix: '{removed_prefix.strip()}'")
+    # Check environment variable for number prefix removal
+    remove_number_prefix = os.getenv('PPT_REMOVE_NUMBER_PREFIX', 'true').lower() not in ('false', '0', 'no', 'off')
+    
+    # Remove leading numbers and separators (if enabled)
+    if remove_number_prefix:
+        number_match = TITLE_NUMBER_PATTERN.match(name)
+        if number_match:
+            removed_prefix = number_match.group(0)
+            name = TITLE_NUMBER_PATTERN.sub('', name)
+            changes.append(f"Removed number prefix: '{removed_prefix.strip()}'")
     
     # Remove trailing underscores
     if name.endswith('_'):
@@ -283,31 +290,17 @@ def is_header_footer(text: str, title: str, all_slides_text: list[list[str]],
                      filtered_items: list = None) -> bool:
     """
     Check if text is a header/footer that should be ignored.
-    Only filters out church names, repeated titles, and very short standalone headers.
+    Only filters out church names and very short standalone headers.
     Does NOT filter out repeated lyric phrases (like refrains within verses).
+    Title filtering is handled separately in parse_slides_to_blocks.
     If filtered_items list is provided, appends the reason for filtering.
     """
     text_stripped = text.strip()
-    text_lower = text_stripped.lower()
     
     # Church name filter
     if CHURCH_FILTER_PATTERN.search(text_stripped):
         if filtered_items is not None:
             filtered_items.append(f"Removed church name header: '{text_stripped}'")
-        return True
-    
-    # Check if it's the title repeated
-    title_lower = title.lower()
-    if text_lower == title_lower:
-        if filtered_items is not None:
-            filtered_items.append(f"Removed repeated title: '{text_stripped}'")
-        return True
-    
-    # Check for numbered title pattern (e.g., "47 - Là nel ciel...")
-    title_match = TITLE_NUMBER_PATTERN.sub('', text_stripped).strip().lower()
-    if title_match == title_lower:
-        if filtered_items is not None:
-            filtered_items.append(f"Removed numbered title header: '{text_stripped}'")
         return True
     
     # Only filter very short text (<=3 words) that appears on most slides as standalone
@@ -335,6 +328,93 @@ def is_header_footer(text: str, title: str, all_slides_text: list[list[str]],
     return False
 
 
+def _normalize_for_title_comparison(text: str) -> str:
+    """Normalize text for title comparison (unicode, apostrophes, whitespace)."""
+    import re
+    normalized = unicodedata.normalize('NFKD', text.lower())
+    # Remove all types of apostrophes, quotes, and similar characters
+    normalized = re.sub(r"[''`'ʼʻˈˊ\u0027\u2019\u2018\u02BC\u02BB\u0060\u00B4]", '', normalized)
+    normalized = re.sub(r'[""„‟\u0022\u201C\u201D\u201E\u201F]', '', normalized)
+    return ' '.join(normalized.split())
+
+
+def _check_if_all_slides_have_title_first(slides_text: list[list[str]], title: str) -> bool:
+    """
+    Check if ALL slides have the title as the first line (isolated).
+    Returns True if all slides start with the title.
+    """
+    if not slides_text:
+        return False
+    
+    title_normalized = _normalize_for_title_comparison(title)
+    title_no_number = _normalize_for_title_comparison(TITLE_NUMBER_PATTERN.sub('', title).strip())
+    
+    for slide_texts in slides_text:
+        if not slide_texts:
+            return False  # Empty slide means not all have title
+        
+        # Get the first text block of the slide
+        first_block = slide_texts[0]
+        first_block_clean = clean_text(first_block)
+        lines = [l.strip() for l in first_block_clean.split('\n') if l.strip()]
+        
+        if not lines:
+            return False  # No lines means not all have title
+        
+        first_line = lines[0]
+        first_line_normalized = _normalize_for_title_comparison(first_line)
+        first_line_no_number = _normalize_for_title_comparison(TITLE_NUMBER_PATTERN.sub('', first_line).strip())
+        
+        # Check if first line matches title (with or without number)
+        is_title = (first_line_normalized == title_normalized or 
+                   first_line_no_number == title_no_number and first_line_no_number)
+        
+        if not is_title:
+            return False
+    
+    return True
+
+
+def _is_title_line(line: str, title: str, is_first_line: bool, is_isolated: bool,
+                   all_slides_have_title: bool, slide_index: int, filtered_items: list = None) -> bool:
+    """
+    Check if a line is a title that should be filtered.
+    
+    Rules:
+    1. Must be the first line of the slide
+    2. Must be isolated (not immediately followed by another line)
+    3. From slide 2 onwards, only filter if ALL slides have title as first line
+    """
+    if not is_first_line:
+        return False
+    
+    if not is_isolated:
+        return False
+    
+    # For slides after the first, only filter if all slides have the title
+    if slide_index > 0 and not all_slides_have_title:
+        return False
+    
+    title_normalized = _normalize_for_title_comparison(title)
+    title_no_number = _normalize_for_title_comparison(TITLE_NUMBER_PATTERN.sub('', title).strip())
+    
+    line_normalized = _normalize_for_title_comparison(line)
+    line_no_number = _normalize_for_title_comparison(TITLE_NUMBER_PATTERN.sub('', line).strip())
+    
+    # Check if line matches title (with or without number prefix)
+    if line_normalized == title_normalized:
+        if filtered_items is not None:
+            filtered_items.append(f"Removed title from slide {slide_index + 1}: '{line}'")
+        return True
+    
+    if line_no_number == title_no_number and line_no_number:
+        if filtered_items is not None:
+            filtered_items.append(f"Removed numbered title from slide {slide_index + 1}: '{line}'")
+        return True
+    
+    return False
+
+
 def parse_slides_to_blocks(slides_text: list[list[str]], title: str, 
                            changes: list = None) -> list[dict]:
     """
@@ -350,7 +430,10 @@ def parse_slides_to_blocks(slides_text: list[list[str]], title: str,
     verse_markers_found = []
     chorus_labels_found = []
     
-    for slide_texts in slides_text:
+    # Pre-check: do all slides have the title as first isolated line?
+    all_slides_have_title = _check_if_all_slides_have_title_first(slides_text, title)
+    
+    for slide_index, slide_texts in enumerate(slides_text):
         # Combine all text blocks from this slide
         combined_text = '\n'.join(slide_texts)
         combined_text = clean_text(combined_text)
@@ -359,17 +442,50 @@ def parse_slides_to_blocks(slides_text: list[list[str]], title: str,
             continue
         
         lines = combined_text.split('\n')
+        non_empty_lines = [l.strip() for l in lines if l.strip()]
         filtered_lines = []
         current_is_chorus = False
         explicit_verse_num = None
+        is_first_content_line = True  # Track if this is the first content line of the slide
         
-        for line in lines:
+        line_position_in_original = 0
+        for line_index, line in enumerate(lines):
             line_stripped = line.strip()
             
             if not line_stripped:
+                line_position_in_original += 1
                 continue
             
-            # Check for header/footer
+            # Check if this line is isolated (first line with a blank line after it, or only line)
+            is_isolated = False
+            if is_first_content_line:
+                if len(non_empty_lines) == 1:
+                    # Only one line on the whole slide - it's isolated
+                    is_isolated = True
+                else:
+                    # Check if there's a blank line immediately after this first content line
+                    if line_position_in_original + 1 < len(lines) and not lines[line_position_in_original + 1].strip():
+                        is_isolated = True
+                    # Also check if title is in its own text block
+                    elif slide_texts:
+                        first_block_clean = clean_text(slide_texts[0])
+                        first_block_lines = [l.strip() for l in first_block_clean.split('\n') if l.strip()]
+                        if len(first_block_lines) == 1:
+                            is_isolated = True
+            
+            line_position_in_original += 1
+            
+            # Check for title line (new logic)
+            if is_first_content_line and _is_title_line(
+                line_stripped, title, is_first_content_line, is_isolated,
+                all_slides_have_title, slide_index, filtered_items
+            ):
+                is_first_content_line = False
+                continue
+            
+            is_first_content_line = False
+            
+            # Check for header/footer (excluding title - that's handled above)
             if is_header_footer(line_stripped, title, slides_text, filtered_items):
                 continue
             
@@ -694,12 +810,14 @@ def main():
     """Main entry point."""
     input_base = Path("input")
     output_base = Path("output")
+    input_done = Path("input_done")
     
     if not input_base.exists():
         print("Error: input folder not found")
         sys.exit(1)
     
     output_base.mkdir(exist_ok=True)
+    input_done.mkdir(exist_ok=True)
     
     total_success = 0
     total_skip = 0
@@ -739,6 +857,13 @@ def main():
         print(f"  Folder {subfolder.name}: {success_count} success, {skip_count} skipped")
         print()
         
+        # Move processed folder to input_done
+        try:
+            shutil.move(str(subfolder), str(input_done / subfolder.name))
+            print(f"  Moved folder '{subfolder.name}' to input_done")
+        except Exception as e:
+            print(f"  Warning: Could not move folder '{subfolder.name}' to input_done: {e}")
+        
         total_success += success_count
         total_skip += skip_count
     
@@ -768,6 +893,12 @@ def main():
             if convert_file(ppt_file, output_folder, log):
                 success_count += 1
                 print("    [OK] Converted successfully")
+                # Move processed file to input_done
+                try:
+                    shutil.move(str(ppt_file), str(input_done / ppt_file.name))
+                    print(f"    Moved file '{ppt_file.name}' to input_done")
+                except Exception as e:
+                    print(f"    Warning: Could not move file '{ppt_file.name}' to input_done: {e}")
             else:
                 skip_count += 1
                 print("    [SKIP] Skipped or failed")
