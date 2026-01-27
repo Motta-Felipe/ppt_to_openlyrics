@@ -200,7 +200,7 @@ def extract_text_from_pptx(pptx_path: Path) -> list[list[str]]:
         if shape.has_text_frame:
             text_parts = []
             for paragraph in shape.text_frame.paragraphs:
-                para_text = ''.join(run.text for run in paragraph.runs)
+                para_text = paragraph.text
                 if para_text.strip():
                     text_parts.append(para_text)
             if text_parts:
@@ -583,7 +583,9 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
                 for i, slide in enumerate(slides_text, 1):
                     f.write(f"Slide {i}:\n")
                     for block in slide:
-                        f.write(block + "\n")
+                        # Replace vertical tabs with newlines for better readability
+                        clean_block = block.replace('\v', '\n')
+                        f.write(clean_block + "\n")
                     f.write("\n")
         elif input_path.suffix.lower() in {'.ppt', '.odp'}:
             # Legacy PPT or ODP - convert using LibreOffice first
@@ -612,7 +614,9 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
                     for i, slide in enumerate(slides_text, 1):
                         f.write(f"Slide {i}:\n")
                         for block in slide:
-                            f.write(block + "\n")
+                            # Replace vertical tabs with newlines for better readability
+                            clean_block = block.replace('\v', '\n')
+                            f.write(clean_block + "\n")
                         f.write("\n")
                 
                 if not slides_text:
