@@ -186,6 +186,22 @@ def extract_text_from_pptx(pptx_path: Path) -> list[list[str]]:
     """
     Extract text from PPTX file, returning list of slides, each slide is a list of text blocks.
     """
+    def extract_text_from_shape(shape) -> list[str]:
+        """Recursively extract text from a shape, including group shapes."""
+        texts = []
+        if shape.has_text_frame:
+            text_parts = []
+            for paragraph in shape.text_frame.paragraphs:
+                para_text = ''.join(run.text for run in paragraph.runs)
+                if para_text.strip():
+                    text_parts.append(para_text)
+            if text_parts:
+                texts.append('\n'.join(text_parts))
+        elif hasattr(shape, 'shapes'):  # Group shape
+            for sub_shape in shape.shapes:
+                texts.extend(extract_text_from_shape(sub_shape))
+        return texts
+    
     slides_text = []
     
     try:
@@ -195,15 +211,7 @@ def extract_text_from_pptx(pptx_path: Path) -> list[list[str]]:
             slide_texts = []
             
             for shape in slide.shapes:
-                if shape.has_text_frame:
-                    text_parts = []
-                    for paragraph in shape.text_frame.paragraphs:
-                        para_text = ''.join(run.text for run in paragraph.runs)
-                        if para_text.strip():
-                            text_parts.append(para_text)
-                    
-                    if text_parts:
-                        slide_texts.append('\n'.join(text_parts))
+                slide_texts.extend(extract_text_from_shape(shape))
             
             if slide_texts:
                 slides_text.append(slide_texts)
@@ -573,6 +581,15 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
                     except Exception:
                         log.log(filename, "SKIPPED", notes="LibreOffice conversion failed and direct extraction not possible")
                         return False
+                
+                # Write raw extracted text to txt file for debugging
+                raw_txt_path = output_dir / f"{title}_raw.txt"
+                with open(raw_txt_path, 'w', encoding='utf-8') as f:
+                    for i, slide in enumerate(slides_text, 1):
+                        f.write(f"Slide {i}:\n")
+                        for block in slide:
+                            f.write(block + "\n")
+                        f.write("\n")
                 
                 if not slides_text:
                     log.log(filename, "SKIPPED", notes="No text content found after conversion")
