@@ -645,54 +645,96 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
 
 def main():
     """Main entry point."""
-    # Determine input folder
-    if len(sys.argv) > 1:
-        input_folder = Path(sys.argv[1])
-    else:
-        input_folder = Path(r"c:\ppt_songs\1. Canti SDS - Chiesa Viva")
+    input_base = Path("input")
+    output_base = Path("output")
     
-    # Output folder - create openLyrics subfolder
-    output_folder = input_folder / "openLyrics"
-    output_folder.mkdir(exist_ok=True)
-    
-    if not input_folder.exists():
-        print(f"Error: Input folder not found: {input_folder}")
+    if not input_base.exists():
+        print("Error: input folder not found")
         sys.exit(1)
     
-    # Initialize log
-    log = ConversionLog(output_folder / "conversion_log.txt")
+    output_base.mkdir(exist_ok=True)
     
-    # Find all presentation files
+    total_success = 0
+    total_skip = 0
+    
+    for subfolder in sorted(input_base.iterdir()):
+        if not subfolder.is_dir():
+            continue
+        
+        output_folder = output_base / subfolder.name
+        output_folder.mkdir(exist_ok=True)
+        
+        log = ConversionLog(output_folder / "conversion_log.txt")
+        
+        ppt_files = []
+        for ext in SUPPORTED_EXTENSIONS:
+            ppt_files.extend(subfolder.glob(f"*{ext}"))
+        
+        ppt_files.sort(key=lambda p: p.name.lower())
+        
+        print(f"Processing folder: {subfolder.name}")
+        print(f"Found {len(ppt_files)} presentation files")
+        print("-" * 40)
+        
+        success_count = 0
+        skip_count = 0
+        
+        for ppt_file in ppt_files:
+            print(f"  Processing: {ppt_file.name}")
+            
+            if convert_file(ppt_file, output_folder, log):
+                success_count += 1
+                print("    [OK] Converted successfully")
+            else:
+                skip_count += 1
+                print("    [SKIP] Skipped or failed")
+        
+        print(f"  Folder {subfolder.name}: {success_count} success, {skip_count} skipped")
+        print()
+        
+        total_success += success_count
+        total_skip += skip_count
+    
+    # Also process any files directly in input_base
     ppt_files = []
     for ext in SUPPORTED_EXTENSIONS:
-        ppt_files.extend(input_folder.glob(f"*{ext}"))
+        ppt_files.extend(f for f in input_base.iterdir() if f.is_file() and f.suffix.lower() == ext)
     
-    ppt_files.sort(key=lambda p: p.name.lower())
-    
-    print(f"Found {len(ppt_files)} presentation files to convert")
-    print(f"Output folder: {output_folder}")
-    print("-" * 50)
-    
-    success_count = 0
-    skip_count = 0
-    error_count = 0
-    
-    for i, ppt_file in enumerate(ppt_files, 1):
-        print(f"[{i}/{len(ppt_files)}] Processing: {ppt_file.name}")
+    if ppt_files:
+        output_folder = output_base / "root_files"
+        output_folder.mkdir(exist_ok=True)
         
-        if convert_file(ppt_file, output_folder, log):
-            success_count += 1
-            print(f"  [OK] Converted successfully")
-        else:
-            # Check log for reason
-            skip_count += 1
-            print(f"  [SKIP] Skipped or failed")
+        log = ConversionLog(output_folder / "conversion_log.txt")
+        
+        ppt_files.sort(key=lambda p: p.name.lower())
+        
+        print(f"Processing root files")
+        print(f"Found {len(ppt_files)} presentation files")
+        print("-" * 40)
+        
+        success_count = 0
+        skip_count = 0
+        
+        for ppt_file in ppt_files:
+            print(f"  Processing: {ppt_file.name}")
+            
+            if convert_file(ppt_file, output_folder, log):
+                success_count += 1
+                print("    [OK] Converted successfully")
+            else:
+                skip_count += 1
+                print("    [SKIP] Skipped or failed")
+        
+        print(f"  Root files: {success_count} success, {skip_count} skipped")
+        print()
+        
+        total_success += success_count
+        total_skip += skip_count
     
     print("-" * 50)
-    print(f"Conversion complete!")
-    print(f"  Success: {success_count}")
-    print(f"  Skipped/Errors: {skip_count}")
-    print(f"  Log file: {output_folder / 'conversion_log.txt'}")
+    print("Conversion complete!")
+    print(f"  Total Success: {total_success}")
+    print(f"  Total Skipped/Errors: {total_skip}")
 
 
 if __name__ == "__main__":

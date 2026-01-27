@@ -66,6 +66,8 @@ Conversion Log
   - If media was extracted (and to what filename).
   - Any errors or notes (e.g., skipped due to existing audio, failed extraction).
 
+Always update this agent_instructions and the README.md when changes are made to the conversion process.
+
 References
 - OpenLyrics repository: https://github.com/openlyrics/openlyrics/tree/master
 - OpenLyrics RelaxNG XML schema: https://github.com/openlyrics/openlyrics/blob/master/openlyrics-0.9.rng
