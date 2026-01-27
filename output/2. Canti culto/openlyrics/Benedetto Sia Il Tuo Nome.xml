@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Benedetto Sia Il Tuo Nome</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Padre nostro<br />noi ti amiamo<br />il Tuo nome innalziamo<br />venga presto il tuo regno<br />grandi opere tu fai</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Dio Santo ed Onnipotente<br />per sempre regnerai</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Padre nostro<br />noi ti amiamo<br />il Tuo nome innalziamo<br />venga presto il tuo regno<br />grandi opere tu fai</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dio Santo ed Onnipotente<br />per sempre regnerai<br />(♪♪♪)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dio Santo ed Onnipotente<br />per sempre regnerai<br />per sempre regnerai</lines>
+    </verse>
+  </lyrics>
+</song>

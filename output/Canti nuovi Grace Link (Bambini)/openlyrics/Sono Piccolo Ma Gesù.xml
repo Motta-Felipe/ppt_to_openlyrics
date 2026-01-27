@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Sono Piccolo Ma Gesù</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sono piccolo ma gesu’</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sono piccolo ma Gesù,<br />sempre qui accanto a me<br />Lui mai mi abbandonerà.<br />Sono piccola ma Gesù,<br />sempre qui accanto a me<br />pace mi donerà.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quando guardo un bel fiore,<br />sorrido al brillante sole.<br />Gli parlo del Suo grande amor<br />Lui gli ha dato il colore<br />e la vita e lo splendore<br />Che amore ha il mio Gesù.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sono piccolo ma Gesù,<br />sempre qui accanto a me<br />Lui mai mi abbandonerà.<br />Sono piccola ma Gesù,<br />sempre qui accanto a me<br />pace mi donerà.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quando guardo un uccellino,<br />che vola verso il sole<br />gli parlo del suo grande amor.<br />Ha creato a lui le ali<br />e libero può volare.<br />Meraviglioso è Gesù.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sono piccolo ma Gesù,<br />sempre qui accanto a me<br />Lui mai mi abbandonerà<br />Sono piccola ma Gesù,<br />sempre qui accanto a me<br />pace mi donerà.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Gloria, Gloria, Alleluia</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abbiam trovato in Gesù la verità<br />che nessun uomo potrà<br />mai calpestar.<br />Abbiam trovato vita, luce, libertà<br />la gloria del Signor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Il Cristo vincerà<br />(♪♪♪)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chi Gesù Cristo accetterà<br />con tutto il cuor<br />ed avrà coraggio di<br />seguir la verità.<br />Chi proclamerà la salvezza<br />del Signor<br />La vita eterna avrà.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Il Cristo vincerà<br />(♪♪♪)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chiunque soffrirà,<br />col Cristo sempre regnerà<br />E’ la sua promessa<br />che mai meno verrà.<br />Il suo messaggio di potenza<br />e verità<br />giammai cesserà.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Il Cristo vincerà (bis)</lines>
+    </verse>
+  </lyrics>
+</song>

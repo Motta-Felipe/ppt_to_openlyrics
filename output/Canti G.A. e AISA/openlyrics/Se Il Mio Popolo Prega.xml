@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Se Il Mio Popolo Prega</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Se il mio popoloprega</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se il mio popolo che ha il mio nome si umilia,<br />prega ognor.<br />Se la gente<br />si pentirà<br />del loro peccato</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Io li ascolterò e li perdonerò, sanerò la terra, con le sue feriteIo mi alzerò per difenderli,</lines>
+    </verse>
+    <verse name="c2">
+      <lines>difenderò coloro che portano<br />il mio nome.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se tu cerchi<br />il mio volto ed anche<br />le mie mani<br />Se tu preghi<br />per il tuo prossimo<br />e non per cose vane</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Io li ascolterò e li perdonerò, sanerò la terra, con le sue feriteIo mi alzerò per difenderli,</lines>
+    </verse>
+    <verse name="c2">
+      <lines>difenderò coloro che portano<br />il mio nome.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Io ti ricorderò sempre le promesse,odo le preghiere sanerò la terra,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Io sarò con voiin ogni momento,perché il mio popolchiede un cuore nuovo</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nel nome di Gesù(x 3)</lines>
+    </verse>
+  </lyrics>
+</song>

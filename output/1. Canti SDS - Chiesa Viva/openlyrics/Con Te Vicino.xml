@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Con Te Vicino</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Se tu sei con me io non avro’ mai piu’ paura<br />Si questa vita e’ un’avventura ma.. io la vivro’ con te.<br />Se tu sei con me arrivero’ fino alla sera<br />Contenta/o di essere quel che sono<br />Con te vicino, con te vicino a me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E nuovi sogni nuovi orizzonti<br />Sul mio cammino insieme a te<br />Io non mi arrendo, io non mi vendo<br />A questo mondo che non va<br />E la mia fede nuova forza mi dara’<br />E la speranza mi rendera’ libero… libera!!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se tu sei con me io non avro’ mai piu’ paura<br />Si questa vita e’ un’avventura ma.. io la vivro’ con te.<br />Se tu sei con me arrivero’ fino alla sera<br />Contenta/o di essere quel che sono<br />Con te vicino, con te vicino a me..<br />Con te vicino, con te vicino a me!!</lines>
+    </verse>
+  </lyrics>
+</song>

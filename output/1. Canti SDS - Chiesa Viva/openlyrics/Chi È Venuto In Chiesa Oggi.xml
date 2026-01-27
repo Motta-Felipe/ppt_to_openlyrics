@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Chi È Venuto In Chiesa Oggi</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Chi è venuto in chiesa oggi: Isacco, Isacco, chi è venuto in chiesa oggi Isacco.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Benvenuto sia tu, Isacco, Isacco, benvenuto sia tu Isacco.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chi è venuto in chiesa oggi: Isacco, Isacco, chi è venuto in chiesa oggi Isacco.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Benvenuto sia tu, Isacco, Isacco, benvenuto sia tu Isacco.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chi è venuto in chiesa oggi: Isacco, Isacco, chi è venuto in chiesa oggi Isacco.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Benvenuto sia tu, Isacco, Isacco, benvenuto sia tu Isacco.</lines>
+    </verse>
+  </lyrics>
+</song>

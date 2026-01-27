@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Sei Tu La Mia Vita</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sei tu la mia vita,<br />Sei tu la mia forza,<br />La mia speranza,<br />Sei tu, oh Signor! (x2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E con tutto il mio cuor loderò.<br />E con tutta la forza amerò.<br />Il mio grande Iddio, il mio Salvator!<br />Solo in Gesù spererò!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sei tu la mia vita,<br />Sei tu la mia forza,<br />La mia speranza,<br />Sei tu, oh Signor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sei tu la mia vita,<br />Sei tu la mia forza,<br />La mia speranza,<br />Sei tu, oh Signor!<br />Gesù…</lines>
+    </verse>
+  </lyrics>
+</song>

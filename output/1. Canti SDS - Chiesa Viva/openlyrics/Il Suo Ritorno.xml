@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Il Suo Ritorno</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Voglio essere pronto quel giorno<br />Quando lo vedro’ tornare<br />Per portarmi via.<br />Sopra una bianca nuvola<br />Scendera’ gesu’ dal cielo<br />Insieme agli angeli</lines>
+    </verse>
+    <verse name="c1">
+      <lines>E in un battito di ciglio me ne andro’<br />Lascero’ ogni cosa e lo vedro’<br />Faccia a faccia com’e’,<br />Faccia a faccia com’e’<br />E lo adorero’, ai suoi piedi io cadro’<br />Vorro’ ammirare solo il suo splendore<br />Per l’eternita’.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Voglio essere pronto quel giorno<br />Quando bussera’ alla porta<br />Il mio gesu’.<br />L’olio sara’ nella mia lampada<br />E una veste bianca e pura<br />Per lui avro’.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>E in un battito di ciglio me ne andro’<br />Lascero’ ogni cosa e lo vedro’<br />Faccia a faccia com’e’,<br />Faccia a faccia com’e’<br />E lo adorero’, ai suoi piedi io cadro’<br />Vorro’ ammirare solo il suo splendore<br />Per l’eternita’.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lo vedro’<br />Si, lo vedro’.</lines>
+    </verse>
+  </lyrics>
+</song>

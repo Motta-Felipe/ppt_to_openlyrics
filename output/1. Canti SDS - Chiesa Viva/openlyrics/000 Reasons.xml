@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>000 Reasons</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Benedici il Signor oh anima mia, adora il nome suo.<br />Canta come non hai fatto mai,<br />Il Tuo nome adorerò.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>È un nuovo dì, sta sorgendo il Sole.<br />È tempo di cantare a Te!<br />Qualcosa andrà via e qualcosa avrò davanti,<br />Ma fino a sera ancora canterò.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Bendecid al Señor alma mía,<br />tu nombre santo alabar.Canta como nunca o mi alma,<br />Tu nombre alabare.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tienes tanto amor y eres tan paciente.Tu nombre es grande y tu corazón!Porque eres bueno, seguiré cantando,10 000 razones para adorar.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Bless the Lord oh my soul, oh my soul.Worship His holy name,Sing like never before, oh my soul,I'll worship Your holy name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And on that day when my strength is failing,The end draws near and my time has come!Still my soul will sing Your praise unending,Ten thousand years and then forevermore.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Benedici il Signor oh anima mia, adora il nome suo.<br />Canta come non hai fatto mai,<br />Il Tuo nome adorerò. (x2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tu nombre alabare,<br />I’ll worship Your holy name,<br />Il Tuo nome adorerò.</lines>
+    </verse>
+  </lyrics>
+</song>

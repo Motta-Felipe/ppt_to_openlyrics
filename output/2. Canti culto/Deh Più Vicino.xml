@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Deh Più Vicino</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deh, più vicino sempre al tuo cuor,<br />trammi o divino mio redentor!<br />Nell'amoroso dolce tuo sen<br />pace e riposo donami appien,<br />pace e riposo donami appien.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Poi che prostrato dinanzi a te,<br />del mio passato chiedo mercé.<br />Tu, questo frale, contrito cuor,<br />salva dal male, salva o Signor,<br />salva dal male, salva o Signor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Prendi il mio cuore, o mio Signor,<br />donami amore e fede ognor.<br />Lo sguardo ho fisso verso di te<br />che crocifisso fosti per me,<br />che crocifisso fosti per me!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Il Tuo Amore Annuncerò</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ogni vento, ogni colore,<br />Che l’arcobaleno ha.<br />Ogni sogno dentro me, al vero amore mi riporterà.<br />Le parole di ogni storia, ogni stella di lassù,<br />Ogni angolo creato, parlerà di Te.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fino a quando vita avrò,<br />il Tuo amore annuncerò,<br />Sarò fedele nel silenzio se parlare non potrò.<br />Finchè respiro avrò,<br />di cuore Dio ringrazierò,<br />Fino a quando vita avrò il tuo amore annuncerò.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dai monti alle valli,<br />Ogni fiume al mare va.<br />Ogni mano che si da, porta pace in dono a chi non ne ha.<br />Ogni semplice preghiera, ogni gesto di bontà,<br />La speranza in ogni cuore, parlerà di Te.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>For as long as I shall live,<br />I will testify to love,<br />I’ll be a witness in the silences when words are not enough.<br />With every breath I take,<br />I will give thanks to God above,<br />For as long as I shall live I will testify to love.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fino a quando vita avrò,<br />il Tuo amore annuncerò,<br />Sarò fedele nel silenzio se parlare non potrò.<br />Finchè respiro avrò,<br />di cuore Dio ringrazierò,<br />Fino a quando vita avrò il tuo amore annuncerò.</lines>
+    </verse>
+  </lyrics>
+</song>

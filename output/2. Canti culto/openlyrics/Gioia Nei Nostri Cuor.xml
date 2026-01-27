@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Gioia Nei Nostri Cuor</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gioia nei nostri cuor,<br />la lode sia al Signor!<br />Il Salvatore del mondo verrà<br />dal cielo tornerà.<br />Per prenderci con sé,<br />condurci su nel ciel:<br />con Lui vivremo nella pace,<br />per l’eternità.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lodiamo il Redentor,<br />la gloria sia al Signor!<br />Sul legno un dì per me s’immolò<br />e il Padre Lo innalzò.<br />Sì, presto tornerà<br />e il premio a noi darà:<br />con Lui saremo nella gioia<br />per l’eternità.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lodiamo il Salvator,<br />L’onore sia al Signor<br />Il suo amore a noi donò<br />E Cristo ci salvò<br />Insieme noi sarem,<br />Uniti al Re dei Re<br />Con Lui avremo la vittoria<br />Per l’eternità</lines>
+    </verse>
+  </lyrics>
+</song>

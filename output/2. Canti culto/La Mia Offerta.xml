@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>La Mia Offerta</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ti porto la mia offerta,<br />l’offerta che dò<br />a Gesù con amor.<br />L’offerta che<br />porto a Cristo,<br />con grande gioia la dò.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ti porto Gesù il mio dono,<br />con il mio cuore<br />mi affido a Te.<br />L’offerta che<br />porto a Cristo,<br />con grande amore la dò.</lines>
+    </verse>
+  </lyrics>
+</song>

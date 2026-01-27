@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Mi Piace Raccontare La Storia Di Gesù</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mi piace raccontare la storia di gesu’</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mi piace raccontare<br />la storia di lassù<br />di Gesù e della gloria,<br />di Gesù e del suo amor<br />mi piace raccontare, la vera storia<br />Lui soddisfa il mio cuore<br />come nessuno può far</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mi piace raccontare<br />la storia di Gesù<br />per sempre parlerò<br />di Gesù e del suo amor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mi piace raccontare<br />l’amor del mio Gesù<br />meraviglioso è Lui, prezioso come l’or.<br />Mi piace raccontare<br />come Lui morì per me<br />ogni giorno parlerò<br />di come mi salvò</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mi piace raccontare<br />la storia di Gesù<br />per sempre parlerò<br />di Gesù e del suo amor</lines>
+    </verse>
+    <verse name="v4">
+      <lines>per sempre canterò<br />il suo dolce amor<br />della salvezza che donò<br />a tutti i peccator</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mi piace raccontare<br />la storia di Gesù<br />per sempre parlerò<br />di Gesù e del suo amor</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mi piace raccontare<br />la gloria di Gesù<br />chi ascolterà e crederà<br />in cielo con Lui andrà<br />un nuovo canto innalzo<br />io amo il mio Signor<br />per sempre canterò<br />la storia del suo amor</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mi piace raccontare<br />la storia di Gesù<br />per sempre parlerò<br />di Gesù e del suo amor<br />(x 2)</lines>
+    </verse>
+  </lyrics>
+</song>

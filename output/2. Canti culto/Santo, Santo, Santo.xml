@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Santo, Santo, Santo</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>è Dio, il Signorecreator del mondo,<br />l’Iddio d’eternità.Santo, Santo, Santo<br />il Signor del cieloche dona all’uomo vita e santità.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>è il divino Figliosanto e puro Agnello<br />che in croce s’immolò.Santo, Santo, Santo<br />è il mio Redentoreche un dì nel cielo<br />io contemplerò.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spirto divino,tu Consolatore<br />che parli al nostro cuor.Santo, Santo, Santo<br />tu col Padre e il Figlioriveli all’uomo il divino amor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Santo, Santo, Santo l’Onnipotenteil celeste Padre<br />il Figlio redentor.Santo, Santo, Santo<br />è il Consolatoreche di speranza<br />colma i nostri cuor</lines>
+    </verse>
+  </lyrics>
+</song>

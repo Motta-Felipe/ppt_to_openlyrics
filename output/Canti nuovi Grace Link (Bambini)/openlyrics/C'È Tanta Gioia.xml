@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>C'È Tanta Gioia</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C’e’ tanta gioia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>C’è tanta gioia, gioia, gioia, gioia,<br />gioia nel mio cuor, gioia nel mio cuor,<br />gioia nel mio cuor.<br />C’è tanta gioia, gioia, gioia,<br />gioia, gioia nel mio cuor.<br />Grazie a te, Signor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>C’è tanta pace, pace, pace, pace,<br />pace nel mio cuor, pace nel mio cuor,<br />pace nel mio cuor.<br />C’è tanta pace, pace, pace,<br />pace, pace nel mio cuor.<br />Grazie a te, Signor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>C’è tanto amore, amore, amore, amore,<br />amore nel mio cuor.<br />Dove?    Dentro al mio cuor.<br />Dove?    Dentro al mio cuor.<br />C’è tanto amore, amore, amore,<br />amore, amore nel mio cuor.<br />Grazie a te, Signor.</lines>
+    </verse>
+  </lyrics>
+</song>

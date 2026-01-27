@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Gesu’ Dolce Musica</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gesù dolce musica al mio cuor.<br />Gesù ascolti sempre il mio pregar.<br />Gesù quando cado tu sei lì,<br />dolcemente mi rialzi su.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gesù è così bello amare te.<br />Gesù solo tu non cambi mai.<br />Gesù col tuo sangue hai lavato,<br />il peccato che era dentro me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gesù tu ben presto tornerai.<br />Gesù la tua chiesa rapirai.<br />Gesù che gran festa allor sarà,<br />sempre insieme per l’eternità.<br />Sempre insieme per l’eternità.</lines>
+    </verse>
+  </lyrics>
+</song>

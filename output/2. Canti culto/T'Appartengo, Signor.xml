@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>T'Appartengo, Signor</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>T’appartengo, signor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>T’appartengo Signor, la tua voce<br />mi parlò del Tuo amore per me<br />io vorrei starti sempre più vicino<br />tra le braccia potenti della fè</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Più vicino,<br />più stretto al tuo seno<br />Tu mi attiri, pietoso Signor<br />più vicino, deh vieni ed appieno<br />col tuo Spirto<br />rinnova il mio cuor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Le mie forze, i miei beni la vita<br />oh Signor ti vorrei consacrar<br />ma son debole, vedi l’aiuto<br />da Te sol mi convien ricercar</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Più vicino,<br />più stretto al tuo seno<br />Tu mi attiri, pietoso Signor<br />più vicino, deh vieni ed appieno<br />col tuo Spirto<br />rinnova il mio cuor</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Santo, Santo, Santo<br />è Dio Onnipotente<br />che era e sempre sarà<br />tutto il mondo canta<br />lodi al Re dei Re<br />tutto Tu sei per me<br />ed io Ti adoro<br />(♪♪♪)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Meraviglioso, Sorprendente<br />è il nome di Gesù<br />è il pane della vita<br />è l’acqua che disseta<br />Tu salvezza sei per me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Santo, Santo, Santo<br />è Dio Onnipotente<br />che era e sempre sarà<br />tutto il mondo canta<br />lodi al Re dei Re<br />tutto Tu sei per me<br />ed io Ti adoro</lines>
+    </verse>
+  </lyrics>
+</song>

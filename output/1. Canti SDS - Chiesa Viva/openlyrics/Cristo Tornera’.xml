@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Cristo Tornera’</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Viva è in me l’immagine del giorno in cui<br />Tu ritornerai quaggiù Signor Gesù<br />Vedo già i colori dell’arcobaleno</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Che circondan la città di Gerusalem<br />Che risplende dell’amore di Cristo Gesù<br />Che promette una vita senza dolore né male.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Se tu vuoi vivere senza ipocrisia<br />Non temere di cambiare la tua strada senza Dio.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Con fiducia e con l’amore che tu sentirai<br />Puoi varcare il sentiero della libertà<br />Puoi gridare al mondo intero<br />Cristo tornerà.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se il sole non asciuga ancora le tue lacrime<br />Guarda verso il cielo tu capirai<br />Che la vita non è un caso che non è un errore,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ma il calore che ti avvolge è l’abbraccio del tuo Dio…<br />Lui sussurra al tuo cuore “non ti lascerò”<br />Se tu tieni la Sua mano tu non temerai.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Se tu vuoi vivere senza ipocrisia<br />Non temere di cambiare la tua strada senza Dio.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Con fiducia e con l’amore che tu sentirai<br />Puoi varcare il sentiero della libertà<br />Puoi gridare al mondo intero<br />Cristo tornerà.</lines>
+    </verse>
+  </lyrics>
+</song>

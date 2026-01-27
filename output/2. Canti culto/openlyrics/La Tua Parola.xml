@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>La Tua Parola</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>La tua parola è per me,<br />una lampada al mio piè.<br />La tua parola è per me<br />una luce al mio sentier.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se la strada mia sento fuggir via,<br />Tu sei sempre al mio fianco.<br />E nulla temerò se tu sei accanto a me.<br />Non abbandonarmi mai.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>La tua parola è per me,<br />Una lampada al mio piè.<br />La tua parola è per me,<br />Una luce al mio sentier.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mai scorderò, il tuo amor per me,<br />Il mio cuore in Te spera.<br />Sei la speranza mia, guida tu la vita mia,<br />solo te io voglio amar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>La tua parola è per me,<br />Una lampada al mio piè.<br />La tua parola è per me,<br />una luce al mio sentier.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>La tua parola è per me,<br />Una lampada al mio piè.<br />La tua parola è per me,<br />una luce al mio sentier,<br />una luce al mio sentier,<br />una luce al mio sentier.</lines>
+    </verse>
+  </lyrics>
+</song>

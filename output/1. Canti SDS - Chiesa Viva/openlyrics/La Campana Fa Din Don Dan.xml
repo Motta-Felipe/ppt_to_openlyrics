@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>La Campana Fa Din Don Dan</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>La campana fa: din don din don dan; presto vieni qua, pronto ad iniziar;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gesù il buon Pastor, non aspetterà, la campana fa din don din don dan!</lines>
+    </verse>
+  </lyrics>
+</song>

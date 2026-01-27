@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Insieme Noi Stiamo Pregando</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Insieme noi stiamo pregando il Signore: chiediamo a lui pace, speranza e pietà.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fiducia e certezza abbiamo nel suo amore: cantiamo al Signor, alla sua maestà.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vicino a noi sei, o Signor della luce;<br />Con noi tu cammini o dolce Gesù</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Al bene, a salute la mano tua conduce: cantiamo a te, Signor, al tuo trono lassù.</lines>
+    </verse>
+  </lyrics>
+</song>

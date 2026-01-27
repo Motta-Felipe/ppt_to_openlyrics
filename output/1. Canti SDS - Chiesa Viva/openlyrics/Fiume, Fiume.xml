@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Fiume, Fiume</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Fiume, fiume tu che vai e ci porti nella terra che<br />Il signore ha dato a noi<br />Che lottiamo per raggiungerla</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Non tardare, non fermarti mai,<br />Sto’ muovendo gli stanchi passi miei<br />Non tardare, non fermarti mai,<br />Sto’ muovendo gli stanchi passi miei<br />Raggiungero’ con te<br />La felicita’.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Quando arrivero’, tutto splendera’<br />Quando arrivero’<br />Io restero’ con te, signor.<br />Quando arrivero’, tutto splendera’<br />Quando arrivero’<br />Io restero’ con te.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fiume, fiume tu che vai e ci porti nella terra che<br />Il signore ha dato a noi<br />Che lottiamo per raggiungerla</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Resteremo lungo le tue rive<br />Dove l’erba e’ sempre verde<br />Dove il cielo piu’ non piangera’<br />Dove il sole mai si fermera’,<br />Raggiungero’ con te la felicita’.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Quando arrivero’, tutto splendera’<br />Quando arrivero’<br />Io restero’ con te, signor.<br />Quando arrivero’, tutto splendera’<br />Quando arrivero’<br />Io restero’ con te.</lines>
+    </verse>
+  </lyrics>
+</song>

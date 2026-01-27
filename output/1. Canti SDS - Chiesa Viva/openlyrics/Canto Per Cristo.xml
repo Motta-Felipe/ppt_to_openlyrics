@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Canto Per Cristo</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Canto per Cristo che mi libererà,<br />Quando verrà nella gloria,<br />Quando la vita per lui rinascerà, allelu alleluia</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alleluia, alleluia, alleluia, allelu, alleluia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Canto per Cristo in lui rifiorirà<br />Ogni speranza perduta,<br />Ogni creatura con lui risorgerà, alleluia, alleluia</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alleluia, alleluia, alleluia, allelu, alleluia</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Canto per Cristo, un giorno tornerà,<br />Festa per tutti gli amici,<br />Festa di un giorno che più non morirà<br />Alleluia, alleluia</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alleluia, alleluia, alleluia, allelu, alleluia</lines>
+    </verse>
+  </lyrics>
+</song>

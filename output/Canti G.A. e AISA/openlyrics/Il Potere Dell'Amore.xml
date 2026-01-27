@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Il Potere Dell'Amore</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Il potere dell’amore</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vengo a te, Signor, fa’ che questo cuore mio     con la grazia  tua, si rinnovi in me.La mia fragilità    depongo avanti a te, Gesù.  Tu la cambierai    col poter  dell’amore.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tienimi sempre più vicino a te<br />portami dove tu vorrai<br />io volerò, come aquila nel cielo<br />lo Spirito sarà<br />per sempre accanto a me<br />col poter dell’amore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fa’ che gli occhi miei possan contemplare te,ricchi di bontà, perché vivi in me.Che ogni mio pensier voli verso te, Signor,per vivere ogni dìcol poter dell’amore.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tienimi sempre più vicino a te<br />portami dove tu vorrai<br />io volerò, come aquila nel cielo<br />lo Spirito sarà<br />per sempre accanto a me<br />col poter dell’amore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>lo Spirito sarà per sempre accanto a mecol poter dell’amore.</lines>
+    </verse>
+  </lyrics>
+</song>

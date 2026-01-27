@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Chiamati Per Nome</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chiesa d’Olgiate</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Veniamo da te chiamati per nome che festa Signore tu cammini con noi ci parli di te per noi spezzi il pane ti riconosciamo e il cuore arde sei tu e noi tuo popolo siamo qui</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Siamo come terra ed argilla e la tua parola ci plasmerà brace pronta per la scintilla e il tuo spirito soffierà ci infiammerà</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Veniamo da te chiamati per nome che festa Signore tu cammini con noi ci parli di te per noi spezzi il pane ti riconosciamo e il cuore arde sei tu e noi tuo popolo siamo qui</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Siamo come semi nel solco come vigna che il suo frutto darà grano del Signore risorto la tua messe che fiorirà d’eternità</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Veniamo da te chiamati per nome che festa Signore tu cammini con noi ci parli di te per noi spezzi il pane ti riconosciamo e il cuore arde sei tu e noi tuo popolo siamo quie noi tuo popolo siamo qui siamo qui</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,1891 @@
+Conversion Log - Started 2026-01-27T10:00:30.324503
+============================================================
+
+File: A Dio sia la gloria.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: A Dio Sia La Gloria.mp3
+  Changes Applied:
+    - Converted to Title Case: 'A Dio sia la gloria' → 'A Dio Sia La Gloria'
+    - Removed repeated title: 'A dio sia la gloria'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:30.448639
+----------------------------------------
+File: Aprimi gli occhi del cuore.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Aprimi Gli Occhi Del Cuore.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Aprimi gli occhi del cuore' → 'Aprimi Gli Occhi Del Cuore'
+    - Removed repeated title: 'Aprimi gli occhi del cuore'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:30.512682
+----------------------------------------
+File: Benedetto sia il tuo nome.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Benedetto Sia Il Tuo Nome.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Benedetto sia il tuo nome' → 'Benedetto Sia Il Tuo Nome'
+    - Removed repeated title: 'Benedetto sia il tuo nome'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Benedetto sia il Tuo nome'
+    - Removed repeated title: 'benedetto sia il Tuo nome'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:30.597068
+----------------------------------------
+File: Brilla di luce per Gesù.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Brilla Di Luce Per Gesù.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Brilla di luce per Gesù' → 'Brilla Di Luce Per Gesù'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Brilla di luce per Gesù'
+    - Removed repeated title: 'brilla di luce per Gesù'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:30.680031
+----------------------------------------
+File: Cambia il cuore mio.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Cambia il cuore mio' → 'Cambia Il Cuore Mio'
+    - Removed repeated title: 'Cambia il cuore mio'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:30.726949
+----------------------------------------
+File: Camminando.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Camminando.mp3
+  Changes Applied:
+    - Removed repeated title: 'Camminando'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:30.826814
+----------------------------------------
+File: Camminerò.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 3 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:30.865666
+----------------------------------------
+File: Canterò al mio Redentore.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Canterò al mio Redentore' → 'Canterò Al Mio Redentore'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:30.913428
+----------------------------------------
+File: Che magnifico nome.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Che magnifico nome' → 'Che Magnifico Nome'
+    - Removed repeated title: 'Che magnifico nome'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:30.958835
+----------------------------------------
+File: Chi son io.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Chi son io' → 'Chi Son Io'
+    - Removed repeated title: 'Chi son io'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:31.054556
+----------------------------------------
+File: CHIAMATI PER NOME.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Chiamati Per Nome.mp3
+  Changes Applied:
+    - Converted to Title Case: 'CHIAMATI PER NOME' → 'Chiamati Per Nome'
+    - Removed repeated title: 'Chiamati per nome'
+    - Detected verse markers: 1° Strofa, 2° strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:00:31.143197
+----------------------------------------
+File: Com'acqua all'assetato.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Com'Acqua All'Assetato.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Com'acqua all'assetato' → 'Com'Acqua All'Assetato'
+    - Removed numbered title header: '64 - Com'acqua all'assetato'
+    - Removed repeated title: 'Com'acqua all'assetato'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:00:31.214454
+----------------------------------------
+File: Come il riarso terreno.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Come il riarso terreno' → 'Come Il Riarso Terreno'
+    - Removed repeated title: 'Come il riarso terreno'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:31.243296
+----------------------------------------
+File: Così qual sono.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Così Qual Sono.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Così qual sono' → 'Così Qual Sono'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:00:31.313491
+----------------------------------------
+File: Cristo muove le montagne.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Cristo Muove Le Montagne.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Cristo muove le montagne' → 'Cristo Muove Le Montagne'
+    - Removed repeated title: 'Cristo muove le montagne'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:31.416591
+----------------------------------------
+File: Cristo viene già i segni vediamo.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Cristo viene già i segni vediamo' → 'Cristo Viene Già I Segni Vediamo'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Cristo viene già i segni vediamo'
+  Processed: 2026-01-27T10:00:31.447290
+----------------------------------------
+File: Cristo viene! Già i segni vediamo.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Cristo Viene! Già I Segni Vediamo.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Cristo viene! Già i segni vediamo' → 'Cristo Viene! Già I Segni Vediamo'
+    - Removed numbered title header: '151 - Cristo viene! Già i segni vediamo'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:00:31.671400
+----------------------------------------
+File: Dai la mano a tuo fratello.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Dai la mano a tuo fratello' → 'Dai La Mano A Tuo Fratello'
+    - Removed repeated title: 'Dai la mano a tuo fratello'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:31.703841
+----------------------------------------
+File: Deh più vicino.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Deh Più Vicino.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Deh più vicino' → 'Deh Più Vicino'
+    - Removed numbered title header: '347 - Deh più vicino'
+    - Removed repeated title: 'Deh più vicino'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+  Processed: 2026-01-27T10:00:31.788129
+----------------------------------------
+File: Dio, grande Dio.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Dio, grande Dio' → 'Dio, Grande Dio'
+    - Removed repeated title: 'Dio, grande dio'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Dio, grande Dio'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:31.811826
+----------------------------------------
+File: Edifichiamo famiglie.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Edifichiamo Famiglie.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Edifichiamo famiglie' → 'Edifichiamo Famiglie'
+    - Removed numbered title header: '600 – Edifichiamo famiglie'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:00:31.905232
+----------------------------------------
+File: Fammi Tuo Servo.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Fammi Tuo Servo.mp3
+  Changes Applied:
+    - Removed repeated title: 'Fammi tuo servo'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:31.962841
+----------------------------------------
+File: Genitori e figli in Gesù.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Genitori E Figli In Gesù.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Genitori e figli in Gesù' → 'Genitori E Figli In Gesù'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:00:32.057551
+----------------------------------------
+File: Gesù ha pagato il nostro debito.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Gesù ha pagato il nostro debito' → 'Gesù Ha Pagato Il Nostro Debito'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:00:32.080721
+----------------------------------------
+File: Gesù volge a noi la voce.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Gesù Volge A Noi La Voce.m4a
+  Changes Applied:
+    - Converted to Title Case: 'Gesù volge a noi la voce' → 'Gesù Volge A Noi La Voce'
+    - Removed numbered title header: '441 - Gesù volge a noi la voce'
+    - Removed repeated title: 'Gesù volge a noi la voce'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa
+  Processed: 2026-01-27T10:00:32.162924
+----------------------------------------
+File: Gioia in ciel, è nato il Re.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Gioia in ciel, è nato il Re' → 'Gioia In Ciel, È Nato Il Re'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:00:32.210911
+----------------------------------------
+File: Gioia nei Nostri Cuor.odp
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Gioia nei Nostri Cuor' → 'Gioia Nei Nostri Cuor'
+    - Converted from legacy .odp format via LibreOffice
+    - Removed numbered title header: '161 - Gioia nei Nostri Cuor'
+    - Removed repeated title: 'Gioia nei Nostri Cuor'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa
+  Processed: 2026-01-27T10:00:34.043659
+----------------------------------------
+File: Gioia nei Nostri Cuor.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Gioia Nei Nostri Cuor.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Gioia nei Nostri Cuor' → 'Gioia Nei Nostri Cuor'
+    - Removed numbered title header: '161 - Gioia nei Nostri Cuor'
+    - Removed repeated title: 'Gioia nei Nostri Cuor'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa
+  Processed: 2026-01-27T10:00:34.169533
+----------------------------------------
+File: Giorno beato.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Giorno beato' → 'Giorno Beato'
+    - Removed repeated title: 'Giorno beato'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:34.220839
+----------------------------------------
+File: Gloria al Suo nome.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Gloria Al Suo Nome.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Gloria al Suo nome' → 'Gloria Al Suo Nome'
+    - Removed repeated title: 'Gloria al suo nome'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:00:34.290340
+----------------------------------------
+File: Gloria, gloria, alleluia.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Gloria, Gloria, Alleluia.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Gloria, gloria, alleluia' → 'Gloria, Gloria, Alleluia'
+    - Removed repeated title: 'Gloria, gloria, alleluia'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:34.418951
+----------------------------------------
+File: Hai bisogno di Lui.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Hai bisogno di Lui' → 'Hai Bisogno Di Lui'
+    - Removed repeated title: 'Hai bisogno di lui'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Hai bisogno di Lui'
+  Processed: 2026-01-27T10:00:34.461264
+----------------------------------------
+File: Il Creatore del mondo.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Il Creatore Del Mondo.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Il Creatore del mondo' → 'Il Creatore Del Mondo'
+    - Removed repeated title: 'Il creatore del mondo'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:34.559386
+----------------------------------------
+File: Il Divin Redentor.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Il Divin Redentor.mp3
+  Changes Applied:
+    - Removed repeated title: 'Il divin redentor'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:34.700696
+----------------------------------------
+File: Il Tuo nome innalzo Dio.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Il Tuo Nome Innalzo Dio.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Il Tuo nome innalzo Dio' → 'Il Tuo Nome Innalzo Dio'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Il Tuo nome innalzo Dio'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:34.808597
+----------------------------------------
+File: Io ho deciso di seguire Cristo.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Io ho deciso di seguire Cristo' → 'Io Ho Deciso Di Seguire Cristo'
+    - Removed repeated title: 'Io ho deciso di seguire cristo'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:00:34.859179
+----------------------------------------
+File: Io servo il Salvatore.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Io servo il Salvatore' → 'Io Servo Il Salvatore'
+    - Removed repeated title: 'Io servo il salvatore'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Io servo il Salvatore'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:34.928605
+----------------------------------------
+File: L'unica strada.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: L'Unica Strada.mp3
+  Changes Applied:
+    - Converted to Title Case: 'L'unica strada' → 'L'Unica Strada'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:00:35.013460
+----------------------------------------
+File: La casa sulla roccia.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'La casa sulla roccia' → 'La Casa Sulla Roccia'
+    - Removed repeated title: 'La casa sulla roccia'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:35.039373
+----------------------------------------
+File: La mia anima cerca Te.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'La mia anima cerca Te' → 'La Mia Anima Cerca Te'
+    - Removed repeated title: 'La mia anima cerca te'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:00:35.062385
+----------------------------------------
+File: La mia offerta.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: La Mia Offerta.mp3
+  Changes Applied:
+    - Converted to Title Case: 'La mia offerta' → 'La Mia Offerta'
+    - Removed repeated title: 'La mia offerta'
+  Processed: 2026-01-27T10:00:35.209194
+----------------------------------------
+File: La tua parola.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: La Tua Parola.mp3
+  Changes Applied:
+    - Converted to Title Case: 'La tua parola' → 'La Tua Parola'
+    - Removed repeated title: 'La tua parola'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:35.352133
+----------------------------------------
+File: La tua presenza brama.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'La tua presenza brama' → 'La Tua Presenza Brama'
+    - Removed repeated title: 'La tua presenza brama'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:35.395912
+----------------------------------------
+File: Lascia che il Cristo ti raggiunga.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Lascia che il Cristo ti raggiunga' → 'Lascia Che Il Cristo Ti Raggiunga'
+    - Removed repeated title: 'Lascia che il cristo ti raggiunga'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Lascia che il Cristo ti raggiunga'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:35.453665
+----------------------------------------
+File: Le campane del cielo.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Le Campane Del Cielo.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Le campane del cielo' → 'Le Campane Del Cielo'
+    - Removed repeated title: 'Le campane del cielo'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:35.554213
+----------------------------------------
+File: Là nel ciel qui sulla terra.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Là nel ciel qui sulla terra' → 'Là Nel Ciel Qui Sulla Terra'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:35.604568
+----------------------------------------
+File: Maestà.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Maestà.mp3
+  Changes Applied:
+    - Removed numbered title header: '518 - Maestà'
+    - Removed repeated title: 'Maestà'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa
+  Processed: 2026-01-27T10:00:35.727677
+----------------------------------------
+File: Mi piace raccontare la storia di Gesù.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Mi piace raccontare la storia di Gesù' → 'Mi Piace Raccontare La Storia Di Gesù'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Mi piace raccontare la storia di Gesù'
+    - Removed repeated title: 'mi piace raccontare la storia di Gesù'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:35.855365
+----------------------------------------
+File: Mille ragioni.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Mille ragioni' → 'Mille Ragioni'
+    - Removed repeated title: 'Mille ragioni'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:35.880690
+----------------------------------------
+File: Nato è Gesù.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Nato è Gesù' → 'Nato È Gesù'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:00:35.901752
+----------------------------------------
+File: Nel Signore è la mia speranza.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Nel Signore È La Mia Speranza.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Nel Signore è la mia speranza' → 'Nel Signore È La Mia Speranza'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:00:35.990530
+----------------------------------------
+File: Nell'abisso dell'error.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Nell'abisso dell'error' → 'Nell'Abisso Dell'Error'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:36.014048
+----------------------------------------
+File: Noi T'Adoriam nel Tuo Tempio.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Noi T'Adoriam Nel Tuo Tempio.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Noi T'Adoriam nel Tuo Tempio' → 'Noi T'Adoriam Nel Tuo Tempio'
+    - Removed numbered title header: '596 – Noi T'Adoriam nel Tuo Tempio'
+    - Removed repeated title: 'Noi T'Adoriam nel Tuo Tempio'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:00:36.090256
+----------------------------------------
+File: O mio Signor.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'O mio Signor' → 'O Mio Signor'
+    - Removed repeated title: 'O mio signor'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:36.116975
+----------------------------------------
+File: Onore e gloria.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Onore e gloria' → 'Onore E Gloria'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Onore e gloria'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:36.358238
+----------------------------------------
+File: Osanna.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed repeated title: 'Osanna'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:36.359234
+----------------------------------------
+File: Padre ti preghiamo.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Padre Ti Preghiamo.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Padre ti preghiamo' → 'Padre Ti Preghiamo'
+    - Removed repeated title: 'Padre ti preghiamo'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:00:36.432950
+----------------------------------------
+File: Popoli tutti.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Popoli tutti' → 'Popoli Tutti'
+    - Removed repeated title: 'Popoli tutti'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:36.475943
+----------------------------------------
+File: Proviamo a farlo anche noi.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Proviamo a farlo anche noi' → 'Proviamo A Farlo Anche Noi'
+    - Removed repeated title: 'Proviamo a farlo anche noi'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:36.497875
+----------------------------------------
+File: Quale amico in Cristo abbiamo.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Quale Amico In Cristo Abbiamo.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Quale amico in Cristo abbiamo' → 'Quale Amico In Cristo Abbiamo'
+    - Removed numbered title header: '255 - Quale amico in Cristo abbiamo'
+    - Removed repeated title: 'Quale amico in cristo abbiamo'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+  Processed: 2026-01-27T10:00:36.553239
+----------------------------------------
+File: Quando il suono della voce di Gesù.odp
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Quando il suono della voce di Gesù' → 'Quando Il Suono Della Voce Di Gesù'
+    - Converted from legacy .odp format via LibreOffice
+    - Removed numbered title header: '377 - Quando il suono della voce di Gesù'
+    - Removed repeated title: 'Quando il suono della voce di gesù'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:00:38.377592
+----------------------------------------
+File: Quando il suono della voce di Gesù.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Quando Il Suono Della Voce Di Gesù.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Quando il suono della voce di Gesù' → 'Quando Il Suono Della Voce Di Gesù'
+    - Removed numbered title header: '377 - Quando il suono della voce di Gesù'
+    - Removed repeated title: 'Quando il suono della voce di gesù'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:00:38.497759
+----------------------------------------
+File: Quando il suono della voce.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Quando il suono della voce' → 'Quando Il Suono Della Voce'
+    - Removed repeated title: 'Quando il suono della voce'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:38.518365
+----------------------------------------
+File: Quando penso a Cristo.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Quando penso a Cristo' → 'Quando Penso A Cristo'
+    - Removed repeated title: 'Quando penso a cristo'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Quando penso a Cristo'
+  Processed: 2026-01-27T10:00:38.548673
+----------------------------------------
+File: Quando tutti saremo nel ciel.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Quando Tutti Saremo Nel Ciel.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Quando tutti saremo nel ciel' → 'Quando Tutti Saremo Nel Ciel'
+    - Removed repeated title: 'Quando tutti saremo nel ciel'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:38.617861
+----------------------------------------
+File: Questa è la mia fede.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Questa è la mia fede' → 'Questa È La Mia Fede'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:00:38.648082
+----------------------------------------
+File: Questo mondo triste.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Questo mondo triste' → 'Questo Mondo Triste'
+    - Removed repeated title: 'Questo mondo triste'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:00:38.696679
+----------------------------------------
+File: Renderemo Gesù famoso.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Renderemo Gesù famoso' → 'Renderemo Gesù Famoso'
+    - Removed repeated title: 'RENDEREMO GESù FAMOSO'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'renderemo Gesù famoso'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:38.737098
+----------------------------------------
+File: Salvatore meraviglioso.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Salvatore meraviglioso' → 'Salvatore Meraviglioso'
+    - Removed repeated title: 'Salvatore meraviglioso'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:00:38.769686
+----------------------------------------
+File: Santo è Solo il Signor.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Santo È Solo Il Signor.m4a
+  Changes Applied:
+    - Converted to Title Case: 'Santo è Solo il Signor' → 'Santo È Solo Il Signor'
+    - Removed numbered title header: '1001 – Santo è Solo il Signor'
+    - Removed repeated title: 'Santo è Solo il Signor'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:00:38.843857
+----------------------------------------
+File: Santo, Santo, Santo .pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed repeated title: 'Santo, santo, santo'
+  Processed: 2026-01-27T10:00:38.910365
+----------------------------------------
+File: Santo, Santo, Santo.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Santo, Santo, Santo.mp3
+  Changes Applied:
+    - Removed repeated title: 'Santo, santo, santo'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Santo, Santo, Santo'
+  Processed: 2026-01-27T10:00:39.054335
+----------------------------------------
+File: Se vicini a Gesù.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Se Vicini A Gesù.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Se vicini a Gesù' → 'Se Vicini A Gesù'
+    - Removed numbered title header: '90 - Se vicini a Gesù'
+    - Removed repeated title: 'Se vicini a Gesù'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:00:39.113296
+----------------------------------------
+File: Sei di più.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Sei di più' → 'Sei Di Più'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 3 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:39.155901
+----------------------------------------
+File: Sei tu il mio tutto.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Sei tu il mio tutto' → 'Sei Tu Il Mio Tutto'
+    - Removed repeated title: 'Sei tu il mio tutto'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:00:39.238701
+----------------------------------------
+File: Son soddisfatto.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Son soddisfatto' → 'Son Soddisfatto'
+    - Removed repeated title: 'Son soddisfatto'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:39.262844
+----------------------------------------
+File: Sono qui a lodarti.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Sono Qui A Lodarti.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Sono qui a lodarti' → 'Sono Qui A Lodarti'
+    - Removed repeated title: 'Sono qui a lodarti'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:39.405494
+----------------------------------------
+File: Sopra un monte lontan (2).pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Sopra Un Monte Lontan (2).mp3
+  Changes Applied:
+    - Converted to Title Case: 'Sopra un monte lontan (2)' → 'Sopra Un Monte Lontan (2)'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:00:39.560011
+----------------------------------------
+File: Sopra un monte lontan.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Sopra un monte lontan' → 'Sopra Un Monte Lontan'
+    - Removed repeated title: 'Sopra un monte lontan'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:39.621533
+----------------------------------------
+File: Sorge il Mattino.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Sorge Il Mattino.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Sorge il Mattino' → 'Sorge Il Mattino'
+    - Removed numbered title header: '31 - Sorge il Mattino'
+    - Removed repeated title: 'Sorge il Mattino'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Removed repeated title: 'Sorge il mattino'
+    - Detected verse markers: 1° Strofa, 2° Strofa
+  Processed: 2026-01-27T10:00:39.692602
+----------------------------------------
+File: Splendi Gesù.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Splendi Gesù.mp3
+  Changes Applied:
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:39.857303
+----------------------------------------
+File: Sulle rive di quel fiume.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Sulle rive di quel fiume' → 'Sulle Rive Di Quel Fiume'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed repeated title: 'Sulle rive di quel fiume'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:41.961653
+----------------------------------------
+File: Sulle rive di quel fiume.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Sulle rive di quel fiume' → 'Sulle Rive Di Quel Fiume'
+    - Removed repeated title: 'Sulle rive di quel fiume'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:41.994741
+----------------------------------------
+File: T'appartengo, Signor.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'T'appartengo, Signor' → 'T'Appartengo, Signor'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:42.104743
+----------------------------------------
+File: Te lodiamo Signor.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Te Lodiamo Signor.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Te lodiamo Signor' → 'Te Lodiamo Signor'
+    - Removed numbered title header: '17 - Te lodiamo Signor'
+    - Removed repeated title: 'Te lodiamo Signor'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+  Processed: 2026-01-27T10:00:42.165553
+----------------------------------------
+File: Ti adoriamo con gioia.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Ti adoriamo con gioia' → 'Ti Adoriamo Con Gioia'
+    - Removed repeated title: 'Ti adoriamo con gioia'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:00:42.186917
+----------------------------------------
+File: Tra le braccia di Gesù.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Tra Le Braccia Di Gesù.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Tra le braccia di Gesù' → 'Tra Le Braccia Di Gesù'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:42.252813
+----------------------------------------
+File: Tu sei degno.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Tu sei degno' → 'Tu Sei Degno'
+    - Removed repeated title: 'Tu sei degno'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:42.289930
+----------------------------------------
+File: Tu sei il mio rifugio.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Tu Sei Il Mio Rifugio.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Tu sei il mio rifugio' → 'Tu Sei Il Mio Rifugio'
+    - Removed repeated title: 'Tu sei il mio rifugio'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:00:42.351778
+----------------------------------------
+File: Veder Cristo.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Veder Cristo.mp3
+  Changes Applied:
+    - Removed numbered title header: '149 - Veder Cristo'
+    - Removed repeated title: 'Veder Cristo'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:00:42.428371
+----------------------------------------
+File: Vengo al tuo trono, o mio Signor.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Vengo Al Tuo Trono, O Mio Signor.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Vengo al tuo trono, o mio Signor' → 'Vengo Al Tuo Trono, O Mio Signor'
+    - Removed repeated title: 'Vengo al tuo trono, o mio signor'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Vengo al tuo trono, o mio Signor'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:00:42.509980
+----------------------------------------
+File: A Dio sia la gloria.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: A Dio Sia La Gloria.mp3
+  Changes Applied:
+    - Converted to Title Case: 'A Dio sia la gloria' → 'A Dio Sia La Gloria'
+    - Removed repeated title: 'A dio sia la gloria'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:25.609089
+----------------------------------------
+File: Aprimi gli occhi del cuore.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Aprimi Gli Occhi Del Cuore.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Aprimi gli occhi del cuore' → 'Aprimi Gli Occhi Del Cuore'
+    - Removed repeated title: 'Aprimi gli occhi del cuore'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:25.708608
+----------------------------------------
+File: Benedetto sia il tuo nome.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Benedetto Sia Il Tuo Nome.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Benedetto sia il tuo nome' → 'Benedetto Sia Il Tuo Nome'
+    - Removed repeated title: 'Benedetto sia il tuo nome'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Benedetto sia il Tuo nome'
+    - Removed repeated title: 'benedetto sia il Tuo nome'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:25.793323
+----------------------------------------
+File: Brilla di luce per Gesù.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Brilla Di Luce Per Gesù.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Brilla di luce per Gesù' → 'Brilla Di Luce Per Gesù'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Brilla di luce per Gesù'
+    - Removed repeated title: 'brilla di luce per Gesù'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:25.858516
+----------------------------------------
+File: Cambia il cuore mio.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Cambia il cuore mio' → 'Cambia Il Cuore Mio'
+    - Removed repeated title: 'Cambia il cuore mio'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:25.904917
+----------------------------------------
+File: Camminando.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Camminando.mp3
+  Changes Applied:
+    - Removed repeated title: 'Camminando'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:26.009161
+----------------------------------------
+File: Camminerò.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 3 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:26.049474
+----------------------------------------
+File: Canterò al mio Redentore.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Canterò al mio Redentore' → 'Canterò Al Mio Redentore'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:26.088940
+----------------------------------------
+File: Che magnifico nome.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Che magnifico nome' → 'Che Magnifico Nome'
+    - Removed repeated title: 'Che magnifico nome'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:26.124642
+----------------------------------------
+File: Chi son io.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Chi son io' → 'Chi Son Io'
+    - Removed repeated title: 'Chi son io'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:26.193971
+----------------------------------------
+File: CHIAMATI PER NOME.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Chiamati Per Nome.mp3
+  Changes Applied:
+    - Converted to Title Case: 'CHIAMATI PER NOME' → 'Chiamati Per Nome'
+    - Removed repeated title: 'Chiamati per nome'
+    - Detected verse markers: 1° Strofa, 2° strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:06:26.272389
+----------------------------------------
+File: Com'acqua all'assetato.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Com'Acqua All'Assetato.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Com'acqua all'assetato' → 'Com'Acqua All'Assetato'
+    - Removed numbered title header: '64 - Com'acqua all'assetato'
+    - Removed repeated title: 'Com'acqua all'assetato'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:06:26.380397
+----------------------------------------
+File: Come il riarso terreno.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Come il riarso terreno' → 'Come Il Riarso Terreno'
+    - Removed repeated title: 'Come il riarso terreno'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:26.435516
+----------------------------------------
+File: Così qual sono.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Così Qual Sono.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Così qual sono' → 'Così Qual Sono'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:06:26.592390
+----------------------------------------
+File: Cristo muove le montagne.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Cristo Muove Le Montagne.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Cristo muove le montagne' → 'Cristo Muove Le Montagne'
+    - Removed repeated title: 'Cristo muove le montagne'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:26.656212
+----------------------------------------
+File: Cristo viene già i segni vediamo.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Cristo viene già i segni vediamo' → 'Cristo Viene Già I Segni Vediamo'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Cristo viene già i segni vediamo'
+  Processed: 2026-01-27T10:06:26.705503
+----------------------------------------
+File: Cristo viene! Già i segni vediamo.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Cristo Viene! Già I Segni Vediamo.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Cristo viene! Già i segni vediamo' → 'Cristo Viene! Già I Segni Vediamo'
+    - Removed numbered title header: '151 - Cristo viene! Già i segni vediamo'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:06:26.804210
+----------------------------------------
+File: Dai la mano a tuo fratello.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Dai la mano a tuo fratello' → 'Dai La Mano A Tuo Fratello'
+    - Removed repeated title: 'Dai la mano a tuo fratello'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:26.837950
+----------------------------------------
+File: Deh più vicino.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Deh Più Vicino.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Deh più vicino' → 'Deh Più Vicino'
+    - Removed numbered title header: '347 - Deh più vicino'
+    - Removed repeated title: 'Deh più vicino'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+  Processed: 2026-01-27T10:06:26.908083
+----------------------------------------
+File: Dio, grande Dio.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Dio, grande Dio' → 'Dio, Grande Dio'
+    - Removed repeated title: 'Dio, grande dio'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Dio, grande Dio'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:26.954674
+----------------------------------------
+File: Edifichiamo famiglie.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Edifichiamo Famiglie.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Edifichiamo famiglie' → 'Edifichiamo Famiglie'
+    - Removed numbered title header: '600 – Edifichiamo famiglie'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:06:27.091296
+----------------------------------------
+File: Fammi Tuo Servo.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Fammi Tuo Servo.mp3
+  Changes Applied:
+    - Removed repeated title: 'Fammi tuo servo'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:27.138902
+----------------------------------------
+File: Genitori e figli in Gesù.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Genitori E Figli In Gesù.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Genitori e figli in Gesù' → 'Genitori E Figli In Gesù'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:06:27.208618
+----------------------------------------
+File: Gesù ha pagato il nostro debito.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Gesù ha pagato il nostro debito' → 'Gesù Ha Pagato Il Nostro Debito'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:06:27.255585
+----------------------------------------
+File: Gesù volge a noi la voce.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Gesù Volge A Noi La Voce.m4a
+  Changes Applied:
+    - Converted to Title Case: 'Gesù volge a noi la voce' → 'Gesù Volge A Noi La Voce'
+    - Removed numbered title header: '441 - Gesù volge a noi la voce'
+    - Removed repeated title: 'Gesù volge a noi la voce'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa
+  Processed: 2026-01-27T10:06:27.320363
+----------------------------------------
+File: Gioia in ciel, è nato il Re.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Gioia in ciel, è nato il Re' → 'Gioia In Ciel, È Nato Il Re'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:06:27.392796
+----------------------------------------
+File: Gioia nei Nostri Cuor.odp
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Gioia nei Nostri Cuor' → 'Gioia Nei Nostri Cuor'
+    - Converted from legacy .odp format via LibreOffice
+    - Removed numbered title header: '161 - Gioia nei Nostri Cuor'
+    - Removed repeated title: 'Gioia nei Nostri Cuor'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa
+  Processed: 2026-01-27T10:06:29.010557
+----------------------------------------
+File: Gioia nei Nostri Cuor.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Gioia Nei Nostri Cuor.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Gioia nei Nostri Cuor' → 'Gioia Nei Nostri Cuor'
+    - Removed numbered title header: '161 - Gioia nei Nostri Cuor'
+    - Removed repeated title: 'Gioia nei Nostri Cuor'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa
+  Processed: 2026-01-27T10:06:29.076511
+----------------------------------------
+File: Giorno beato.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Giorno beato' → 'Giorno Beato'
+    - Removed repeated title: 'Giorno beato'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:29.123191
+----------------------------------------
+File: Gloria al Suo nome.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Gloria Al Suo Nome.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Gloria al Suo nome' → 'Gloria Al Suo Nome'
+    - Removed repeated title: 'Gloria al suo nome'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:06:29.212563
+----------------------------------------
+File: Gloria, gloria, alleluia.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Gloria, Gloria, Alleluia.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Gloria, gloria, alleluia' → 'Gloria, Gloria, Alleluia'
+    - Removed repeated title: 'Gloria, gloria, alleluia'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:29.261434
+----------------------------------------
+File: Hai bisogno di Lui.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Hai bisogno di Lui' → 'Hai Bisogno Di Lui'
+    - Removed repeated title: 'Hai bisogno di lui'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Hai bisogno di Lui'
+  Processed: 2026-01-27T10:06:29.279745
+----------------------------------------
+File: Il Creatore del mondo.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Il Creatore Del Mondo.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Il Creatore del mondo' → 'Il Creatore Del Mondo'
+    - Removed repeated title: 'Il creatore del mondo'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:29.340675
+----------------------------------------
+File: Il Divin Redentor.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Il Divin Redentor.mp3
+  Changes Applied:
+    - Removed repeated title: 'Il divin redentor'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:29.394395
+----------------------------------------
+File: Il Tuo nome innalzo Dio.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Il Tuo Nome Innalzo Dio.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Il Tuo nome innalzo Dio' → 'Il Tuo Nome Innalzo Dio'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Il Tuo nome innalzo Dio'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:29.439771
+----------------------------------------
+File: Io ho deciso di seguire Cristo.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Io ho deciso di seguire Cristo' → 'Io Ho Deciso Di Seguire Cristo'
+    - Removed repeated title: 'Io ho deciso di seguire cristo'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:06:29.462565
+----------------------------------------
+File: Io servo il Salvatore.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Io servo il Salvatore' → 'Io Servo Il Salvatore'
+    - Removed repeated title: 'Io servo il salvatore'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Io servo il Salvatore'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:29.491223
+----------------------------------------
+File: L'unica strada.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: L'Unica Strada.mp3
+  Changes Applied:
+    - Converted to Title Case: 'L'unica strada' → 'L'Unica Strada'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:06:29.543252
+----------------------------------------
+File: La casa sulla roccia.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'La casa sulla roccia' → 'La Casa Sulla Roccia'
+    - Removed repeated title: 'La casa sulla roccia'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:29.590686
+----------------------------------------
+File: La mia anima cerca Te.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'La mia anima cerca Te' → 'La Mia Anima Cerca Te'
+    - Removed repeated title: 'La mia anima cerca te'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:06:29.722283
+----------------------------------------
+File: La mia offerta.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: La Mia Offerta.mp3
+  Changes Applied:
+    - Converted to Title Case: 'La mia offerta' → 'La Mia Offerta'
+    - Removed repeated title: 'La mia offerta'
+  Processed: 2026-01-27T10:06:29.749227
+----------------------------------------
+File: La tua parola.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: La Tua Parola.mp3
+  Changes Applied:
+    - Converted to Title Case: 'La tua parola' → 'La Tua Parola'
+    - Removed repeated title: 'La tua parola'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:29.797956
+----------------------------------------
+File: La tua presenza brama.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'La tua presenza brama' → 'La Tua Presenza Brama'
+    - Removed repeated title: 'La tua presenza brama'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:29.841666
+----------------------------------------
+File: Lascia che il Cristo ti raggiunga.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Lascia che il Cristo ti raggiunga' → 'Lascia Che Il Cristo Ti Raggiunga'
+    - Removed repeated title: 'Lascia che il cristo ti raggiunga'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Lascia che il Cristo ti raggiunga'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:29.873856
+----------------------------------------
+File: Le campane del cielo.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Le Campane Del Cielo.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Le campane del cielo' → 'Le Campane Del Cielo'
+    - Removed repeated title: 'Le campane del cielo'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:29.978205
+----------------------------------------
+File: Là nel ciel qui sulla terra.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Là nel ciel qui sulla terra' → 'Là Nel Ciel Qui Sulla Terra'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:30.029887
+----------------------------------------
+File: Maestà.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Maestà.mp3
+  Changes Applied:
+    - Removed numbered title header: '518 - Maestà'
+    - Removed repeated title: 'Maestà'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa
+  Processed: 2026-01-27T10:06:30.225568
+----------------------------------------
+File: Mi piace raccontare la storia di Gesù.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Mi piace raccontare la storia di Gesù' → 'Mi Piace Raccontare La Storia Di Gesù'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Mi piace raccontare la storia di Gesù'
+    - Removed repeated title: 'mi piace raccontare la storia di Gesù'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:30.259648
+----------------------------------------
+File: Mille ragioni.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Mille ragioni' → 'Mille Ragioni'
+    - Removed repeated title: 'Mille ragioni'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:30.282856
+----------------------------------------
+File: Nato è Gesù.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Nato è Gesù' → 'Nato È Gesù'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:06:30.305468
+----------------------------------------
+File: Nel Signore è la mia speranza.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Nel Signore È La Mia Speranza.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Nel Signore è la mia speranza' → 'Nel Signore È La Mia Speranza'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:06:30.357606
+----------------------------------------
+File: Nell'abisso dell'error.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Nell'abisso dell'error' → 'Nell'Abisso Dell'Error'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:30.386770
+----------------------------------------
+File: Noi T'Adoriam nel Tuo Tempio.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Noi T'Adoriam Nel Tuo Tempio.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Noi T'Adoriam nel Tuo Tempio' → 'Noi T'Adoriam Nel Tuo Tempio'
+    - Removed numbered title header: '596 – Noi T'Adoriam nel Tuo Tempio'
+    - Removed repeated title: 'Noi T'Adoriam nel Tuo Tempio'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:06:30.431126
+----------------------------------------
+File: O mio Signor.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'O mio Signor' → 'O Mio Signor'
+    - Removed repeated title: 'O mio signor'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:30.457965
+----------------------------------------
+File: Onore e gloria.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Onore e gloria' → 'Onore E Gloria'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Onore e gloria'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:30.486851
+----------------------------------------
+File: Osanna.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed repeated title: 'Osanna'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:30.514765
+----------------------------------------
+File: Padre ti preghiamo.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Padre Ti Preghiamo.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Padre ti preghiamo' → 'Padre Ti Preghiamo'
+    - Removed repeated title: 'Padre ti preghiamo'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:06:30.575818
+----------------------------------------
+File: Popoli tutti.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Popoli tutti' → 'Popoli Tutti'
+    - Removed repeated title: 'Popoli tutti'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:30.792811
+----------------------------------------
+File: Proviamo a farlo anche noi.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Proviamo a farlo anche noi' → 'Proviamo A Farlo Anche Noi'
+    - Removed repeated title: 'Proviamo a farlo anche noi'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:30.861359
+----------------------------------------
+File: Quale amico in Cristo abbiamo.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Quale Amico In Cristo Abbiamo.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Quale amico in Cristo abbiamo' → 'Quale Amico In Cristo Abbiamo'
+    - Removed numbered title header: '255 - Quale amico in Cristo abbiamo'
+    - Removed repeated title: 'Quale amico in cristo abbiamo'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+  Processed: 2026-01-27T10:06:30.910159
+----------------------------------------
+File: Quando il suono della voce di Gesù.odp
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Quando il suono della voce di Gesù' → 'Quando Il Suono Della Voce Di Gesù'
+    - Converted from legacy .odp format via LibreOffice
+    - Removed numbered title header: '377 - Quando il suono della voce di Gesù'
+    - Removed repeated title: 'Quando il suono della voce di gesù'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:06:32.255313
+----------------------------------------
+File: Quando il suono della voce di Gesù.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Quando Il Suono Della Voce Di Gesù.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Quando il suono della voce di Gesù' → 'Quando Il Suono Della Voce Di Gesù'
+    - Removed numbered title header: '377 - Quando il suono della voce di Gesù'
+    - Removed repeated title: 'Quando il suono della voce di gesù'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:06:32.364432
+----------------------------------------
+File: Quando il suono della voce.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Quando il suono della voce' → 'Quando Il Suono Della Voce'
+    - Removed repeated title: 'Quando il suono della voce'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:32.392664
+----------------------------------------
+File: Quando penso a Cristo.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Quando penso a Cristo' → 'Quando Penso A Cristo'
+    - Removed repeated title: 'Quando penso a cristo'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Quando penso a Cristo'
+  Processed: 2026-01-27T10:06:32.413922
+----------------------------------------
+File: Quando tutti saremo nel ciel.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Quando Tutti Saremo Nel Ciel.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Quando tutti saremo nel ciel' → 'Quando Tutti Saremo Nel Ciel'
+    - Removed repeated title: 'Quando tutti saremo nel ciel'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:32.458277
+----------------------------------------
+File: Questa è la mia fede.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Questa è la mia fede' → 'Questa È La Mia Fede'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:06:32.480647
+----------------------------------------
+File: Questo mondo triste.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Questo mondo triste' → 'Questo Mondo Triste'
+    - Removed repeated title: 'Questo mondo triste'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:06:32.509277
+----------------------------------------
+File: Renderemo Gesù famoso.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Renderemo Gesù famoso' → 'Renderemo Gesù Famoso'
+    - Removed repeated title: 'RENDEREMO GESù FAMOSO'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'renderemo Gesù famoso'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:32.529432
+----------------------------------------
+File: Salvatore meraviglioso.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Salvatore meraviglioso' → 'Salvatore Meraviglioso'
+    - Removed repeated title: 'Salvatore meraviglioso'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:06:32.557605
+----------------------------------------
+File: Santo è Solo il Signor.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Santo È Solo Il Signor.m4a
+  Changes Applied:
+    - Converted to Title Case: 'Santo è Solo il Signor' → 'Santo È Solo Il Signor'
+    - Removed numbered title header: '1001 – Santo è Solo il Signor'
+    - Removed repeated title: 'Santo è Solo il Signor'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:06:32.595684
+----------------------------------------
+File: Santo, Santo, Santo .pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed repeated title: 'Santo, santo, santo'
+  Processed: 2026-01-27T10:06:32.623816
+----------------------------------------
+File: Santo, Santo, Santo.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Santo, Santo, Santo.mp3
+  Changes Applied:
+    - Removed repeated title: 'Santo, santo, santo'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Santo, Santo, Santo'
+  Processed: 2026-01-27T10:06:32.677345
+----------------------------------------
+File: Se vicini a Gesù.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Se Vicini A Gesù.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Se vicini a Gesù' → 'Se Vicini A Gesù'
+    - Removed numbered title header: '90 - Se vicini a Gesù'
+    - Removed repeated title: 'Se vicini a Gesù'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:06:32.768204
+----------------------------------------
+File: Sei di più.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Sei di più' → 'Sei Di Più'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 3 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:33.008706
+----------------------------------------
+File: Sei tu il mio tutto.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Sei tu il mio tutto' → 'Sei Tu Il Mio Tutto'
+    - Removed repeated title: 'Sei tu il mio tutto'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:06:33.027086
+----------------------------------------
+File: Son soddisfatto.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Son soddisfatto' → 'Son Soddisfatto'
+    - Removed repeated title: 'Son soddisfatto'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:33.074582
+----------------------------------------
+File: Sono qui a lodarti.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Sono Qui A Lodarti.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Sono qui a lodarti' → 'Sono Qui A Lodarti'
+    - Removed repeated title: 'Sono qui a lodarti'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:33.126076
+----------------------------------------
+File: Sopra un monte lontan (2).pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Sopra Un Monte Lontan (2).mp3
+  Changes Applied:
+    - Converted to Title Case: 'Sopra un monte lontan (2)' → 'Sopra Un Monte Lontan (2)'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:06:33.191886
+----------------------------------------
+File: Sopra un monte lontan.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Sopra un monte lontan' → 'Sopra Un Monte Lontan'
+    - Removed repeated title: 'Sopra un monte lontan'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:33.218478
+----------------------------------------
+File: Sorge il Mattino.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Sorge Il Mattino.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Sorge il Mattino' → 'Sorge Il Mattino'
+    - Removed numbered title header: '31 - Sorge il Mattino'
+    - Removed repeated title: 'Sorge il Mattino'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Removed repeated title: 'Sorge il mattino'
+    - Detected verse markers: 1° Strofa, 2° Strofa
+  Processed: 2026-01-27T10:06:33.263394
+----------------------------------------
+File: Splendi Gesù.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Splendi Gesù.mp3
+  Changes Applied:
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:33.339463
+----------------------------------------
+File: Sulle rive di quel fiume.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Sulle rive di quel fiume' → 'Sulle Rive Di Quel Fiume'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed repeated title: 'Sulle rive di quel fiume'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:35.750952
+----------------------------------------
+File: Sulle rive di quel fiume.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Sulle rive di quel fiume' → 'Sulle Rive Di Quel Fiume'
+    - Removed repeated title: 'Sulle rive di quel fiume'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:35.782130
+----------------------------------------
+File: T'appartengo, Signor.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'T'appartengo, Signor' → 'T'Appartengo, Signor'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:35.879235
+----------------------------------------
+File: Te lodiamo Signor.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Te Lodiamo Signor.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Te lodiamo Signor' → 'Te Lodiamo Signor'
+    - Removed numbered title header: '17 - Te lodiamo Signor'
+    - Removed repeated title: 'Te lodiamo Signor'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+  Processed: 2026-01-27T10:06:35.965674
+----------------------------------------
+File: Ti adoriamo con gioia.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Ti adoriamo con gioia' → 'Ti Adoriamo Con Gioia'
+    - Removed repeated title: 'Ti adoriamo con gioia'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:06:36.007561
+----------------------------------------
+File: Tra le braccia di Gesù.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Tra Le Braccia Di Gesù.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Tra le braccia di Gesù' → 'Tra Le Braccia Di Gesù'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:36.109979
+----------------------------------------
+File: Tu sei degno.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Tu sei degno' → 'Tu Sei Degno'
+    - Removed repeated title: 'Tu sei degno'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:36.158618
+----------------------------------------
+File: Tu sei il mio rifugio.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Tu Sei Il Mio Rifugio.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Tu sei il mio rifugio' → 'Tu Sei Il Mio Rifugio'
+    - Removed repeated title: 'Tu sei il mio rifugio'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-27T10:06:36.253274
+----------------------------------------
+File: Veder Cristo.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Veder Cristo.mp3
+  Changes Applied:
+    - Removed numbered title header: '149 - Veder Cristo'
+    - Removed repeated title: 'Veder Cristo'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-01-27T10:06:36.411767
+----------------------------------------
+File: Vengo al tuo trono, o mio Signor.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Vengo Al Tuo Trono, O Mio Signor.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Vengo al tuo trono, o mio Signor' → 'Vengo Al Tuo Trono, O Mio Signor'
+    - Removed repeated title: 'Vengo al tuo trono, o mio signor'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Removed repeated title: 'Vengo al tuo trono, o mio Signor'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-27T10:06:36.521559
+----------------------------------------

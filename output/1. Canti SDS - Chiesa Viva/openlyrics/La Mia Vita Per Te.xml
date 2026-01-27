@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>La Mia Vita Per Te</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quando il Sole tramonta e le stelle brillano, riempiono il cielo con la loro luce notturna.<br />Secondo il tuo piano, tutte esse hanno un posto.<br />La loro luce brilla per servire il Mondo che hai creato.<br />Aiutami Signore a brillare come la Luna nel cielo di mezzanotte.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Io voglio servire,<br />Io voglio dare,<br />Io voglio vivere la mia vita per Te.<br />Sono qui,<br />Prendi tutto di me,<br />Io voglio vivere la mia vita per te.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quando arriva la sera, alla fine della giornata,<br />E le lucciole escono fuori a giocare.<br />Mi ricordo una volta ancora che tu mi hai creato e che hai un piano per me.<br />Tutta la creazione canti la tua lode,<br />E faccia così dall’inizio fino alla fine della giornata.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Io voglio servire,<br />Io voglio dare,<br />Io voglio vivere la mia vita per Te.<br />Sono qui,<br />Prendi tutto di me,<br />Io voglio vivere la mia vita per te.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Gesù<br />Gesù<br />Gesù<br />Gesù</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Io voglio servire,<br />Io voglio dare,<br />Io voglio vivere la mia vita per Te.<br />Sono qui,<br />Prendi tutto di me,<br />Io voglio vivere la mia vita per te. (x2)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Gesù<br />Gesù<br />Gesù<br />Gesù</lines>
+    </verse>
+  </lyrics>
+</song>

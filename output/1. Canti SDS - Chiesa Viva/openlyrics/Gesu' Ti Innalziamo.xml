@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Gesu' Ti Innalziamo</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gesù ti innalziamo</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gesù ti innalziamo<br />Proclamandoti Re.<br />In mezzo a noi sul tuo trono<br />Sei esaltato o Signor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>E mentre noi t’adoriamo,<br />E mentre noi t’adoriamo<br />E mentre noi t’adoriamo<br />Sali in alto e regna su noi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gesù ti amiamo<br />Perché tu hai amato noi<br />Tu Cristo sei, sei l’Agnel di Dio<br />La tua vita ci hai donato.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>E mentre noi t’adoriamo,<br />E mentre noi t’adoriamo<br />E mentre noi t’adoriamo<br />Sali in alto e regna su noi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gesù ti lodiamo<br />Perché degno ne sei.<br />Ci salvi tu, ci santifichi,<br />Col tuo sangue ci hai lavati.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>E mentre noi t’adoriamo,<br />E mentre noi t’adoriamo<br />E mentre noi t’adoriamo<br />Sali in alto e regna su noi<br />Sali in alto e regna su noi ( x 2)</lines>
+    </verse>
+  </lyrics>
+</song>

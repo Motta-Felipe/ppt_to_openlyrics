@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Questa È La Mia Fede</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Questa e’ la mia fede</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Questa e’ la mia fede proclamarti mio Re<br />unico Dio, grande Signore<br />questa e’ la speranza<br />so che risorgero’<br />e in te dimorero’<br />(x2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cantero’ la gioia di esser figlio cantero’ che tu non abbandoni non tradisci mai. Dammi sempre la tua grazia e in te dimorero’ per adorarti per servirti in verita’ mio Re!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Questa e’ la mia fede proclamarti mio Re<br />unico Dio,<br />grande Signore<br />questa e’ la speranza<br />so che risorgero’<br />e in te dimorero’</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cantero’ che solo tu sei vita e verita’ che sei salvezza che sei vera liberta’. Io porro’ la mia fiducia in te che sei la via camminero’ nella tua santa volonta’, mio Re!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Questa e’ la mia fede proclamarti mio Re<br />unico Dio,<br />grande Signore<br />questa e’ la speranza<br />so che risorgero’<br />e in te dimorero’</lines>
+    </verse>
+    <verse name="v5">
+      <lines>e in Te dimorero’ e in Te dimorero’!</lines>
+    </verse>
+  </lyrics>
+</song>

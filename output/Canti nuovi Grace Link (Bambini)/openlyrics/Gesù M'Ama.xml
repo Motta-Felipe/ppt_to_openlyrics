@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Gesù M'Ama</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gesu’ m’ama si’ lo so</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gesù m’ama sì lo so<br />e mi parla con amor<br />Nella bibbia ogni dì<br />e felice son così<br />Sì Gesù m’ama e mi protegge<br />Sì Gesù m’ama<br />anch’io lo amerò</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gesù m’ama anche se<br />sempre buono non sarò<br />Nella bibbia ogni dì<br />e felice son così<br />Sì Gesù m’ama e mi protegge<br />Sì Gesù m’ama<br />anch’io lo amerò</lines>
+    </verse>
+  </lyrics>
+</song>

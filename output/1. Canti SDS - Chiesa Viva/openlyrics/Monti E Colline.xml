@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Monti E Colline</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Monti e colline esultano con me<br />Io canto la mia gioia al Redentor.<br />Valli e ruscelli intonano al Signor,<br />Dei canti che risuonano d’amor.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>E sento gli alberi  insieme applaudir,<br />Lodando il Nostro Redentor Yahweh.<br />E sento gli alberi insieme applaudir,<br />Lodando di Dio la Maestà.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Monti e colline esultano con me<br />Io canto la mia gioia al Redentor.<br />Valli e ruscelli intonano al Signor,<br />Dei canti che risuonano d’amor.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>E sento gli alberi  insieme applaudir,<br />Lodando il Nostro Redentor Yahweh.<br />E sento gli alberi insieme applaudir,<br />Lodando di Dio la Maestà.</lines>
+    </verse>
+  </lyrics>
+</song>

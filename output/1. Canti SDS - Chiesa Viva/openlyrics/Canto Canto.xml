@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Canto Canto</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Canto, canto con la gioia nel cuor,<br />Grido, grido che appartengo al Signor,<br />Vivo, vivo per servirlo quaggiù.<br />Io guarderò soltanto Lui,<br />perché in Lui la vita ho,<br />ed è in Lui ch'io spererò,<br />durante tutto il mio cammin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quando, quando io riguardo al Signor,<br />Sento, sento la sua voce d'amor,<br />Trovo, trovo nuova forza e vigor.<br />Io guarderò soltanto Lui,<br />perché in Lui la vita ho,<br />ed è in Lui ch'io spererò,<br />durante tutto il mio cammin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Penso, penso alla patria nel ciel,<br />Dove, dove ha dimora il Signor,<br />Bramo, bramo che mi porti con se.<br />Io guarderò soltanto Lui,<br />perché in Lui la vita ho,<br />ed è in Lui ch'io spererò,<br />durante tutto il mio cammin. fine</lines>
+    </verse>
+  </lyrics>
+</song>

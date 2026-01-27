@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Dame Un Nuevo Corazon</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dame un nuevo corazon, Senor<br />Un corazon para alabarte,<br />Un corazon para adorarte,<br />Dame un nuevo corazon. (x2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Que sea limpio como el cristal,<br />Dulce como la miel,<br />Un corazon Senor como el tuyo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Que sea limpio como el cristal,<br />Dulce como la miel,<br />Un corazon Senor como el tuyo.<br />Un corazon Senor como el tuyo.</lines>
+    </verse>
+  </lyrics>
+</song>

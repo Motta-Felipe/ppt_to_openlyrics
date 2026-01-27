@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Questa È La Mia Fede</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quando penso a cristo</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quando penso a Cristo<br />e a quel che fè per me<br />avanti camminerò<br />Quando penso a Cristo<br />e a quel che fè per me<br />avanti camminerò</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Si, si, si, si, si,<br />avanti camminerò,<br />camminerò.<br />Si, si, si, si, si,<br />avanti camminerò.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Quando penso a Cristo<br />e a quel che fè per me<br />indietro non tornerò<br />Non tornerò<br />Quando penso a Cristo<br />e a quel che fè per me<br />indietro non tornerò.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>No, no, no, no, no,<br />indietro non tornerò<br />Non tornerò<br />No, no, no, no, no,<br />indietro non tornerò<br />No mai!!!!</lines>
+    </verse>
+  </lyrics>
+</song>

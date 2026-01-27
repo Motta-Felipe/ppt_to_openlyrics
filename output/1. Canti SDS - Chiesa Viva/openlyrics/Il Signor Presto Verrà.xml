@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Il Signor Presto Verrà</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Presto il Signor<br />Tra le nuvole verrà<br />Con potenza e amor<br />Tutto lui conquisterà</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Si lo vedo già<br />Su di tutti regnerà<br />Alleluia, alleluia<br />Su di tutti regnerà</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sulla nuova terra<br />Mai nessuno piangerà<br />Perché il Signor<br />Con amor ci guiderà</lines>
+    </verse>
+    <verse name="v4">
+      <lines>La vita con potenza<br />Dalla tomba uscirà<br />Alleluia, alleluia<br />Dalla tomba uscirà</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dolor non ci sarà<br />Per tutta l'eternità<br />Natura gioirà<br />Tutto splendido sarà</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tutto nuovo è<br />Il mio canto allor sarà<br />Alleluia, alleluia<br />X2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Dai La Mano A Tuo Fratello</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Dai la mano a tuo fratello, dai la mano<br />dai la mano a tuo fratello, dai la mano<br />dagli un caldo benvenuto<br />mostra a lui un volto sereno<br />dai la mano a tuo fratello, dai la mano</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Siam riuniti per lodarlo<br />ed insieme ringraziarlo,<br />per i doni che darà<br />a chi con fede li chiederà</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dai la mano a tuo fratello, dai la mano<br />dai la mano a tuo fratello, dai la mano<br />dagli un caldo benvenuto<br />mostra a lui un volto sereno<br />dai la mano a tuo fratello, dai la mano</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se riuniti nel suo amore<br />formeremo un solo cuore<br />ed insieme nella gioia<br />giungeremo alla sua gloria</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dai la mano a tuo fratello, dai la mano<br />dai la mano a tuo fratello, dai la mano<br />dagli un caldo benvenuto<br />mostra a lui un volto sereno<br />dai la mano a tuo fratello, dai la mano<br />(x 2)</lines>
+    </verse>
+  </lyrics>
+</song>

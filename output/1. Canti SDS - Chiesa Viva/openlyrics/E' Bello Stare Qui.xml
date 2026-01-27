@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>E' Bello Stare Qui</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E’ bello stare qui</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E’ bello stare qui, uniti tutti insieme<br />da un vincolo d’amore,<br />noi siamo amici e siamo fratelli<br />di un unico padre che odia<br />il dolore e il male.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eeee, è bello sapere (è bello sapere)<br />che tu sei con noi (dentro di noi)<br />che tu sei in mezzo a noi,<br />sempre con noi Gesù.<br />Ascolteremo le tue parole,<br />sentiremo la pace nel cuore.<br />se tu vorrai unisciti a noi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E’ bello ricordare, quello che Tu hai fatto<br />per non lasciarci andare,<br />su una strada diversa,<br />un sentiero che non ha uscite<br />e che porta lontano dalla tua casa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Eeee, è bello sapere (è bello sapere)<br />che tu sei con noi (dentro di noi)<br />che tu sei in mezzo a noi,<br />sempre con noi Gesù.<br />Ascolteremo le tue parole,<br />sentiremo la pace nel cuore.<br />se tu vorrai unisciti a noi,<br />se tu vorrai unisciti a noi.</lines>
+    </verse>
+  </lyrics>
+</song>

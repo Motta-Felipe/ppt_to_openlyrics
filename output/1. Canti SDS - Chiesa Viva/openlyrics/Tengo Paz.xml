@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Tengo Paz</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tengo pazTengo paz como un rio, tengo paz como un rio,tengo paz como un rio e mi se.(BIS)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Soy feliz como una fuente,soy feliz como una fuente,soy feliz como una fuente e mi se.(BIS)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tengo amor como un mar,tengo amor como un mar,tengo amor como un mar e mi se.(BIS)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tengo paz como un riosoy feliz como una fuentetengo amor como un mar e mi se…(BIS)</lines>
+    </verse>
+  </lyrics>
+</song>
