@@ -101,6 +101,7 @@ class ConversionLog:
 def clean_text(text: str) -> str:
     """
     Clean text by stripping control chars and normalizing whitespace.
+    Also converts all-uppercase lines to sentence case.
     """
     if not text:
         return ""
@@ -127,10 +128,17 @@ def clean_text(text: str) -> str:
     # Normalize multiple newlines
     text = re.sub(r'\n{3,}', '\n\n', text)
     
-    # Trim trailing spaces per line
-    lines = [line.rstrip() for line in text.split('\n')]
+    # Trim trailing spaces per line and normalize case
+    lines = text.split('\n')
+    normalized_lines = []
+    for line in lines:
+        stripped = line.rstrip()
+        if stripped and stripped.isupper():
+            # Convert all-uppercase lines to sentence case
+            stripped = stripped.capitalize()
+        normalized_lines.append(stripped)
     
-    return '\n'.join(lines)
+    return '\n'.join(normalized_lines)
 
 
 def extract_title_from_filename(filename: str) -> tuple[str, list[str]]:
