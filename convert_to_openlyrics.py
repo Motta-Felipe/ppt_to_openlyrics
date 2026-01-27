@@ -81,13 +81,17 @@ class ConversionLog:
                 f.write("=" * 60 + "\n\n")
     
     def log(self, filename: str, status: str, has_media: bool = False, 
-            media_extracted: str = None, notes: str = None):
+            media_extracted: str = None, notes: str = None, changes: list = None):
         with open(self.log_path, 'a', encoding='utf-8') as f:
             f.write(f"File: {filename}\n")
             f.write(f"  Status: {status}\n")
             f.write(f"  Has Media: {'Yes' if has_media else 'No'}\n")
             if media_extracted:
                 f.write(f"  Media Extracted: {media_extracted}\n")
+            if changes:
+                f.write(f"  Changes Applied:\n")
+                for change in changes:
+                    f.write(f"    - {change}\n")
             if notes:
                 f.write(f"  Notes: {notes}\n")
             f.write(f"  Processed: {datetime.now().isoformat()}\n")
@@ -129,19 +133,28 @@ def clean_text(text: str) -> str:
     return '\n'.join(lines)
 
 
-def extract_title_from_filename(filename: str) -> str:
+def extract_title_from_filename(filename: str) -> tuple[str, list[str]]:
     """
     Extract song title from filename, stripping leading numbers and separators.
-    Returns the title in Title Case.
+    Returns the title in Title Case and a list of changes made.
     """
+    changes = []
+    
     # Remove extension
     name = Path(filename).stem
+    original_name = name
     
     # Remove leading numbers and separators
-    name = TITLE_NUMBER_PATTERN.sub('', name)
+    number_match = TITLE_NUMBER_PATTERN.match(name)
+    if number_match:
+        removed_prefix = number_match.group(0)
+        name = TITLE_NUMBER_PATTERN.sub('', name)
+        changes.append(f"Removed number prefix: '{removed_prefix.strip()}'")
     
     # Remove trailing underscores
-    name = name.rstrip('_')
+    if name.endswith('_'):
+        name = name.rstrip('_')
+        changes.append("Removed trailing underscore(s)")
     
     # Clean up extra spaces
     name = ' '.join(name.split())
@@ -162,7 +175,11 @@ def extract_title_from_filename(filename: str) -> str:
     words = name.split()
     titled = ' '.join(title_case_word(word) for word in words)
     
-    return titled
+    # Check if title case changed anything
+    if titled != name:
+        changes.append(f"Converted to Title Case: '{original_name}' → '{titled}'")
+    
+    return titled, changes
 
 
 def extract_text_from_pptx(pptx_path: Path) -> list[list[str]]:
@@ -239,34 +256,42 @@ def find_existing_audio(folder: Path, base_name: str) -> Path | None:
     
     for file in folder.iterdir():
         if file.suffix.lower() in AUDIO_EXTENSIONS:
-            file_base = extract_title_from_filename(file.name).lower()
-            if file_base == base_lower or base_lower in file.stem.lower():
+            file_base, _ = extract_title_from_filename(file.name)
+            if file_base.lower() == base_lower or base_lower in file.stem.lower():
                 return file
     
     return None
 
 
-def is_header_footer(text: str, title: str, all_slides_text: list[list[str]]) -> bool:
+def is_header_footer(text: str, title: str, all_slides_text: list[list[str]], 
+                     filtered_items: list = None) -> bool:
     """
     Check if text is a header/footer that should be ignored.
     Only filters out church names, repeated titles, and very short standalone headers.
     Does NOT filter out repeated lyric phrases (like refrains within verses).
+    If filtered_items list is provided, appends the reason for filtering.
     """
     text_stripped = text.strip()
     text_lower = text_stripped.lower()
     
     # Church name filter
     if CHURCH_FILTER_PATTERN.search(text_stripped):
+        if filtered_items is not None:
+            filtered_items.append(f"Removed church name header: '{text_stripped}'")
         return True
     
     # Check if it's the title repeated
     title_lower = title.lower()
     if text_lower == title_lower:
+        if filtered_items is not None:
+            filtered_items.append(f"Removed repeated title: '{text_stripped}'")
         return True
     
     # Check for numbered title pattern (e.g., "47 - Là nel ciel...")
     title_match = TITLE_NUMBER_PATTERN.sub('', text_stripped).strip().lower()
     if title_match == title_lower:
+        if filtered_items is not None:
+            filtered_items.append(f"Removed numbered title header: '{text_stripped}'")
         return True
     
     # Only filter very short text (<=3 words) that appears on most slides as standalone
@@ -287,20 +312,27 @@ def is_header_footer(text: str, title: str, all_slides_text: list[list[str]]) ->
                 break
     
     if total_slides > 2 and occurrence_count >= total_slides * 0.7:
+        if filtered_items is not None:
+            filtered_items.append(f"Removed recurring header/footer: '{text_stripped}' (appeared on {occurrence_count}/{total_slides} slides)")
         return True
     
     return False
 
 
-def parse_slides_to_blocks(slides_text: list[list[str]], title: str) -> list[dict]:
+def parse_slides_to_blocks(slides_text: list[list[str]], title: str, 
+                           changes: list = None) -> list[dict]:
     """
     Parse slide text into verse/chorus blocks.
     Returns list of {'type': 'verse'|'chorus', 'lines': [...], 'number': int}
+    If changes list is provided, appends information about filtered content.
     """
     blocks = []
     verse_num = 0
     chorus_num = 0
     seen_choruses = {}  # For detecting repeated blocks
+    filtered_items = []  # Track what was filtered
+    verse_markers_found = []
+    chorus_labels_found = []
     
     for slide_texts in slides_text:
         # Combine all text blocks from this slide
@@ -322,13 +354,15 @@ def parse_slides_to_blocks(slides_text: list[list[str]], title: str) -> list[dic
                 continue
             
             # Check for header/footer
-            if is_header_footer(line_stripped, title, slides_text):
+            if is_header_footer(line_stripped, title, slides_text, filtered_items):
                 continue
             
             # Check for verse marker (1° Strofa, 2° Strofa, etc.)
             verse_match = VERSE_MARKER_PATTERN.match(line_stripped)
             if verse_match:
                 explicit_verse_num = int(verse_match.group(1))
+                if line_stripped not in verse_markers_found:
+                    verse_markers_found.append(line_stripped)
                 continue  # Skip the marker line
             
             # Check for chorus label
@@ -347,6 +381,10 @@ def parse_slides_to_blocks(slides_text: list[list[str]], title: str) -> list[dic
                     explicit_verse_num = None
                 
                 current_is_chorus = True
+                # Track the chorus label found
+                label_found = chorus_match.group(0).strip()
+                if label_found not in chorus_labels_found:
+                    chorus_labels_found.append(label_found)
                 # Get remaining text after chorus label
                 remaining = CHORUS_LABEL_PATTERN.sub('', line_stripped).strip()
                 if remaining:
@@ -410,6 +448,24 @@ def parse_slides_to_blocks(slides_text: list[list[str]], title: str) -> list[dic
                     'lines': filtered_lines,
                     'number': actual_num
                 })
+    
+    # Add tracked changes to the changes list
+    if changes is not None:
+        # Remove duplicates from filtered_items
+        seen = set()
+        for item in filtered_items:
+            if item not in seen:
+                changes.append(item)
+                seen.add(item)
+        
+        if verse_markers_found:
+            changes.append(f"Detected verse markers: {', '.join(verse_markers_found)}")
+        
+        if chorus_labels_found:
+            changes.append(f"Detected chorus labels: {', '.join(chorus_labels_found)}")
+        
+        if seen_choruses:
+            changes.append(f"Auto-detected {len(seen_choruses)} chorus pattern(s) from repeated blocks")
     
     return blocks
 
@@ -490,7 +546,8 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
     Returns True if successful.
     """
     filename = input_path.name
-    title = extract_title_from_filename(filename)
+    title, title_changes = extract_title_from_filename(filename)
+    changes = title_changes.copy()  # Track all changes
     temp_pptx = None
     
     try:
@@ -500,6 +557,7 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
             actual_pptx = input_path
         elif input_path.suffix.lower() in {'.ppt', '.odp'}:
             # Legacy PPT or ODP - convert using LibreOffice first
+            changes.append(f"Converted from legacy {input_path.suffix} format via LibreOffice")
             with tempfile.TemporaryDirectory() as temp_dir:
                 temp_dir_path = Path(temp_dir)
                 converted_path = convert_ppt_to_pptx(input_path, temp_dir_path)
@@ -521,7 +579,7 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
                     return False
                 
                 # Parse into blocks
-                blocks = parse_slides_to_blocks(slides_text, title)
+                blocks = parse_slides_to_blocks(slides_text, title, changes)
                 
                 if not blocks:
                     log.log(filename, "SKIPPED", notes="No verse/chorus blocks detected")
@@ -542,8 +600,8 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
                     media_extracted = extract_media_from_pptx(converted_path, output_dir, title)
                     has_media = media_extracted is not None
                 
-                log.log(filename, "SUCCESS", has_media=has_media, media_extracted=media_extracted, 
-                       notes="Converted from legacy format via LibreOffice")
+                log.log(filename, "SUCCESS", has_media=has_media, media_extracted=media_extracted,
+                       changes=changes if changes else None)
                 return True
         else:
             log.log(filename, "SKIPPED", notes=f"Unsupported format: {input_path.suffix}")
@@ -554,7 +612,7 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
             return False
         
         # Parse into blocks
-        blocks = parse_slides_to_blocks(slides_text, title)
+        blocks = parse_slides_to_blocks(slides_text, title, changes)
         
         if not blocks:
             log.log(filename, "SKIPPED", notes="No verse/chorus blocks detected")
@@ -576,7 +634,8 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
             media_extracted = extract_media_from_pptx(input_path, output_dir, title)
             has_media = media_extracted is not None
         
-        log.log(filename, "SUCCESS", has_media=has_media, media_extracted=media_extracted)
+        log.log(filename, "SUCCESS", has_media=has_media, media_extracted=media_extracted,
+               changes=changes if changes else None)
         return True
     
     except Exception as e:
@@ -623,11 +682,11 @@ def main():
         
         if convert_file(ppt_file, output_folder, log):
             success_count += 1
-            print(f"  ✓ Converted successfully")
+            print(f"  [OK] Converted successfully")
         else:
             # Check log for reason
             skip_count += 1
-            print(f"  ⚠ Skipped or failed")
+            print(f"  [SKIP] Skipped or failed")
     
     print("-" * 50)
     print(f"Conversion complete!")
