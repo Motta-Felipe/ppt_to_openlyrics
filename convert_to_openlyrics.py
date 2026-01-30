@@ -145,25 +145,35 @@ def clean_text(text: str) -> str:
     return '\n'.join(normalized_lines)
 
 
-def extract_title_from_filename(filename: str) -> tuple[str, list[str]]:
+def extract_title_from_filename(filename: str) -> tuple[str, list[str], str | None, str | None]:
     """
     Extract song title from filename, optionally stripping leading numbers and separators.
     Controlled by PPT_REMOVE_NUMBER_PREFIX environment variable.
     If set to 'false', '0', 'no', or 'off' (case insensitive), numbers are kept.
-    Returns the title in Title Case and a list of changes made.
+    
+    Returns:
+        - title: The title in Title Case
+        - changes: List of changes made
+        - songbook_name: Title without number prefix (for songbook feature)
+        - songbook_entry: The number prefix if present (for songbook entry)
     """
     changes = []
+    songbook_entry = None
     
     # Remove extension
     name = Path(filename).stem
     original_name = name
+    
+    # Check for number prefix (always extract for songbook, even if not removing from title)
+    number_match = TITLE_NUMBER_PATTERN.match(name)
+    if number_match:
+        songbook_entry = number_match.group(1)  # Just the number, not separators
     
     # Check environment variable for number prefix removal
     remove_number_prefix = os.getenv('PPT_REMOVE_NUMBER_PREFIX', 'true').lower() not in ('false', '0', 'no', 'off')
     
     # Remove leading numbers and separators (if enabled)
     if remove_number_prefix:
-        number_match = TITLE_NUMBER_PATTERN.match(name)
         if number_match:
             removed_prefix = number_match.group(0)
             name = TITLE_NUMBER_PATTERN.sub('', name)
@@ -193,11 +203,17 @@ def extract_title_from_filename(filename: str) -> tuple[str, list[str]]:
     words = name.split()
     titled = ' '.join(title_case_word(word) for word in words)
     
+    # Songbook name is title without number (always computed)
+    name_without_number = TITLE_NUMBER_PATTERN.sub('', original_name).strip()
+    name_without_number = ' '.join(name_without_number.split())
+    songbook_words = name_without_number.split()
+    songbook_name = ' '.join(title_case_word(word) for word in songbook_words)
+    
     # Check if title case changed anything
     if titled != name:
         changes.append(f"Converted to Title Case: '{original_name}' → '{titled}'")
     
-    return titled, changes
+    return titled, changes, songbook_name, songbook_entry
 
 
 def extract_text_from_pptx(pptx_path: Path) -> list[list[str]]:
@@ -282,7 +298,7 @@ def find_existing_audio(folder: Path, base_name: str) -> Path | None:
     
     for file in folder.iterdir():
         if file.suffix.lower() in AUDIO_EXTENSIONS:
-            file_base, _ = extract_title_from_filename(file.name)
+            file_base, _, _, _ = extract_title_from_filename(file.name)
             if file_base.lower() == base_lower or base_lower in file.stem.lower():
                 return file
     
@@ -624,9 +640,16 @@ def deduplicate_blocks(blocks: list[dict]) -> list[dict]:
     return result
 
 
-def generate_openlyrics_xml(title: str, blocks: list[dict]) -> str:
+def generate_openlyrics_xml(title: str, blocks: list[dict], 
+                           songbook_name: str = None, songbook_entry: str = None) -> str:
     """
     Generate OpenLyrics 0.8 XML from parsed blocks.
+    
+    Args:
+        title: Song title
+        blocks: List of verse/chorus blocks
+        songbook_name: Optional songbook name (typically title without number)
+        songbook_entry: Optional entry number in the songbook
     """
     # Deduplicate consecutive identical blocks
     blocks = deduplicate_blocks(blocks)
@@ -660,12 +683,25 @@ def generate_openlyrics_xml(title: str, blocks: list[dict]) -> str:
     
     title_escaped = xml_escape(title)
     
+    # Build songbooks section if enabled
+    songbooks_xml = ""
+    if songbook_name:
+        songbook_name_escaped = xml_escape(songbook_name)
+        if songbook_entry:
+            songbooks_xml = f'''\n    <songbooks>
+      <songbook name="{songbook_name_escaped}" entry="{xml_escape(songbook_entry)}"/>
+    </songbooks>'''
+        else:
+            songbooks_xml = f'''\n    <songbooks>
+      <songbook name="{songbook_name_escaped}"/>
+    </songbooks>'''
+    
     xml = f'''<?xml version="1.0" encoding="UTF-8"?>
 <song version="{OPENLYRICS_VERSION}" xmlns="{OPENLYRICS_NS}">
   <properties>
     <titles>
       <title>{title_escaped}</title>
-    </titles>
+    </titles>{songbooks_xml}
   </properties>
   <lyrics>
 {chr(10).join(verses_xml)}
@@ -681,9 +717,12 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
     Returns True if successful.
     """
     filename = input_path.name
-    title, title_changes = extract_title_from_filename(filename)
+    title, title_changes, songbook_name, songbook_entry = extract_title_from_filename(filename)
     changes = title_changes.copy()  # Track all changes
     temp_pptx = None
+    
+    # Check if songbook feature is enabled
+    add_songbook = os.getenv('ADD_SONG_BOOK', 'false').lower() in ('true', '1', 'yes', 'on')
     
     try:
         # Extract text - handle different formats
@@ -750,7 +789,11 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
                     return False
                 
                 # Generate XML
-                xml_content = generate_openlyrics_xml(title, blocks)
+                xml_content = generate_openlyrics_xml(
+                    title, blocks,
+                    songbook_name=songbook_name if add_songbook else None,
+                    songbook_entry=songbook_entry if add_songbook else None
+                )
                 
                 # Write XML file
                 openlyrics_dir = output_dir / "openlyrics"
@@ -785,7 +828,11 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
             return False
         
         # Generate XML
-        xml_content = generate_openlyrics_xml(title, blocks)
+        xml_content = generate_openlyrics_xml(
+            title, blocks,
+            songbook_name=songbook_name if add_songbook else None,
+            songbook_entry=songbook_entry if add_songbook else None
+        )
         
         # Write XML file
         output_path = openlyrics_dir / f"{title}.xml"
