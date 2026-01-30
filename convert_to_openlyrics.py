@@ -7,6 +7,7 @@ Follows the rules in agent_instructions.md.
 """
 
 import os
+from dotenv import load_dotenv
 import re
 import sys
 import zipfile
@@ -20,6 +21,8 @@ from xml.sax.saxutils import escape as xml_escape
 
 from pptx import Presentation
 from pptx.enum.shapes import MSO_SHAPE_TYPE
+# Load environment variables from .env if present
+load_dotenv()
 
 # Constants
 OPENLYRICS_NS = "http://openlyrics.info/namespace/2009/song"
