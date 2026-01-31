@@ -7,10 +7,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>La casa tua mai dovrai costruirvicino al mar, sulla sabbia;altrimenti la vedrai crollar giùe tu dovrai costruire la tua casa ancor.</lines>
+      <lines>La casa tua mai dovrai costruir<br />vicino al mar, sulla sabbia;<br />altrimenti la vedrai crollar giù<br />e tu dovrai costruire la tua casa ancor.</lines>
     </verse>
     <verse name="v2">
-      <lines>Se costruisci, invece, su Gesù,più forte e solida la casa tua sarà.I venti soffieranno su lei ma la tempesta non l’abbatterà.</lines>
+      <lines>Se costruisci, invece, su Gesù,<br />più forte e solida la casa tua sarà.<br />I venti soffieranno su lei<br />ma la tempesta non l’abbatterà.</lines>
     </verse>
   </lyrics>
 </song>

@@ -7,7 +7,7 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Con Gesù farem delle prodezze, con Gesù noi vinceremo il male.</lines>
+      <lines>Con Gesù farem delle<br />prodezze, con Gesù noi vinceremo il male.</lines>
     </verse>
     <verse name="v1">
       <lines>Su cantiam e gridiam la vittoria, Cristo è re!</lines>
@@ -19,7 +19,7 @@
       <lines>La parola ha vinto<br />il nemico, la terra intera vedrà che</lines>
     </verse>
     <verse name="c1">
-      <lines>Con Gesù farem delle prodezze, con Gesù noi vinceremo il male.</lines>
+      <lines>Con Gesù farem delle<br />prodezze, con Gesù noi vinceremo il male.</lines>
     </verse>
     <verse name="v4">
       <lines>Su cantiam e gridiam la vittoria, Cristo è re!<br />Cristo è re!<br />Cristo è re!<br />Eh!</lines>

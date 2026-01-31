@@ -1,0 +1,182 @@
+Conversion Log - Started 2026-01-30T19:45:56.406135
+============================================================
+
+File: Alla tua presenza.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Alla tua presenza' → 'Alla Tua Presenza'
+    - Removed title from slide 1: 'Alla tua presenza'
+    - Auto-detected 4 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-30T19:45:56.434898
+----------------------------------------
+File: Canto di vittoria.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Canto di vittoria' → 'Canto Di Vittoria'
+    - Removed title from slide 1: 'Canto di Vittoria'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-30T19:45:56.456720
+----------------------------------------
+File: Che magnifico nome.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Che magnifico nome' → 'Che Magnifico Nome'
+    - Removed title from slide 1: 'Che magnifico nome'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-30T19:45:56.500389
+----------------------------------------
+File: GESU’ DOLCE MUSICA.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'GESU’ DOLCE MUSICA' → 'Gesu’ Dolce Musica'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed title from slide 1: 'Gesu’ dolce musica'
+  Processed: 2026-01-30T19:45:57.994685
+----------------------------------------
+File: Il potere dell'amore.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Il potere dell'amore' → 'Il Potere Dell'Amore'
+    - Removed title from slide 1: 'Il potere dell’amore'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-30T19:45:58.023926
+----------------------------------------
+File: io canterò del tuo nome.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'io canterò del tuo nome' → 'Io Canterò Del Tuo Nome'
+    - Removed title from slide 1: 'Io canterò del tuo nome'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-30T19:45:58.048654
+----------------------------------------
+File: Io ti dono il mio cuor.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Io ti dono il mio cuor' → 'Io Ti Dono Il Mio Cuor'
+    - Removed title from slide 1: 'Io ti dono il mio cuor'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-30T19:45:58.060713
+----------------------------------------
+File: La casa sulla roccia.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'La casa sulla roccia' → 'La Casa Sulla Roccia'
+    - Removed title from slide 1: 'La casa sulla roccia'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-30T19:45:58.077273
+----------------------------------------
+File: LA LUCE VEDRA'.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'LA LUCE VEDRA'' → 'La Luce Vedra''
+    - Removed title from slide 1: 'La luce vedra’'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-30T19:45:58.095206
+----------------------------------------
+File: Meraviglioso sei.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Meraviglioso sei' → 'Meraviglioso Sei'
+    - Removed title from slide 1: 'Meraviglioso sei'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-30T19:45:58.117505
+----------------------------------------
+File: Proviamo a farlo anche noi.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Proviamo a farlo anche noi' → 'Proviamo A Farlo Anche Noi'
+    - Removed title from slide 1: 'Proviamo a farlo anche noi'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-30T19:45:58.135819
+----------------------------------------
+File: Quando penso a Cristo.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Quando penso a Cristo' → 'Quando Penso A Cristo'
+    - Removed title from slide 1: 'Quando penso a cristo'
+    - Removed church name header: 'Chiesa di Olgiate'
+  Processed: 2026-01-30T19:45:58.153090
+----------------------------------------
+File: QUANDO TU TORNERAI.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'QUANDO TU TORNERAI' → 'Quando Tu Tornerai'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-30T19:45:58.169460
+----------------------------------------
+File: QUESTA E' LA MIA FEDE - USARE QUESTO.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'QUESTA E' LA MIA FEDE - USARE QUESTO' → 'Questa E' La Mia Fede - Usare Questo'
+  Processed: 2026-01-30T19:45:58.186820
+----------------------------------------
+File: Questa è la mia fede.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Questa è la mia fede' → 'Questa È La Mia Fede'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-30T19:45:58.208179
+----------------------------------------
+File: Renderemo Gesù famoso.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Renderemo Gesù famoso' → 'Renderemo Gesù Famoso'
+    - Removed title from slide 1: 'RENDEREMO GESù FAMOSO'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-30T19:45:58.224687
+----------------------------------------
+File: Se il mio popolo prega.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Se il mio popolo prega' → 'Se Il Mio Popolo Prega'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-30T19:45:58.245226
+----------------------------------------
+File: Son soddisfatto.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Son soddisfatto' → 'Son Soddisfatto'
+    - Removed title from slide 1: 'Son soddisfatto'
+    - Removed church name header: 'Chiesa di Olgiate'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-30T19:45:58.259104
+----------------------------------------
+File: Sono qui a lodarti.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Sono Qui A Lodarti.mp3
+  Changes Applied:
+    - Converted to Title Case: 'Sono qui a lodarti' → 'Sono Qui A Lodarti'
+    - Removed title from slide 1: 'Sono qui a lodarti'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-01-30T19:45:58.302531
+----------------------------------------
+File: Tu sei santo.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Tu sei santo' → 'Tu Sei Santo'
+    - Removed title from slide 1: 'Tu sei santo'
+  Processed: 2026-01-30T19:45:58.323558
+----------------------------------------
