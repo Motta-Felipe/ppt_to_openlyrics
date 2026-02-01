@@ -374,7 +374,7 @@ def is_header_footer(text: str, title: str, all_slides_text: list[list[str]],
 
 
 def _normalize_for_title_comparison(text: str) -> str:
-    """Normalize text for title comparison (unicode, apostrophes, whitespace)."""
+    """Normalize text for title comparison (unicode, apostrophes, whitespace, punctuation)."""
     import re
     # NFKD decomposition
     normalized = unicodedata.normalize('NFKD', text.lower())
@@ -383,7 +383,13 @@ def _normalize_for_title_comparison(text: str) -> str:
     # Remove all types of apostrophes, quotes, and similar characters
     normalized = re.sub(r"[''`'ʼʻˈˊ\u0027\u2019\u2018\u02BC\u02BB\u0060\u00B4]", '', normalized)
     normalized = re.sub(r'[""„‟\u0022\u201C\u201D\u201E\u201F]', '', normalized)
-    return ' '.join(normalized.split())
+    # Remove common punctuation (commas, periods, exclamation marks, question marks, etc.)
+    normalized = re.sub(r'[,;.!?:¡¿]', '', normalized)
+    # Normalize whitespace first
+    normalized = ' '.join(normalized.split())
+    # Normalize "oh" to "o" as standalone word (common in Italian songs)
+    normalized = re.sub(r'\boh\b', 'o', normalized)
+    return normalized
 
 
 def _check_if_all_slides_have_title_first(slides_text: list[list[str]], title: str) -> bool:
