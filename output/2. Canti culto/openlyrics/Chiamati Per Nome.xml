@@ -7,22 +7,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Chiesa d’Olgiate</lines>
+      <lines>Veniamo da te chiamati per nome<br />che festa Signore tu cammini con noi ci parli di te per noi spezzi il pane<br />ti riconosciamo e il cuore arde sei tu<br />e noi tuo popolo siamo qui</lines>
     </verse>
     <verse name="v2">
-      <lines>Veniamo da te chiamati per nome che festa Signore tu cammini con noi ci parli di te per noi spezzi il pane ti riconosciamo e il cuore arde sei tu e noi tuo popolo siamo qui</lines>
+      <lines>Siamo come terra ed argilla<br />e la tua parola ci plasmerà<br />brace pronta per la scintilla<br />e il tuo spirito soffierà<br />ci infiammerà</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Veniamo da te chiamati per nome<br />che festa Signore tu cammini con noi ci parli di te per noi spezzi il pane<br />ti riconosciamo e il cuore arde sei tu<br />e noi tuo popolo siamo qui</lines>
     </verse>
     <verse name="v3">
-      <lines>Siamo come terra ed argilla e la tua parola ci plasmerà brace pronta per la scintilla e il tuo spirito soffierà ci infiammerà</lines>
-    </verse>
-    <verse name="v2">
-      <lines>Veniamo da te chiamati per nome che festa Signore tu cammini con noi ci parli di te per noi spezzi il pane ti riconosciamo e il cuore arde sei tu e noi tuo popolo siamo qui</lines>
+      <lines>Siamo come semi nel solco<br />come vigna che il suo frutto darà<br />grano del Signore risorto<br />la tua messe che fiorirà<br />d’eternità</lines>
     </verse>
     <verse name="v4">
-      <lines>Siamo come semi nel solco come vigna che il suo frutto darà grano del Signore risorto la tua messe che fiorirà d’eternità</lines>
-    </verse>
-    <verse name="v5">
-      <lines>Veniamo da te chiamati per nome che festa Signore tu cammini con noi ci parli di te per noi spezzi il pane ti riconosciamo e il cuore arde sei tu e noi tuo popolo siamo quie noi tuo popolo siamo qui siamo qui</lines>
+      <lines>Veniamo da te chiamati per nome<br />che festa Signore tu cammini con noi ci parli di te per noi spezzi il pane<br />ti riconosciamo e il cuore arde sei tu<br />e noi tuo popolo siamo qui<br />e noi tuo popolo siamo qui<br />siamo qui</lines>
     </verse>
   </lyrics>
 </song>

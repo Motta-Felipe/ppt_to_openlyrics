@@ -353,7 +353,10 @@ def is_header_footer(text: str, title: str, all_slides_text: list[list[str]],
 def _normalize_for_title_comparison(text: str) -> str:
     """Normalize text for title comparison (unicode, apostrophes, whitespace)."""
     import re
+    # NFKD decomposition
     normalized = unicodedata.normalize('NFKD', text.lower())
+    # Remove combining diacritical marks (accents, etc.)
+    normalized = ''.join(c for c in normalized if not unicodedata.combining(c))
     # Remove all types of apostrophes, quotes, and similar characters
     normalized = re.sub(r"[''`'ʼʻˈˊ\u0027\u2019\u2018\u02BC\u02BB\u0060\u00B4]", '', normalized)
     normalized = re.sub(r'[""„‟\u0022\u201C\u201D\u201E\u201F]', '', normalized)
@@ -465,6 +468,24 @@ def parse_slides_to_blocks(slides_text: list[list[str]], title: str,
         
         lines = combined_text.split('\n')
         non_empty_lines = [l.strip() for l in lines if l.strip()]
+        
+        # Special case: Check if first slide contains only the title (possibly split across lines)
+        # Filter out headers/footers first to get only content lines
+        content_lines = [l for l in non_empty_lines if not is_header_footer(l, title, slides_text)]
+        
+        if slide_index == 0 and content_lines:
+            # Combine all content lines and check if it matches the title
+            combined_content = ' '.join(content_lines)
+            combined_normalized = _normalize_for_title_comparison(combined_content)
+            title_normalized = _normalize_for_title_comparison(title)
+            title_no_number = _normalize_for_title_comparison(TITLE_NUMBER_PATTERN.sub('', title).strip())
+            
+            if combined_normalized == title_normalized or (combined_normalized == title_no_number and title_no_number):
+                # First slide is just the title - skip it entirely
+                if filtered_items is not None:
+                    filtered_items.append(f"Removed title slide: '{combined_content}'")
+                continue
+        
         filtered_lines = []
         current_is_chorus = False
         explicit_verse_num = None
