@@ -21,8 +21,11 @@ from xml.sax.saxutils import escape as xml_escape
 
 from pptx import Presentation
 from pptx.enum.shapes import MSO_SHAPE_TYPE
-# Load environment variables from .env if present
-load_dotenv()
+
+# Load environment variables from .env file in the script's directory
+# override=True ensures .env values take precedence over shell environment
+_script_dir = Path(__file__).parent
+load_dotenv(_script_dir / '.env', override=True)
 
 # Constants
 OPENLYRICS_NS = "http://openlyrics.info/namespace/2009/song"
@@ -68,7 +71,7 @@ def convert_ppt_to_pptx(ppt_path: Path, temp_dir: Path) -> Path | None:
 VERSE_MARKER_PATTERN = re.compile(r'^(\d+)[°ª]?\s*strofa\b', re.IGNORECASE)
 CHORUS_LABEL_PATTERN = re.compile(r'^(ritornello|rit\.?)\s*:?\s*', re.IGNORECASE)
 TITLE_NUMBER_PATTERN = re.compile(r'^(\d+)\s*[-–—.]?\s*')
-CHURCH_FILTER_PATTERN = re.compile(r'chiesa\s*(di\s+)?olgiate', re.IGNORECASE)
+CHURCH_FILTER_PATTERN = re.compile(r'chiesa.*olgiate', re.IGNORECASE)
 
 
 class ConversionLog:
