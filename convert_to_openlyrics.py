@@ -109,6 +109,7 @@ def clean_text(text: str) -> str:
     """
     Clean text by stripping control chars and normalizing whitespace.
     Also converts all-uppercase lines to sentence case.
+    Applies custom text replacements from TEXT_REPLACEMENTS env variable.
     """
     if not text:
         return ""
@@ -131,6 +132,16 @@ def clean_text(text: str) -> str:
             result.append(char)
     
     text = ''.join(result)
+    
+    # Apply custom text replacements from environment variable
+    replacements_str = os.getenv('TEXT_REPLACEMENTS', '')
+    if replacements_str:
+        # Parse replacements: format is "old|new,old2|new2"
+        for replacement in replacements_str.split(','):
+            replacement = replacement.strip()
+            if '|' in replacement:
+                old_text, new_text = replacement.split('|', 1)
+                text = text.replace(old_text, new_text)
     
     # Normalize multiple newlines
     text = re.sub(r'\n{3,}', '\n\n', text)
