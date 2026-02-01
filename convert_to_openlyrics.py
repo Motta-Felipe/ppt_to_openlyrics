@@ -336,6 +336,18 @@ def is_header_footer(text: str, title: str, all_slides_text: list[list[str]],
             filtered_items.append(f"Removed church name header: '{text_stripped}'")
         return True
     
+    # Check if line matches title with number prefix (e.g., "178 - Come il riarso terreno")
+    if title:
+        text_no_number = TITLE_NUMBER_PATTERN.sub('', text_stripped).strip()
+        text_no_number_normalized = _normalize_for_title_comparison(text_no_number)
+        title_normalized = _normalize_for_title_comparison(title)
+        
+        # If after removing number prefix, the line matches the title, it's a header
+        if text_no_number_normalized == title_normalized and text_no_number != text_stripped:
+            if filtered_items is not None:
+                filtered_items.append(f"Removed numbered title header: '{text_stripped}'")
+            return True
+    
     # Only filter very short text (<=3 words) that appears on most slides as standalone
     # This catches headers like "Page 1" or church names, but not lyric refrains
     words = text_stripped.split()
