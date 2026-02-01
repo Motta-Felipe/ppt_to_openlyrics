@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>77 Io Mi Avvicino A Te</title>
+    </titles>
+    <songbooks>
+      <songbook name="Io Mi Avvicino A Te" entry="77"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Io mi avvicino a te,<br />io mi avvicino a te;<br />fonte di vita, fonte di vita<br />mio Salvatore Re.<br />Fonte di vita fonte di vita<br />mio Salvatore Re.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fa tacer nel mio cuor,<br />fa tacer nel mio cuor;<br />ogni altra voce, ogni altra voce<br />tu solo parla o Re.<br />Ogni altra voce, ogni altra voce<br />tu solo parla o Re</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dammi costante ardor,<br />dammi costante ardor;<br />pel tuo servizio, pel tuo servizio.<br />deh fammi, vincitor.<br />Pel tuo servizio, pel tuo servizio,<br />deh fammi vincitor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E quando tornerai,<br />e quando tornerai;<br />nelle tue schiere, nelle tue schiere<br />tu mi ritroverai.<br />Nelle tue schiere, nelle tue schiere<br />tu mi ritroverai.</lines>
+    </verse>
+  </lyrics>
+</song>

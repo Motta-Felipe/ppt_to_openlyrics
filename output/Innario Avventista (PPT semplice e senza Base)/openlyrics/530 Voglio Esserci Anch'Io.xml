@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>530 Voglio Esserci Anch'Io</title>
+    </titles>
+    <songbooks>
+      <songbook name="Voglio Esserci Anch'Io" entry="530"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stare insieme a te in un mondo che<br />non ricerca più il tuo amor, mio Signor.<br />Quanti discorsi vani e parole al vento<br />restando seduto lì sul cemento.<br />Quanta è la voglia di alzarsi e gridare<br />“Voglio esserci anch’io”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E poi correrti incontro, Signore mio.<br />Ma forse adesso è già tardi e non ti trovo,<br />sei già andato via.<br />Quanta è la voglia di alzarsi e gridare<br />“Voglio esserci anch’io”<br />E poi correrti incontro, Signore mio.</lines>
+    </verse>
+  </lyrics>
+</song>

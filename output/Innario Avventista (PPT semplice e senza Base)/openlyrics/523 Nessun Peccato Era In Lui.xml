@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>523 Nessun Peccato Era In Lui</title>
+    </titles>
+    <songbooks>
+      <songbook name="Nessun Peccato Era In Lui" entry="523"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nessun peccato era in lui,<br />perciò discese a noi dal ciel,<br />per camminare accanto a noi,<br />per diventar di Dio l’Agnel.<br />Agnel di Dio, dolce Signor,<br />tu sei il mio amato Salvator,<br />col sangue tuo l’errore mio<br />hai riscattato, o Agnel di Dio.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ma il popol tuo non accettò<br />e sulla croce t’inchiodò<br />e condannandoti all’oblio,<br />sacrificò l’Agnel di Dio.<br />Agnel di Dio, dolce Signor,<br />tu sei il il mio amato Salvator,<br />col sangue tuo l’errore mio<br />hai riscattato, o Agnel di Dio.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ma io Signor ti voglio amar<br />e voglio star accanto a te,<br />per proclamare l’amor tuo,<br />ed esser Re o Agnel di Dio.<br />Agnel di Dio, dolce Signor,<br />tu sei il nostro Redentor,<br />e tutti noi veniamo a te<br />agnelli del divino Re.</lines>
+    </verse>
+  </lyrics>
+</song>

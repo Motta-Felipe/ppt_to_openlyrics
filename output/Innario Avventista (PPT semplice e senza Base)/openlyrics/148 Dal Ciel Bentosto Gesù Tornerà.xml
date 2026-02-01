@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>148 Dal Ciel Bentosto Gesù Tornerà</title>
+    </titles>
+    <songbooks>
+      <songbook name="Dal Ciel Bentosto Gesù Tornerà" entry="148"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dal ciel bentosto Gesù tornerà.<br />Se fosse in questo dì.<br />Incontro a noi glorioso verrà.<br />Se fosse in questo dì.<br />Al suo ritorno coi suoi santi,<br />incontro a lui con inni e canti;<br />risorti andremo tutti quanti.<br />Se fosse in questo dì.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gloria! Gloria! Gesù ritornerà!<br />Gloria! Gloria! Noi lo incontreremo.<br />Gloria! Gloria! Noi lo adoreremo.<br />Gloria! Gloria! Gesù ritornerà.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lassù nel cielo il mal non è più.<br />Se fosse in questo dì.<br />Non più dolor ma l’amor di Gesù.<br />Se fosse in questo dì.<br />Quest’alma mia quel dì sospira,<br />mentre la notte già si ritira;<br />e il bel mattino già rimira.<br />Se fosse in questo dì.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gloria! Gloria! Gesù ritornerà!<br />Gloria! Gloria! Noi lo incontreremo.<br />Gloria! Gloria! Noi lo adoreremo.<br />Gloria! Gloria! Gesù ritornerà.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Puri nel cuore ci trovi Gesù.<br />Se fosse in questo dì!<br />Quando all’appello ci chiama lassù.<br />Se fosse in questo dì.<br />Siam tutti pronti per quel giorno<br />per incontrarlo al suo ritorno?<br />A lui saremo tutti intorno.<br />Se fosse in questo dì?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gloria! Gloria! Gesù ritornerà!<br />Gloria! Gloria! Noi lo incontreremo.<br />Gloria! Gloria! Noi lo adoreremo.<br />Gloria! Gloria! Gesù ritornerà.</lines>
+    </verse>
+  </lyrics>
+</song>

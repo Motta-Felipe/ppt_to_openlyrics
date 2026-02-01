@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>355 O Creatore, Padre D’amore</title>
+    </titles>
+    <songbooks>
+      <songbook name="O Creatore, Padre D’amore" entry="355"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Creatore, Padre d’amore,<br />noi t’invochiamo, ascoltaci!<br />A te gridiamo, a te eleviamo<br />i nostri cuori supplici.<br />A te rendiamo gloria,<br />sei tu che dai vittoria;<br />senza di te siam vinti,<br />tutto possiamo in te.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Padre santo, che il nostro pianto<br />vuoi nel perdono accogliere,<br />all’infinita fonte di vita<br />per tua bontà dissetaci.<br />Sol nella tua parola,<br />e per tua grazia sola,<br />la giusta via troviamo.<br />Ci abbandoniamo a te.</lines>
+    </verse>
+  </lyrics>
+</song>

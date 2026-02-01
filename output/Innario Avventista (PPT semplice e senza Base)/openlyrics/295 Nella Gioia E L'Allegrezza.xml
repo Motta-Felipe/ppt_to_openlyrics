@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>295 Nella Gioia E L'Allegrezza</title>
+    </titles>
+    <songbooks>
+      <songbook name="Nella Gioia E L'Allegrezza" entry="295"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nella gioia e l’allegrezza<br />che offuscar nulla potrà,<br />di tua balda giovinezza<br />il bel fior si schiuderà.<br />Se vuoi essere felice,<br />deh, rispondi al tuo Signor!<br />Odi il Cristo che ti dice:<br />“Figlio mio, dammi il tuo cuor!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>È il tuo dono che ti chiama<br />con dolcezza e con bontà;<br />l’alma tua che viver brama<br />in lui vita eterna avrà.<br />Offri a lui la giovinezza,<br />ei ti dice con amor:<br />“Senza tema e debolezza,<br />figlio mio, dammi il tuo cuor!”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Non tardare! Vuoi tu forse<br />la tua libertà goder?<br />Del peccato nelle morse<br />l’alma tua potria cader!<br />O ridente giovinezza,<br />non macchiar il tuo bel fior!<br />Vieni a me con allegrezza,<br />figlio mio, dammi il tuo cuor!</lines>
+    </verse>
+  </lyrics>
+</song>

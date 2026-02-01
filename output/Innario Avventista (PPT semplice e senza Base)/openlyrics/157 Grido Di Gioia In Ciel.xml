@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>157 Grido Di Gioia In Ciel</title>
+    </titles>
+    <songbooks>
+      <songbook name="Grido Di Gioia In Ciel" entry="157"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Grido di gioia in ciel<br />cantando verità:<br />in gloria e senza vel<br />Cristo ritornerà.<br />Ei morì e risorse e ritornerà.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Il dubbio ed il dolor<br />non devi tu temer;<br />presto verrà il Signor,<br />godrai del suo poter.<br />Ei morì e risorse e ritornerà.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Questa è la verità!<br />Al mondo nel terror<br />diciamo ch’ei verrà<br />nel pieno suo splendor<br />Ei morì e risorse e ritornerà.</lines>
+    </verse>
+  </lyrics>
+</song>

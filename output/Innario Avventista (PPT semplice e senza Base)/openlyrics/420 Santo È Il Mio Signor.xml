@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>420 Santo È Il Mio Signor</title>
+    </titles>
+    <songbooks>
+      <songbook name="Santo È Il Mio Signor" entry="420"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Santo, Santo, Santo,<br />Santo è il mio Signor.<br />Santo, Santo, Santo,<br />è l’Iddio del ciel.<br />È il Signore eterno,<br />è l’Iddio d’amor.<br />Regna su nel cielo<br />ed in terra ancor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Santo, Santo, Santo,<br />Santo è il mio Signor.<br />Santo, Santo, Santo,<br />è l’Iddio del ciel.<br />A lui sia la gloria<br />oggi e in ogni età.<br />Lode sia in eterno<br />alla sua maestà.</lines>
+    </verse>
+  </lyrics>
+</song>

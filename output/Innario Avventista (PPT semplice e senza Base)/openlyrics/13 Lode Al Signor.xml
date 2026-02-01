@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>13 Lode Al Signor</title>
+    </titles>
+    <songbooks>
+      <songbook name="Lode Al Signor" entry="13"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lode al Signor che regna in ciel;<br />inni di lode cantiamo.<br />Del suo poter le prove ancor<br />e del suo amor contempliamo.<br />Tu sei il Signore, il Creator,<br />ed in Gesù sei Redentor.<br />O Dio d’amor, t’adoriamo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In ogni di, nostro Signor,<br />tu ci proteggi e guidi.<br />Forza e vigor tu doni al cuor<br />che pone in te la speranza.<br />Veniam, Signor, con fede e amor<br />cerchiamo in te vita e perdon.<br />Nostro Signor, t’adoriamo!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>465 V'È Un Edenne</title>
+    </titles>
+    <songbooks>
+      <songbook name="V'È Un Edenne" entry="465"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>V’è un Edenne di pace e letizia<br />ove i santi avran regno immortal:<br />ivi splendono amore e giustizia<br />dileguando ogni duol ogni mal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Siamo in via finché angelico segno<br />non ne chiami alla santa città.<br />Entreremo di Cristo nel regno<br />tutto in tutti Iddio sempre sarà.<br />Vi saran distacchi ancor?<br />No, mai più distacchi allor.<br />Nel superno regno eterno<br />no mai più distacchi allor.<br />Nel superno regno eterno<br />no mai più distacchi allor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sempre avanti, ed in breve l’Edenne<br />noi per fede nel Cristo otterrem.<br />Che ineffabile gloria perenne<br />in Gesù tutti vivere insiem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Siamo in via finché angelico segno<br />non ne chiami alla santa città.<br />Entreremo di Cristo nel regno<br />tutto in tutti Iddio sempre sarà.<br />Vi saran distacchi ancor?<br />No, mai più distacchi allor.<br />Nel superno regno eterno<br />no mai più distacchi allor.<br />Nel superno regno eterno<br />no mai più distacchi allor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vane, effimere, queste dovizie<br />della terra in confronto del ciel!<br />E fallace illusion le delizie<br />onde inebriasi un cuor infedel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Siamo in via finché angelico segno<br />non ne chiami alla santa città.<br />Entreremo di Cristo nel regno<br />tutto in tutti Iddio sempre sarà.<br />Vi saran distacchi ancor?<br />No, mai più distacchi allor.<br />Nel superno regno eterno<br />no mai più distacchi allor.<br />Nel superno regno eterno<br />no mai più distacchi allor.</lines>
+    </verse>
+  </lyrics>
+</song>

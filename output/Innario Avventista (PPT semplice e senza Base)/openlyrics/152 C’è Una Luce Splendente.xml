@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>152 C’è Una Luce Splendente</title>
+    </titles>
+    <songbooks>
+      <songbook name="C’è Una Luce Splendente" entry="152"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C’è una luce splendente<br />che brilla lassù:<br />è la gloria del mio Salvator.<br />Ho percorso il cammino<br />con Cristo Gesù<br />e la pace possiede il mio cuor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>In quel giorno di luce<br />Gesù tornerà<br />il celeste, divin Redentor,<br />la mia vita felice<br />ed eterna sarà<br />come dono del suo grande amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>La speranza di vita<br />che dona Gesù<br />può cambiare la strada di un cuor.<br />Se vuoi esser felice,<br />amico, anche tu<br />vieni a Cristo, il Dio salvator.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>In quel giorno di luce<br />Gesù tornerà<br />il celeste, divin Redentor,<br />la mia vita felice<br />ed eterna sarà<br />come dono del suo grande amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quella terra promessa<br />dal mio Redentor<br />sarà ricca di felicità.<br />Saran vinti la morte,<br />il pianto e il dolor<br />lode a Cristo per l’eternità.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>In quel giorno di luce<br />Gesù tornerà<br />il celeste, divin Redentor,<br />la mia vita felice<br />ed eterna sarà<br />come dono del suo grande amor.</lines>
+    </verse>
+  </lyrics>
+</song>

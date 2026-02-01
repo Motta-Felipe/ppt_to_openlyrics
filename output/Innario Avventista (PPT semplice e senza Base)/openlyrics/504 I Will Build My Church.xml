@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>504 I Will Build My Church</title>
+    </titles>
+    <songbooks>
+      <songbook name="I Will Build My Church" entry="504"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will build church<br />and the gates of hell<br />shall not prevail<br />against it.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So you powers un the heaven<br />above, bow down!<br />And you powers on the earth<br />below, bow down!<br />And acknowledge that Jesus,<br />Jesus, Jesus is Lord, is Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

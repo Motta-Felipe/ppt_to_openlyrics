@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>132 Con Vivo E Santo Giubilo</title>
+    </titles>
+    <songbooks>
+      <songbook name="Con Vivo E Santo Giubilo" entry="132"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Con vivo e santo giubilo<br />leviamo i nostri cantici!<br />Nato è il fanciullino<br />promesso innanzi secoli!<br />È giunto il Re divino<br />che reca pace agli uomini!<br />Su leviamo il canto:<br />Nato è il Redentor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Immensa luce vivida<br />l’oscura terra illumina;<br />l’inno celestiale<br />riempie il gran silenzio<br />e trionfante sale<br />al trono dell’Altissimo.<br />“Gloria a Dio nei cieli;<br />pace in terra e amor!”</lines>
+    </verse>
+  </lyrics>
+</song>

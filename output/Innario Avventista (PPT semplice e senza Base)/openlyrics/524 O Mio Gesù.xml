@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>524 O Mio Gesù</title>
+    </titles>
+    <songbooks>
+      <songbook name="O Mio Gesù" entry="524"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O mio Gesù, quale amico sei tu;<br />con quanta grazia ci parli d’amor.<br />Tu sei la stella che risplende al mattin.<br />O mio Gesù, quanta pace dai tu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gesù, Signor, voglio averti con me,<br />sentirti amico, amico fedel.<br />Accanto a te tutto chiaro sarà.<br />O mio Gesù, quale amico sei tu!</lines>
+    </verse>
+  </lyrics>
+</song>

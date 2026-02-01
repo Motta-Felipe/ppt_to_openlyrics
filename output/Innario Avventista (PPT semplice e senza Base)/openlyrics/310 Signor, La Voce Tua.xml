@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>310 Signor, La Voce Tua</title>
+    </titles>
+    <songbooks>
+      <songbook name="Signor, La Voce Tua" entry="310"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Signor, la voce tua è giunta a questo cuore<br />che implora il tuo favore e la tua pace ancor.<br />Andai da te lontano in cerca della vita,<br />ma solo un’infinita angoscia il cuor trovò,<br />angoscia il cuor trovò.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Signor, nella mia vita son stato peccatore;<br />perdonami, Signore, concedimi il tuo amor.<br />Un dì, su quella croce per me moristi, o Dio;<br />deh, prendi il cuore mio, rinnova la mia fé,<br />rinnova la mia fé.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Signor, col tuo perdono la pace alfin ricevo;<br />quest’anima sollievo per grazia trovo in te.<br />Prendi la vita mia, accettala, Signore,<br />e infondi nel mio cuore la gioia del tuo amor,<br />la gioia del tuo amor.</lines>
+    </verse>
+  </lyrics>
+</song>

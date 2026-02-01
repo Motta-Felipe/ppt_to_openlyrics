@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>300 Gesù, Perdonami</title>
+    </titles>
+    <songbooks>
+      <songbook name="Gesù, Perdonami" entry="300"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vengo, Gesù; perdonami<br />le mie mancanze amare;<br />io voglio in te rinascere,<br />viver per te, chiamare<br />all’amor tuo gli uomini<br />immersi nel l’error.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vengo, Gesù; sul Golgota,<br />con voce di lamento;<br />l’umanità che unanime<br />ti grida il suo tormento,<br />a te rivolge un supplice<br />appello di pietà.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vengo, Gesù; l’immagine<br />portando nel mio cuore<br />di tutti quei che soffrono,<br />che han sete del tuo amore<br />e della tua giustizia<br />e della tua bontà.</lines>
+    </verse>
+  </lyrics>
+</song>

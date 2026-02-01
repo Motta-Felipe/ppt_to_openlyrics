@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>11 A Dio Cantate Un Canto Nuovo</title>
+    </titles>
+    <songbooks>
+      <songbook name="A Dio Cantate Un Canto Nuovo" entry="11"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Dio cantate un canto nuovo,<br />poiché prodigi egli operò;<br />la sua man destra vittoriosa<br />e il santo braccio suo levò.<br />L’Onnipotente ha rivelato<br />il gran mistero di sua pietà;<br />la sua giustizia han contemplato<br />del mondo fin le estremità.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egli è fedel ed ha donato<br />fede, speranza e carità;<br />per il suo popol di credenti<br />egli è l’Iddio di fedeltà.<br />Or giubilate e salmeggiate<br />col suon di corni e cetre d’or;<br />o voi che siete sulla terra<br />gloria cantate al Re Signor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Risuoni il mare e ciò che è in esso<br />di gioia echeggi il mondo inter;<br />i fiumi cantino canzoni<br />e i monti esultin di piacer.<br />Poiché egli vien per giudicare<br />e le nazioni a governar;<br />la legge sua, la sua giustizia<br />saprà fra i popoli instaurar.</lines>
+    </verse>
+  </lyrics>
+</song>

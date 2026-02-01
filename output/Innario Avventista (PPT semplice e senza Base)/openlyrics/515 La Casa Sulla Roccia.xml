@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>515 La Casa Sulla Roccia</title>
+    </titles>
+    <songbooks>
+      <songbook name="La Casa Sulla Roccia" entry="515"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>La casa tua mai dovrai costruir<br />vicino al mar, sulla sabbia;<br />altrimenti la vedrai crollar giù<br />e tu dovrai costruire la tua casa ancor.<br />Se costruisci, invece, su Gesù,<br />più forte e solida la casa tua sarà.<br />I venti soffieranno su lei<br />ma la tempesta non l’abbatterà.</lines>
+    </verse>
+  </lyrics>
+</song>

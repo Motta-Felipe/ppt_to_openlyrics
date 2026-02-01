@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>97 La Sorgente Della Vita</title>
+    </titles>
+    <songbooks>
+      <songbook name="La Sorgente Della Vita" entry="97"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vieni a Cristo, la sorgente<br />della vita e d’ogni ben;<br />troverai la salvezza<br />e il perdono nel suo amor.<br />Gesù santo, mio Signor,<br />su quel legno s’immolò;<br />vieni a lui, offri il tuo cuore<br />a colui che ti salvò.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Redentore benedetto,<br />ogni bene trovo in te;<br />tu mi doni la speranza,<br />vita, gioia, eternità.<br />Gesù santo, mio Signor,<br />che moristi anche per me,<br />vengo a te, prendi il mio cuore,<br />voglio vivere con te.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>279 Venite A Me</title>
+    </titles>
+    <songbooks>
+      <songbook name="Venite A Me" entry="279"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>“Venite a me voi tutti<br />che siete nel dolor,<br />che avete oppresso il cuore,<br />che ricercate amor<br />la pace vi darò.”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Agnello immacolato,<br />vengo con umiltà,<br />vengo col mio peccato,<br />chiedo la tua bontà,<br />cerco il tuo amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Un dì su quella croce,<br />tu solo, o mio Signor,<br />per quel soffrire atroce<br />doni riposa al cuor:<br />un grazie a te, Signor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gesù mio Salvatore,<br />debole e la mia fè;<br />ti dono questo cuore<br />che crede e spera in te:<br />è tutto tuo, Signor!</lines>
+    </verse>
+  </lyrics>
+</song>

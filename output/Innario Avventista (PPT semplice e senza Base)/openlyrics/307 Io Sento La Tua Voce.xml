@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>307 Io Sento La Tua Voce</title>
+    </titles>
+    <songbooks>
+      <songbook name="Io Sento La Tua Voce" entry="307"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Io sento la tua voce<br />chiamarmi con amor;<br />ed umile alla croce<br />io vengo, o Redentor.<br />Si, vengo al tuo cospetto per implorar pietà,<br />che da te solo aspetto e grazia e carità.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Colpevole qual sono,<br />riposo più non ho:<br />nel dolce tuo perdono<br />io pace troverò.<br />Si, vengo al tuo cospetto per implorar pietà,<br />che da te solo aspetto e grazia e carità.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ravviva nel cuor mio<br />speranza, fede e amor;<br />Gesù, figliuol di Dio,<br />che salvi il peccator.<br />Si, vengo al tuo cospetto per implorar pietà,<br />che da te solo aspetto e grazia e carità.</lines>
+    </verse>
+  </lyrics>
+</song>

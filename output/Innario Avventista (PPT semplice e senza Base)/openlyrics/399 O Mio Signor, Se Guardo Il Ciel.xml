@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>399 O Mio Signor, Se Guardo Il Ciel</title>
+    </titles>
+    <songbooks>
+      <songbook name="O Mio Signor, Se Guardo Il Ciel" entry="399"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O mio Signor, se guardo il ciel, le stelle,<br />se penso ai mondi opra di tua man;<br />se odo il tuon nel cielo che risuona,<br />al tuo poter io penso, o mio Signor.<br />Il canto mio, Signore, elevo a te,<br />grande tu sei, grande tu sei. (Bis)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se pei sentier del bosco vado errando,<br />io sento allor un dolce cinguettar.<br />Guardando giù dall’alto d’una vetta<br />odo il ruscel che canta al Creator.<br />Il canto mio, Signore, elevo a te,<br />grande tu sei, grande tu sei. (Bis)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Dio d’amor, pensando al sacrificio<br />che tu facesti dando il tuo Figliuol,<br />sento tremar il cuore mio smarrito<br />che cerca in te la gioia del perdon.<br />Il canto mio, Signore, elevo a te,<br />grande tu sei, grande tu sei. (Bis)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O mio Gesù, moristi sulla croce<br />per dar salvezza all’uomo peccator.<br />Quel lieto dì risposi alla tua voce<br />ed or felice son, o Redentor!<br />Il canto mio, Signore, elevo a te,<br />grande tu sei, grande tu sei. (Bis)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>E quando un dì dal ciel verrai, Signore,<br />incontro a te nel cielo anch’io verrò.<br />Di gioia il cuor traboccherà, adorando<br />a te dirà che grande sei Signor.<br />Il canto mio, Signore, elevo a te,<br />grande tu sei, grande tu sei. (Bis)</lines>
+    </verse>
+  </lyrics>
+</song>

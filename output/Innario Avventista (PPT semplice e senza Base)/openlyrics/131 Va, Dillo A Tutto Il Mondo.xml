@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>131 Va, Dillo A Tutto Il Mondo</title>
+    </titles>
+    <songbooks>
+      <songbook name="Va, Dillo A Tutto Il Mondo" entry="131"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Va, dillo a tutto il mondo,<br />parla con fede, zelo e gran fervor;<br />va’, dillo a tutto il mondo<br />che Cristo è il Signor:<br />La notte di Natale<br />un coro su nel ciel cantava:<br />“Alleluia, è nato il Redentore”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Va, dillo a tutto il mondo,<br />parla con fede, zelo e gran fervor;<br />va’, dillo a tutto il mondo<br />che Cristo è il Signor.<br />Quel canto trionfale<br />l’udirono i pastori,<br />e presto con amore andarono al Signore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Va, dillo a tutto il mondo,<br />parla con fede, zelo e gran fervor;<br />va’, dillo a tutto il mondo<br />che Cristo è il Signor.<br />In una mangiatoia giaceva quel piccin<br />per me lasciò il suo trono,<br />per me morì il Signore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Va, dillo a tutto il mondo,<br />parla con fede, zelo e gran fervor;<br />va’, dillo a tutto il mondo<br />che Cristo è il Signor.<br />E’ la buona notizia di pace e libertà,<br />la voglio raccontare<br />con forza e con vigore.</lines>
+    </verse>
+  </lyrics>
+</song>

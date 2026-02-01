@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>240 Tu Sei Del Sabato, Gesù, Signor</title>
+    </titles>
+    <songbooks>
+      <songbook name="Tu Sei Del Sabato, Gesù, Signor" entry="240"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu sei del sabato, Gesù, Signor;<br />questo riposo saluto ancor.<br />Per me, afflitto, è balsamo,<br />altro conforto non v’è per me,<br />altro conforto non v’è, no, per me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O sacro giorno di pace e amor;<br />care son sempre queste ore al cuor.<br />Che il mal non possa ledere<br />questo beato mio gioir,<br />questo beato, celeste gioir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Brevi quest’ore son per il fedel,<br />ma pregustiamo quelle del ciel:<br />meraviglioso cantico<br />che una dischiude santa vision,<br />si, ci dischiude una santa vision.</lines>
+    </verse>
+  </lyrics>
+</song>

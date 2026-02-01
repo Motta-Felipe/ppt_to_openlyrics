@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>496 Forza Giovani</title>
+    </titles>
+    <songbooks>
+      <songbook name="Forza Giovani" entry="496"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Se nel mondo noi<br />troviamo poca umanità,<br />con gran gioia rispondiamo<br />a chi cerca amor.<br />Forza giovani lottiamo<br />con la fede che ci dà.<br />E restando tutti uniti<br />vinceremo sempre il mal.</lines>
+    </verse>
+  </lyrics>
+</song>

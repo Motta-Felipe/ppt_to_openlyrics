@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>368 Avrò La Vita Eterna</title>
+    </titles>
+    <songbooks>
+      <songbook name="Avrò La Vita Eterna" entry="368"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Avrò la vita eterna per il Signor Gesù,<br />e allora pien di luce sarà il mio avvenir.<br />Il Cristo redentore dagli occhi asciugherà<br />le lacrime dei salvati<br />che in cielo andran per fé;<br />la gioia sarà immensa col Salvator Gesù.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Non più la morte e il pianto, ne grido, ne soffrir,<br />ma gioia intensa e vita sarà in eternità.<br />Le cose del passato non torneranno più:<br />saran per sempre dal cuore<br />disperse nel suo amor.<br />Vivremo nell’esultanza accanto al Signor!</lines>
+    </verse>
+  </lyrics>
+</song>

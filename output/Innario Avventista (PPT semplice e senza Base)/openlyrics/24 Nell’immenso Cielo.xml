@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>24 Nell’immenso Cielo</title>
+    </titles>
+    <songbooks>
+      <songbook name="Nell’immenso Cielo" entry="24"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nell’immenso cielo terso<br />muovi gli astri, gran Signore;<br />tu creasti l’universo,<br />terre e mari, piante e fior.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fai risplender la natura<br />di mirabile beltà;<br />mostri in essa a dismisura<br />tua sapienza e verità.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Per i tuoi sublimi doni<br />che largisci con amor,<br />lieto un canto in noi risuoni:<br />“Grazie, o Padre creator!”</lines>
+    </verse>
+  </lyrics>
+</song>

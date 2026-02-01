@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>108 Gesù Dal Ciel È Sceso Allor</title>
+    </titles>
+    <songbooks>
+      <songbook name="Gesù Dal Ciel È Sceso Allor" entry="108"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gesù dal ciel è sceso allor<br />per dare vita al mondo.<br />Gesù dal ciel è sceso allor<br />donando pace ai cuor.<br />A volte sono stanco<br />coraggio non ho più,<br />ma per lo Spirito Santo<br />mi appoggio su Gesù.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Io voglio raccontare<br />che  Gesù è il Salvator,<br />ma temo di parlare,<br />ché debole è il mio cuor.<br />Gesù dal ciel è sceso allor<br />per dare vita al mondo.<br />Gesù dal ciel è sceso allor<br />donando pace ai cuor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Di questa terra ingrata<br />retaggio del dolor,<br />ma il mio soffrire e pianto<br />li placa il mio Signor.<br />Gesù dal ciel è sceso allor<br />per dare vita al mondo.<br />Gesù dal ciel è sceso allor<br />donando pace ai cuor.</lines>
+    </verse>
+  </lyrics>
+</song>

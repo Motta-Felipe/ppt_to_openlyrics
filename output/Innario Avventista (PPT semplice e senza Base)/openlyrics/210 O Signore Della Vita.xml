@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>210 O Signore Della Vita</title>
+    </titles>
+    <songbooks>
+      <songbook name="O Signore Della Vita" entry="210"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Signore della vita<br />spargi i doni tuoi su noi;<br />dacci fede, amore vero<br />per la grande tua bontà.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dai purezza al nostro cuore,<br />dacci il dono di parola<br />per parlare del Vangelo,<br />ché Gesù sta per tornar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tanti muoiono senza Cristo,<br />tanti sono nel dolore;<br />manda noi fra questa gente<br />per parlare del tuo amor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dona a noi la tua potenza<br />e lo Spirito divino<br />per parlare della salvezza<br />a chi è stanco e senza te.</lines>
+    </verse>
+  </lyrics>
+</song>

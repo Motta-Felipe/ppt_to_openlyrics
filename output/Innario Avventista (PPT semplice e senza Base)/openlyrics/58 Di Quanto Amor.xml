@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>58 Di Quanto Amor</title>
+    </titles>
+    <songbooks>
+      <songbook name="Di Quanto Amor" entry="58"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Di quanto amor mi ha amato il Redentore!<br />Non so perché, m’avvince a sé il Signor:<br />certo saran la sua bontà, l’amore<br />che danno a questo cuore mio più zel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se guardo il ciel, l’immenso firmamento,<br />non so perché mi sento conquistar;<br />l’onda del mar che canta al ciel le lodi<br />le corde del mio cuore fa vibrar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Creator, donasti il tuo Figliuolo<br />a chi tradì l’amore tuo, Signor.<br />Anche per me Gesù morì un giorno,<br />e quella croce avvince questo cuor.</lines>
+    </verse>
+  </lyrics>
+</song>

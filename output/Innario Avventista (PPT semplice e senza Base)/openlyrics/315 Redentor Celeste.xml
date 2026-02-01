@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>315 Redentor Celeste</title>
+    </titles>
+    <songbooks>
+      <songbook name="Redentor Celeste" entry="315"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Redentor celeste, stella della fé<br />urlino tempeste, son sicuro in te.<br />Te sospiro, anelo oggi, e nulla più:<br />gioia e pace e cielo trovo in te Gesù,<br />gioia e pace e cielo trovo in te Gesù.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sei la mia speranza, pace e sicurtà;<br />tu mi dai costanza,forza e libertà.<br />Senza te, mia vita non ha più valor;<br />tienla dunque unita con la tua, Signor;<br />tienla dunque unita con la tua, Signor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sono un pellegrino mentre son quaggiù;<br />meta del cammino sei tu, buon Gesù.<br />Fa’ la tua dimora nel mio cuore, o Re;<br />vo’ servirti ognora, consacrarmi a te;<br />vo’ servirti ognora, consacrarmi a te.</lines>
+    </verse>
+  </lyrics>
+</song>

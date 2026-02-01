@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>164 Viva Speranza</title>
+    </titles>
+    <songbooks>
+      <songbook name="Viva Speranza" entry="164"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Viva  speranza<br />vibra nel mio cuor:<br />presto Gesù dal ciel verrà!<br />Santa Speranza<br />frutto della fé<br />nella parola del Signor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E’ vicino il giorno che<br />le nazioni, il mondo inter<br />canteranno con fervor:<br />alleluia al Cristo, al Re!<br />Viva speranza<br />vibra nel mio cuor:<br />presto Gesù dal ciel verrà!</lines>
+    </verse>
+  </lyrics>
+</song>

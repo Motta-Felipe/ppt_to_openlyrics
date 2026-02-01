@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>409 Celebriamo Il Signore</title>
+    </titles>
+    <songbooks>
+      <songbook name="Celebriamo Il Signore" entry="409"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Celebriamo il Signore,<br />perché egli è buono<br />e la sua benignità dura in eterno.<br />Ho cercato il Signore<br />ed egli m’ha risposto;<br />il Signore è la mia salvezza:<br />alleluia, alleluia,<br />lode a lui in ogni età.</lines>
+    </verse>
+  </lyrics>
+</song>

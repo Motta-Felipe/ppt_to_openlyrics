@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>106 Al Signor Del Cielo, Cristo Gesù</title>
+    </titles>
+    <songbooks>
+      <songbook name="Al Signor Del Cielo, Cristo Gesù" entry="106"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Al Signor del cielo, a Dio creator<br />sia tutta la lode, gloria ed onor.<br />La tua pace santa dona a noi quaggiù;<br />tu nostra salvezza sei Cristo Gesù.<br />Gloria te cantiamo, gloria a te, Signor;<br />noi ti celebriamo, ti doniamo il cuor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Signor del cielo, nostro Dio e Re,<br />prendici per meno, donaci la fé.<br />Alle nostre case portaci Gesù,<br />non lasciarci soli, su noi veglia tu.<br />Gloria te cantiamo, gloria a te, Signor;<br />noi ti celebriamo, ti doniamo il cuor.</lines>
+    </verse>
+  </lyrics>
+</song>

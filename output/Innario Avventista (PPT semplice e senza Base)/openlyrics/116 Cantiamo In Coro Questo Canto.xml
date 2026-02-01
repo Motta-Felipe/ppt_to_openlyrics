@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>116 Cantiamo In Coro Questo Canto</title>
+    </titles>
+    <songbooks>
+      <songbook name="Cantiamo In Coro Questo Canto" entry="116"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Su, cantiamo in coro questo canto<br />di lode a te Gesù.<br />Tu lasciasti il cielo per donare<br />la vita a noi quaggiù.<br />Quella stella che brillo su nel ciel,<br />brilli nei nostri cuor.<br />Nella notte santa di Natale<br />uomo nascesti, o mio Gesù.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nel cammino della vita tua,<br />o divino Redentor,<br />sofferenza, pianto, duolo amaro<br />lenisti col tuo amor.<br />Ridonasti ai vinti la gioia al cuor<br />e la vittoria, o Re;<br />tu portasti il sole della vita<br />a chi disperava senza te.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>La tua vita desti un dì per me,<br />o divino mio Signor.<br />Questo dono immenso,<br />frutto del sacrificio tuo, Gesù,<br />porterà la gioia vera ognor,<br />ché gioia sei, Signor.<br />E la croce, segno del tuo amor,<br />ci condurrà con te lassù.</lines>
+    </verse>
+  </lyrics>
+</song>

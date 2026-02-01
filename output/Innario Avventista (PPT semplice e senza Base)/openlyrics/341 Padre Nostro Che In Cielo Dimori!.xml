@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>341 Padre Nostro Che In Cielo Dimori!</title>
+    </titles>
+    <songbooks>
+      <songbook name="Padre Nostro Che In Cielo Dimori!" entry="341"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Padre nostro che in cielo dimori,<br />del tuo nome esaltiam la virtù.<br />Su noi regna e sia fatto, o Signore,<br />come in ciel tuo volere quaggiù.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oggi il pan quotidiano ne dona,<br />e le offese rimettici ancor,<br />come ognuno di noi le perdona<br />al fratello che gli è debitor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne preserva con mano paterna<br />dalle insidie del gran tentator;<br />poiché regni potente ed eterna<br />e tua gloria, pietoso Signor. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

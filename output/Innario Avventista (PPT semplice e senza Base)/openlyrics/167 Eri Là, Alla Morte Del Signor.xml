@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>167 Eri Là, Alla Morte Del Signor</title>
+    </titles>
+    <songbooks>
+      <songbook name="Eri Là, Alla Morte Del Signor" entry="167"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>167   Eri là, alla morte del Signor?<br />Eri là, alla morte del Signor?<br />Eri là, alla morte del Signor?<br />Oh,…. sento il cuore tremare,<br />piango, piango, piango!<br />Eri là, alla morte del Signor?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eri là quando fu inchiodato, ahime?<br />Eri là quando fu inchiodato, ahime?<br />Oh,…. sento il cuore tremare<br />piango, piango, piango!<br />Eri là quando fu inchiodato, ahime?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eri là, quando il sole si oscurò?<br />Eri là, quando il sole si oscurò?<br />Oh,…. sento il cuore tremare<br />piango, piango, piango!<br />Eri là, quando il sole si oscurò?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eri là, quando fu sepolto alfin?<br />Eri là, quando fu sepolto alfin?<br />Oh,…. sento il cuore tremare<br />piango, piango, piango!<br />Eri là, quando fu sepolto alfin?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Eri là, alla sua resurrezion?<br />Eri là, alla sua resurrezion?<br />Oh,…. sento il cuore tremare<br />piango, piango, piango!<br />Eri là, alla sua resurrezion?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>39 O Signore, La Tua Luce</title>
+    </titles>
+    <songbooks>
+      <songbook name="O Signore, La Tua Luce" entry="39"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come faro risplendente<br />della notte rompe il vel,<br />tal di Dio l’amore ardente<br />cerca l’uomo e il guida al ciel.<br />O Signore la tua luce<br />splenda viva in mezzo al mar:<br />essa sola a te conduce<br />il perduto marinar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nessun astro in ciel addita<br />il cammino al viaggiator;<br />da chi mai verrà l’aiuto<br />se non viene dal Signor?<br />O Signore la tua luce<br />splenda viva in mezzo al mar:<br />essa sola a te conduce<br />il perduto marinar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nella notte che s’avanza<br />tu mi guidi, o Salvator;<br />deh, sii tu la mia speranza<br />sii la luce del mio cuor.<br />O Signore la tua luce<br />splenda viva in mezzo al mar:<br />essa sola a te conduce<br />il perduto marinar.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>278 Vieni, L'Alma Mia T'Invoca</title>
+    </titles>
+    <songbooks>
+      <songbook name="Vieni, L'Alma Mia T'Invoca" entry="278"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vieni, l’alma mia t’invoca,<br />o Gesù che m’hai salvato;<br />al tuo amore immensurato<br />abbandono questo cuor.<br />Vieni, l’alma mia ti chiama<br />ogni bene trovo in te;<br />il mio cuore te sol brama:<br />o Gesù, dimora in me!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Si, la grazia tua cancella<br />ogni macchia di mia vita;<br />da te viene un’infinita<br />pace all’alma, o Salvator!<br />Vieni, l’alma mia ti chiama<br />ogni bene trovo in te;<br />il mio cuore te sol brama:<br />o Gesù, dimora in me!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, dimora in me, Signore,<br />mia difesa, mio conforto!<br />La mia vita sempre assorto<br />fa’ ch’io scorra nel tuo amor.<br />Vieni, l’alma mia ti chiama<br />ogni bene trovo in te;<br />il mio cuore te sol brama:<br />o Gesù, dimora in me!</lines>
+    </verse>
+  </lyrics>
+</song>

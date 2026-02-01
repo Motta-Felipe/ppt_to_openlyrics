@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>136 Chi È Quel Bimbo</title>
+    </titles>
+    <songbooks>
+      <songbook name="Chi È Quel Bimbo" entry="136"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chi è quel bimbo che giace la,<br />tra il bue e l’asinello,<br />al quale gli angeli cantano<br />una dolce ninna nanna?<br />È Cristo, il Re dei re,<br />per noi sceso su questa terra<br />per darci la vita e il ciel,<br />se saremo a lui fedeli.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maria, la madre, e Giuseppe ancor<br />lo carezzano dolcemente.<br />Col canto dolce degli angeli<br />sono accorsi anche i pastori.<br />È Cristo, il Re dei re,<br />per noi sceso su questa terra<br />per darci la vita e il ciel,<br />se saremo a lui fedeli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Venite, uomini, su andiam<br />alla grotta per adorare.<br />Portiamo a lui tutto il nostro cuor<br />come vero dono d’amore.<br />È Cristo, il Re dei re,<br />per noi sceso su questa terra<br />per darci la vita e il ciel,<br />se saremo a lui fedeli.</lines>
+    </verse>
+  </lyrics>
+</song>

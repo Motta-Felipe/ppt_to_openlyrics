@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>188 Potrei Parlare Le Lingue</title>
+    </titles>
+    <songbooks>
+      <songbook name="Potrei Parlare Le Lingue" entry="188"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Potrei parlare le lingue del mondo inter<br />le lingue parlare ancor come si parla in ciel,<br />sarei, Signor, uno strumento vano<br />se nel mio cuor mancasse il tuo amor.<br />Se avessi il dono di essere un profeta,<br />se conoscessi tutto attorno a me,<br />senza il tuo amor non sarei niente, o Dio.<br />Dona al mio cuor, Gesù, l’amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se avessi fede da trasportare i monti,<br />se ogni bene mio donassi ancor<br />per dar conforto a chi è nel dolor,<br />senza il tuo amor niente sarei, Signor.<br />Dammi il tuo amor, Signor, mio Salvatore<br />perché amar vorrei com’ami tu,<br />d’amore vero che sa solo dare.<br />Voglio amar come te, Gesù.</lines>
+    </verse>
+  </lyrics>
+</song>

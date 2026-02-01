@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>32 Dell’universo L’immensità</title>
+    </titles>
+    <songbooks>
+      <songbook name="Dell’universo L’immensità" entry="32"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dell’universo l’immensità<br />il nostro cuor non può scrutar,<br />e del Creator, del nostro Signor,<br />chi può saper il suo poter?<br />Con la parola fece il ciel,<br />le stelle d’or, la luna e il sol,<br />i boschi, i fior, il lor splendor,<br />e l’uomo di sua man creò.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>L’immenso amor di Cristo<br />il nostro cuor non può scrutar:<br />là sulla croce un giorno morì<br />per darci vita, eternità.<br />Risuscitò dopo tre dì<br />e su nel ciel dal Padre andò<br />per presentare a Dio fedel<br />il frutto del suo immenso amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se vuoi conoscere Cristo, il Signor,<br />leggi e ascolta il suo vangel.<br />Del suo martir allora saprai,<br />e che per te lasciò il ciel.<br />La vita avrai per il suo amor;<br />il suo perdon pace darà.<br />Di questo don, l’immensità<br />l’uomo comprender mai potrà.</lines>
+    </verse>
+  </lyrics>
+</song>

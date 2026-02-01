@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>416 Pace In Terra</title>
+    </titles>
+    <songbooks>
+      <songbook name="Pace In Terra" entry="416"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gloria a Dio negli alti cieli,<br />lode e gloria in ogni età;<br />pace in terra ai suoi fedeli<br />per la sua benignità.</lines>
+    </verse>
+  </lyrics>
+</song>

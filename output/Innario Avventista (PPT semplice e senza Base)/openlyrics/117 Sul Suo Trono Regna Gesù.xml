@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>117 Sul Suo Trono Regna Gesù</title>
+    </titles>
+    <songbooks>
+      <songbook name="Sul Suo Trono Regna Gesù" entry="117"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sul suo trono regna Gesù<br />con il padre su nel ciel.<br />Sulla terra venne un giorno<br />per salvar l’umanità.<br />Alleluia! La sua morte  mi salvò.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dal suo trono veglia Gesù<br />con amore, i suoi fedel.<br />Nella vita ha insegnato<br />che l’amor, si, vincerà.<br />Alleluia! La sua morte mi salvò.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dal suo trono ora Gesù<br />intercede pei fedel.<br />A chi crede nel suo amore<br />dona vita a sazietà.<br />Alleluia! La sua morte mi salvò.</lines>
+    </verse>
+  </lyrics>
+</song>

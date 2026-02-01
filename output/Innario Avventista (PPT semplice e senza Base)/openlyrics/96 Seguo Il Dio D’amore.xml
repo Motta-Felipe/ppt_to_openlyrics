@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>96 Seguo Il Dio D’amore</title>
+    </titles>
+    <songbooks>
+      <songbook name="Seguo Il Dio D’amore" entry="96"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Corro senza speranza in cuor<br />se non c’è con me Gesù;<br />il mio cuore non soffre più<br />quando sono con Gesù.<br />Seguo il Dio d’amore,<br />seguo il Dio della Pace;<br />per la vita tutta allor,<br />vò seguir la luce.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anche se io dovrò portar<br />la corona del dolor,<br />con amore il mio Signor<br />mi darà ognor vigor.<br />Seguo il Dio d’amore,<br />seguo il Dio della Pace;<br />per la vita tutta allor,<br />vò seguir la luce.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vado verso il Golgota,<br />vuoi venir con me a Gesù?<br />Vieni allor, non tardar più,<br />segui il nostro Re, Gesù.<br />Seguo il Dio d’amore,<br />seguo il Dio della Pace;<br />per la vita tutta allor,<br />vò seguir la luce.</lines>
+    </verse>
+  </lyrics>
+</song>

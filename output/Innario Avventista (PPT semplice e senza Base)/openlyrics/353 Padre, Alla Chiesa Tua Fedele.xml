@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>353 Padre, Alla Chiesa Tua Fedele</title>
+    </titles>
+    <songbooks>
+      <songbook name="Padre, Alla Chiesa Tua Fedele" entry="353"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Padre alla chiesa tua fedele<br />che vive della tua bontà,<br />dona il tuo Spirito immortale,<br />fede, speranza e carità!<br />Da tutti i figli tuoi nel mondo<br />una preghiera sale a te:<br />“Vieni dei cuori nel profondo,<br />sii per la chiesa il solo Re!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>La tua parola di speranza<br />oggi si compia in noi per fé,<br />e lieti canti d’esultanza<br />innalzeremo, o Padre, a te.<br />Aprici gli occhi alla tua luce,<br />reggi e governa i nostri cuor;<br />e nella vita che al ciel conduce<br />guida la chiesa, o Salvator.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Per ogni luogo l’Evangelo<br />possa diffondersi quaggiù;<br />salgan ferventi i canti al cielo<br />all’apparire di Gesù,<br />fonte suprema della vita<br />che con potenza e maestà<br />darà ai suoi figli un’infinita<br />pace all’alma e felicità.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>308 Ai Piedi Della Croce</title>
+    </titles>
+    <songbooks>
+      <songbook name="Ai Piedi Della Croce" entry="308"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ai piedi della croce<br />io vengo, o mio Signor;<br />ho udito la tua voce<br />e qui son giunto, Redentor.<br />Son stanco di vagar lontan,<br />cercando luce invan;<br />soltanto nel tuo amor,<br />Gesù, c’è luce e libertà.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sul legno un dì immolato<br />tu fosti, o mio Signor;<br />la croce ho contemplato<br />ed ho pianto, o Dio d’amor.<br />Tu desti la tua vita allor<br />salvando questo cuor;<br />l’immenso amore tuo, Gesù,<br />mi dona eternità.</lines>
+    </verse>
+  </lyrics>
+</song>

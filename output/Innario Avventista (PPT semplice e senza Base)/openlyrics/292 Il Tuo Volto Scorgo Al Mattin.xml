@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>292 Il Tuo Volto Scorgo Al Mattin</title>
+    </titles>
+    <songbooks>
+      <songbook name="Il Tuo Volto Scorgo Al Mattin" entry="292"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Il tuo volto scorgo al mattin,<br />il meriggio ti vedo ancor;<br />e la notte mi sei vicin<br />o Signore, o mio Redentor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Il mio cuore a te appartien,<br />la mia vita vo’ dare a te;<br />mio Signore, mio solo ben,<br />oggi e sempre tu sarai mio Re.</lines>
+    </verse>
+  </lyrics>
+</song>

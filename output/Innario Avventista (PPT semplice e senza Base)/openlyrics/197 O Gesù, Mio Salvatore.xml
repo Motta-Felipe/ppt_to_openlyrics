@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>197 O Gesù, Mio Salvatore</title>
+    </titles>
+    <songbooks>
+      <songbook name="O Gesù, Mio Salvatore" entry="197"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Gesù, mio salvatore<br />io ti prego per pietà:<br />empi il tenero mio cuore,<br />d’innocenza e di bontà;<br />empi il tenero mio cuore,<br />d’innocenza e di bontà.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Son bambino in questo mondo<br />non so vivere da me,<br />e però non ti nascondo<br />il bisogno che ho di te;<br />e però non ti nascondo<br />il bisogno che ho di te.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ed a te mi raccomando<br />ed intero il cuor ti do,<br />oggi e sempre e fino a quando<br />su nel ciel a te verrò;<br />oggi e sempre e fino a quando<br />su nel ciel a te verrò.</lines>
+    </verse>
+  </lyrics>
+</song>

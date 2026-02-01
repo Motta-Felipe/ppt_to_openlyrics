@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>90 Se Vicino A Gesù</title>
+    </titles>
+    <songbooks>
+      <songbook name="Se Vicino A Gesù" entry="90"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Se vicino a Gesù camminiamo ogni dì<br />nella luce della verità;<br />se la sua volontà noi facciam con amor;<br />la sua mano ci benedirà.<br />Credi in Gesù, ubbidisci a lui sol;<br />se vuoi esser felice fai la sua volontà.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se seguiamo Gesù noi felici sarem,<br />della sua giustizia godrem.<br />Quanta gioia nel cuor, quanta pace, o Signor,<br />se la vita doniamo a te sol.<br />Credi in Gesù, ubbidisci a lui sol;<br />se vuoi esser felice fai la sua volontà.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Con Gesù, il Signor, se una nuvola appar<br />presto torna il sereno nel ciel.<br />Per la sua bontà, la sua grazia divin,<br />siamo salvi per l’eternità.<br />Credi in Gesù, ubbidisci a lui sol;<br />se vuoi esser felice fai la sua volontà.</lines>
+    </verse>
+  </lyrics>
+</song>

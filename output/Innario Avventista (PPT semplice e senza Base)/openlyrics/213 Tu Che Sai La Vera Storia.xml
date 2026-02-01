@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>213 Tu Che Sai La Vera Storia</title>
+    </titles>
+    <songbooks>
+      <songbook name="Tu Che Sai La Vera Storia" entry="213"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu che sai la vera storia,<br />tu che sai del Salvator,<br />non tardar, al mondo ingrato va’,<br />racconta del suo amor.<br />Tanti cercano la vita,<br />la salvezza, e sempre invan.<br />Non tardar, racconta al mondo<br />che Gesù morì per te.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu che sai la vera storia,<br />tu che sai del Salvator,<br />canta al mondo del Signore<br />ed annuncia il suo perdon.<br />Dona frutti di speranza<br />a chi geme nel dolor;<br />dona amore a mani piene:<br />Cristo amore ti darà.</lines>
+    </verse>
+  </lyrics>
+</song>

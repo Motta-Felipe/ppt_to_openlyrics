@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>314 Tace Il Vento, Brilla Il Ciel</title>
+    </titles>
+    <songbooks>
+      <songbook name="Tace Il Vento, Brilla Il Ciel" entry="314"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tace il vento, calma è l’onda,<br />brilla il ciel, tranquillo è il cuor.<br />Una barca all’altra sponda<br />han diretto i remator.<br />Ecco, il cielo che balena,<br />odo il vento sibillar;<br />lungi è ancor la riva amena:<br />su affrettatevi a remar;<br />lungi è ancor la riva amena:<br />su affrettatevi a remar;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quella fragil navicella<br />deve i flutti contrastar;<br />più nel ciel v’è una stella,<br />s’odon gli uomini gridar:<br />“O Maestro, tu non senti<br />questo vento sibillar?<br />Non t’accorgi che impotenti<br />siamo noi in questo mar?<br />Non t’accorgi che impotenti<br />siamo noi in questo mar?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gesù sorse, sgridò il vento,<br />la tempesta si acquietò<br />e la calma in un momento<br />su quel lago ritornò.<br />“Dove avete voi la fede?”<br />disse poi ai remator.<br />“La tempesta non temete,<br />sono io il Salvator!<br />La tempesta non temete,<br />sono io il Salvator!”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nella vita del credente<br />la tempesta sorgerà;<br />ma il Signore onnipotente<br />da ogni mal ci salverà.<br />In lui solo è la speranza,<br />in lui solo è libertà.<br />O Gesù, dacci costanza,<br />fede vera ed umiltà;<br />O Gesù, dacci costanza,<br />fede vera ed umiltà.</lines>
+    </verse>
+  </lyrics>
+</song>

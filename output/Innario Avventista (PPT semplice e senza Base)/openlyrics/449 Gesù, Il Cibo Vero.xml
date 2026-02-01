@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>449 Gesù, Il Cibo Vero</title>
+    </titles>
+    <songbooks>
+      <songbook name="Gesù, Il Cibo Vero" entry="449"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo è il pane, oh gran mistero,<br />per me sceso giù dal ciel!<br />È di vita il cibo vero<br />che ristora i suoi fedel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Questo pane ci rammenta<br />di Gesù l’immenso amor;<br />il suo corpo rappresenta<br />ch’ei donò pel peccator.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Questo vin per noi figura<br />del suo sangue ognor sarà;<br />finché nell’età futura<br />egli a noi ritornerà.</lines>
+    </verse>
+  </lyrics>
+</song>

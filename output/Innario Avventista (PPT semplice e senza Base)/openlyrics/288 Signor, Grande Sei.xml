@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>288 Signor, Grande Sei</title>
+    </titles>
+    <songbooks>
+      <songbook name="Signor, Grande Sei" entry="288"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Signor, grande sei mio Re,<br />immensa la tua bontà;<br />mi doni la salvezza per il tuo grande amor.<br />Il canto che sale a te<br />è un canto che vien dal cuor<br />perché ti sono grato dell’amore per me.<br />A te sono grato, o Dio d’amor,<br />per la tua benignità;<br />ho tanta gioia nel mio cuor grazie a te. (bis)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Per te, dolce mio Gesù,<br />son salvo e redento son;<br />per grazia mi regali quel che conta, Signor:<br />la vita, l’eternità,<br />la gioia di star con te;<br />o grande Redentore, solo in te gioia c’è!<br />A te sono grato, o Dio d’amor,<br />per la tua benignità;<br />ho tanta gioia nel mio cuor grazie a te. (bis)</lines>
+    </verse>
+  </lyrics>
+</song>

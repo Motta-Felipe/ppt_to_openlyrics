@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>33 Il Signore È Il Mio Buon Pastor</title>
+    </titles>
+    <songbooks>
+      <songbook name="Il Signore È Il Mio Buon Pastor" entry="33"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Il Signore del ciel è il mio  buon pastor<br />nulla mai mi mancherà.<br />Lungo pascoli ancor mi guida il Signor,<br />nulla mai mi mancherà.<br />Color di smeraldo i pascoli son,<br />la sua man mi conduce ognor.<br />Il Signore del ciel è il mio  buon pastor<br />nulla mai mi mancherà.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Io paura non ho se Dio è con me,<br />quando buio è il mio cammin.<br />La sua luce dal ciel rischiara il mio cuor,<br />quando buio è il mio cammin.<br />La forza mi dà il tuo baston<br />se tu sol mi conduci ognor.<br />Io paura non ho se Dio è con me,<br />quando buio è il mio cammin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu prepari per me un pranzo d’onor<br />nel tuo amore, o Dio del ciel.<br />Il mio capo, Signor, con olio ungi tu<br />nel tuo amore, o Dio del ciel.<br />Tu, Padre divin, sei gioia per me:<br />voglio stare con te, Signor!<br />Tu prepari per me un pranzo d’onor<br />nel tuo amore, o Dio del ciel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Il Signore del ciel è il mio  buon pastor<br />nulla mai mi mancherà.<br />Ogni giorno quaggiù vivrò nel tuo amor,<br />nulla mai mi mancherà.<br />Lo so che con te un dì su nel ciel<br />io vivrò per l’eternità<br />Il Signore del ciel è il mio  buon pastor<br />nulla mai mi mancherà.</lines>
+    </verse>
+  </lyrics>
+</song>

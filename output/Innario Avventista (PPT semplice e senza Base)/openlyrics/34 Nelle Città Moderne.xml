@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>34 Nelle Città Moderne</title>
+    </titles>
+    <songbooks>
+      <songbook name="Nelle Città Moderne" entry="34"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nelle città moderne viviamo<br />che danno il senso di eternità;<br />deserti pieni di volti ignoti<br />senza speranza e senza età.<br />Nei grattacieli pieni di luci,<br />senza una certezza soli viviam.<br />Quanti rumori, quante incertezze<br />mentre il giorno muore nell’ansietà.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sopra di noi lassù, oltre il cielo,<br />c’è un Dio pietoso pien di bontà<br />che un dì lontano fra noi discese<br />per dare gioia all’umanità.<br />Cantiamo gloria a lui che sostiene<br />ogni cuore stanco per sua bontà;<br />egli ci ama, egli ci salva,<br />lode sia in eterno alla sua maestà.</lines>
+    </verse>
+  </lyrics>
+</song>

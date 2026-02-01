@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>261 Non Odi, Maestro</title>
+    </titles>
+    <songbooks>
+      <songbook name="Non Odi, Maestro" entry="261"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>261   Non odi, Maestro?<br />Non odi, Maestro? Risuona<br />il lago d’immenso fragor.<br />Non vedi? La fé ci abbandona<br />se tu non ci aiuti, Signor.<br />Già l’onde spumeggian furenti,<br />paura ci assale quaggiù.<br />Risvegliati dunque, non senti<br />la nostra preghiera, o Gesù?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Con fede ascoltiam la parola<br />che acquieta il mar,<br />che calma il ciel;<br />che toglie ogni affanno e consola:<br />egli è fedel! Egli è fedel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deh, guidaci al porto, Signore,<br />deh, salvaci tu, per pietà!<br />Il mare nel cupo fragore<br />in breve inghiottiti ci avrà.<br />Siam pochi, tremanti, smarriti,<br />e il duro lottar ci stancò;<br />e tu resti sordo agl’inviti<br />di chi in te sol confidò.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Con fede ascoltiam la parola<br />che acquieta il mar,<br />che calma il ciel;<br />che toglie ogni affanno e consola:<br />egli è fedel! Egli è fedel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Siam giunti, siam salvi: oh portento!<br />Il mare a un suo cenno ubbidì;<br />un sol guardo suo sgridò il vento<br />che in brezza gentil s’addolcì.<br />E allor il fragore si tacque,<br />la barca tranquilla vogò.<br />Perdona, Gesù, se imperfetta<br />la fede abbiamo nel cuor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Con fede ascoltiam la parola<br />che acquieta il mar,<br />che calma il ciel;<br />che toglie ogni affanno e consola:<br />egli è fedel! Egli è fedel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sul mare della nostra vita<br />non mancan tempeste quaggiù;<br />la mia navicella è smarrita:<br />deh, siedi al timone, Gesù!<br />E acquieta dell’alma il rimorso,<br />e calma del cuore il soffrir;<br />che io possa col tuo soccorso<br />al porto celeste venir.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Con fede ascoltiam la parola<br />che acquieta il mar,<br />che calma il ciel;<br />che toglie ogni affanno e consola:<br />egli è fedel! Egli è fedel.</lines>
+    </verse>
+  </lyrics>
+</song>

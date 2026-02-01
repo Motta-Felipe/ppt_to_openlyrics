@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>473 Acqua Siamo Noi</title>
+    </titles>
+    <songbooks>
+      <songbook name="Acqua Siamo Noi" entry="473"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Acqua siamo noi,<br />dall’antica sorgente veniamo<br />fiumi siamo noi,<br />se i ruscelli si mettono insieme.<br />Mari siamo noi,<br />se i torrenti si danno la mano.<br />Vita nuova c’è, se Gesù è in mezzo a noi.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>E allora diamoci la mano<br />e tutti insieme camminiamo<br />ed un oceano di pace nascerà.<br />E l’egoismo cancelliamo<br />un cuore limpido sentiamo:<br />è Dio che bagna del suo amore l’umanità.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Su nel cielo c’è<br />Dio Padre che vive per l’uomo.<br />Crea tutti noi<br />e ci ama di amore infinito.<br />Figli siamo noi<br />e fratelli in Cristo Signore.<br />Vita nuova c’è quando lui è in mezzo a noi.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>E allora diamoci la mano<br />e tutti insieme camminiamo<br />ed un oceano di pace nascerà.<br />E l’egoismo cancelliamo<br />un cuore limpido sentiamo:<br />è Dio che bagna del suo amore l’umanità.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nuova umanità<br />oggi nasce da chi crede in lui.<br />Nuovi siamo noi<br />se l’amore è la legge di vita.<br />Figli siamo noi<br />se non siamo divisi da niente.<br />Vita eterna c’è quando lui è dentro a noi.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>E allora diamoci la mano<br />e tutti insieme camminiamo<br />ed un oceano di pace nascerà.<br />E l’egoismo cancelliamo<br />un cuore limpido sentiamo:<br />è Dio che bagna del suo amore l’umanità.</lines>
+    </verse>
+  </lyrics>
+</song>

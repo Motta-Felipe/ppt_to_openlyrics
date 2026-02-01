@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>175 Signor, Discendan I Doni Tuoi</title>
+    </titles>
+    <songbooks>
+      <songbook name="Signor, Discendan I Doni Tuoi" entry="175"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Signor, discendan su di noi potenti<br />i doni tuoi che promettesti un dì:<br />l’amore tuo, la fede, la speranza,<br />lo Spirito Santo, il consolator.<br />Tu rendi puri i cuori dei credenti<br />che s’aprono ai tuoi doni e al perdon.<br />Signor, discendan su di noi potenti<br />i doni tuoi che promettesti un dì,<br />i doni tuoi che promettesti un dì.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Il popol tuo raccolto benedici<br />con la serena luce del Vangel;<br />Gesù, Signor, o Re dell’universo,<br />infondi gioia a chi ti è fedel<br />che un dì saranno su con te nel ciel<br />per la tua grazia ed il tuo grande amor.<br />Il popol tuo raccolto benedici<br />con la serena luce del Vangel,<br />con al serena luce del Vangel.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>158 Gesù Ha Promesso Ai Credenti</title>
+    </titles>
+    <songbooks>
+      <songbook name="Gesù Ha Promesso Ai Credenti" entry="158"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gesù ha promesso ai credenti<br />che dal ciel tornerà nella gloria<br />per donare la vita ai vincenti<br />per grazia, mediante la fé.<br />Su nel ciel, su nel ciel,<br />andremo col nostro Gesù!<br />Su nel ciel. Su nel ciel,<br />col Signor, vivremo le gioie del ciel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quel giorno d’immensa letizia,<br />sulle nubi irradiate di luce,<br />Gesù santo ch’è nostra giustizia<br />verrà per portarci con sé.<br />Su nel ciel, su nel ciel,<br />andremo col nostro Gesù!<br />Su nel ciel. Su nel ciel,<br />col Signor, vivremo le gioie del ciel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nel cielo, un dì col Signore,<br />sulle rive del mare di vetro<br />dove andremo coi santi a gioir<br />cantando le lodi a Gesù.<br />Su nel ciel, su nel ciel,<br />andremo col nostro Gesù!<br />Su nel ciel. Su nel ciel,<br />col Signor, vivremo le gioie del ciel.</lines>
+    </verse>
+  </lyrics>
+</song>

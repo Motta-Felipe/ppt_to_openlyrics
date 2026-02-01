@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>9 Per La Tua Benignità</title>
+    </titles>
+    <songbooks>
+      <songbook name="Per La Tua Benignità" entry="9"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lode a te, Signore Iddio<br />per la tua benignità;<br />sale al ciel dal cuore mio<br />lode e gloria a tua Maestà.<br />Alleluia, alleluia,<br />per la tua benignità.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu scendesti dal tuo trono<br />per salvar l’umanità.<br />Grazie a te, o Padre buono<br />che ci desti libertà.<br />Alleluia, alleluia,<br />a te lode in ogni età</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Siamo salvi nel tuo amore<br />grazie al Figlio tuo Gesù.<br />Nella gioia e nel dolore<br />canteremo a te lassù.<br />Alleluia, alleluia,<br />a te lode in ogni età.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come gli angeli del cielo<br />noi vogliamo te lodar;<br />ed un giorno senza velo<br />si, vedrem la tua beltà.<br />Alleluia, alleluia,<br />grazie a te in eternità.</lines>
+    </verse>
+  </lyrics>
+</song>

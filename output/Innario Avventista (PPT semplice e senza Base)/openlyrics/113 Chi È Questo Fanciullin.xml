@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>113 Chi È Questo Fanciullin</title>
+    </titles>
+    <songbooks>
+      <songbook name="Chi È Questo Fanciullin" entry="113"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>113   Chi è questo fanciullin?<br />Chi è questo fanciullin<br />Che riposa in questo ovil?<br />E’ Gesù, il Re dei re.<br />A lui ognor sia gloria, sia gloria.<br />Ai tuoi piedi con sincero amor, Signor, veniamo.<br />Alleluia a te, o Re dei re,<br />sia gloria, gloria, gloria!<br />Noi t’offriamo in dono il cuor, Signor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chi sul legno poi patì<br />e inchiodato vi morì?<br />E’ Gesù, il Re dei re.<br />A lui ognor sia gloria, sia gloria.<br />Ai tuoi piedi con sincero amor, Signor,veniamo.<br />Alleluia a te, o Re dei re,<br />sia gloria, gloria, gloria!<br />Noi t’offriamo in dono il cuor, Signor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chi un dì risuscitò<br />ed in cielo s’innalzò?<br />E’ Gesù, il Re dei re.<br />A lui ognor sia gloria, sia gloria.<br />Ai tuoi piedi con sincero amor, Signor,veniamo.<br />Alleluia a te, o Re dei re,<br />sia gloria, gloria, gloria!<br />Noi t’offriamo in dono il cuor, Signor!</lines>
+    </verse>
+  </lyrics>
+</song>

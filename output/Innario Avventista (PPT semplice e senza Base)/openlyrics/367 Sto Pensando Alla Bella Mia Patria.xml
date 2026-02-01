@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>367 Sto Pensando Alla Bella Mia Patria</title>
+    </titles>
+    <songbooks>
+      <songbook name="Sto Pensando Alla Bella Mia Patria" entry="367"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sto pensando alla bella mia patria immortal dove andrò quando Cristo verrà.<br />Per sua grazia vivrò nell’eterna città<br />dove il sole mai più scenderà.<br />Il Signore Gesù in quel giorno final<br />sul mio capo porrà un serto d’or.<br />Egli vinse per me la battaglia sul mal,<br />e per sempre godrò del suo amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Voglio agire e pregar aspettando quel dì,<br />voglio andare e portare il Vangel.<br />Predicare l’amor di colui che subì<br />sulla croce una morte crudel.<br />Il Signore Gesù in quel giorno final<br />sul mio capo porrà un serto d’or.<br />Egli vinse per me la battaglia sul mal,<br />e per sempre godrò del suo amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, che gioia sarà veder Cristo Gesù, contemplare quel volto divin.<br />Camminare al suo fianco nel cielo, lassù,<br />dove pace infinita avrò alfin!<br />Il Signore Gesù in quel giorno final<br />sul mio capo porrà un serto d’or.<br />Egli vinse per me la battaglia sul mal,<br />e per sempre godrò del suo amor.</lines>
+    </verse>
+  </lyrics>
+</song>

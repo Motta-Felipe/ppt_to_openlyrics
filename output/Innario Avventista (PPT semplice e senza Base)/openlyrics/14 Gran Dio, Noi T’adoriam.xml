@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>14 Gran Dio, Noi T’adoriam</title>
+    </titles>
+    <songbooks>
+      <songbook name="Gran Dio, Noi T’adoriam" entry="14"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gran Dio, noi ti lodiam,<br />noi t’adoriam, Signor!<br />Un canto a te innalzar vogliam<br />di lode e onor.<br />O Eterno, terra e ciel<br />t’adoran con timore<br />come sovrano lor<br />e Padre e Creatore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Possente Re dei re<br />chi ti umiliasti un di,<br />sul Golgota lassù<br />il corpo tuo soffrì!<br />Ma della morte alfin<br />spezzando le catene<br />entrasti vincitor<br />in gloria trionfale.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rinnova in noi, Signor,<br />volere ed operar;<br />la fiamma del tuo amor<br />nei cuori fai brillar.<br />Padre, di noi mercè,<br />perdona, dacci ascolto!<br />Fa sopra noi levar<br />la luce del tuo volto.</lines>
+    </verse>
+  </lyrics>
+</song>

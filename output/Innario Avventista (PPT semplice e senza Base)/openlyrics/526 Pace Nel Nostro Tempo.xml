@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>526 Pace Nel Nostro Tempo</title>
+    </titles>
+    <songbooks>
+      <songbook name="Pace Nel Nostro Tempo" entry="526"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pace nel nostro tempo, o Signor!<br />Noi ti chiediam la pace che non c’è<br />in questo mondo inquieto senza te.<br />A te chiediam la pace, o Signor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pace nel nostro tempo, o Signor!<br />Pace e giustizia e solidarietà<br />da te chiediamo per l’umanità.<br />A te chiediam la pace, o Signor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pace nel nostro tempo, o Signor!<br />La pace avremo nella libertà<br />quando faremo la tua volontà.<br />A te chiediam la pace, o Signor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pace nel nostro tempo, o Signor!<br />È la speranza dell’umanità<br />ch’ogni mattina in noi rifiorirà.<br />A te chiediam la pace, o Signor.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pace nel nostro tempo, o Signor!<br />Presto il nuovo mondo nascerà<br />se nell’amore tuo fedel vivrà.<br />A te chiediam la pace, o Signor.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Pace nel nostro tempo, o Signor!<br />Nella tua chiesa deve dimorar<br />solo così avrà un senso predicar.<br />A te chiediam la pace, o Signor.</lines>
+    </verse>
+  </lyrics>
+</song>

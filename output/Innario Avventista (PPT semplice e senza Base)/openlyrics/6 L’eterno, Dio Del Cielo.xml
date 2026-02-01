@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>6 L’eterno, Dio Del Cielo</title>
+    </titles>
+    <songbooks>
+      <songbook name="L’eterno, Dio Del Cielo" entry="6"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>L’Eterno, Dio del cielo<br />dell’universo è Re.<br />Al trono di grazia<br />si prostra il peccator.<br />A lui sia gloria, onore,<br />eterna fedeltà.<br />Nel cielo e sulla terra<br />sia gloria e fedeltà.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Il Cristo Redentore<br />in croce egli morì<br />e col suo sacrificio<br />dà vita al peccator.<br />A lui sia gloria, onore,<br />eterna fedeltà.<br />Nel cielo e sulla terra<br />sia gloria e fedeltà.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lo Spirito divino<br />ci guida verso il ciel.<br />Ci parla della luce<br />e dell’eternità.<br />A lui sia gloria, onore,<br />eterna fedeltà.<br />Nel cielo e sulla terra<br />sia gloria e fedeltà.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>418 Gloria Al Padre Onnipotente</title>
+    </titles>
+    <songbooks>
+      <songbook name="Gloria Al Padre Onnipotente" entry="418"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gloria al Padre onnipotente,<br />a Gesù divin Figliuolo,<br />allo Spirto creator!<br />Con fervor riconoscente<br />celebriam l’eterno e solo<br />nostro Padre e Salvator!</lines>
+    </verse>
+  </lyrics>
+</song>

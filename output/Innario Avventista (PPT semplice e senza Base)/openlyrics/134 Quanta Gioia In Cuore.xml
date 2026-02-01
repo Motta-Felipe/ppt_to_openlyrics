@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>134 Quanta Gioia In Cuore</title>
+    </titles>
+    <songbooks>
+      <songbook name="Quanta Gioia In Cuore" entry="134"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quanta gioia in cuore, ecco il Natal;<br />ogni uomo in terra abbiamo gioia e amor.<br />Cantiamo insieme: è nato il Redentor!<br />Quanta gioia in cuore, ecco il Natal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gli angeli del cielo cantano così:<br />“Gloria al Redentore che donò il suo amor”<br />Cantiamo insieme: è nato il Salvator!<br />Gli angeli del cielo cantano così.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Giungono i pastori da Gesù bambin,<br />dal lontano Oriente vengono tre re.<br />Cantiamo insieme: è nato il Redentor!<br />Giungono i pastori da Gesù bambin.</lines>
+    </verse>
+  </lyrics>
+</song>

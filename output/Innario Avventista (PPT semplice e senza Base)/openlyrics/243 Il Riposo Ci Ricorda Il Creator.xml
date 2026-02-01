@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>243 Il Riposo Ci Ricorda Il Creator</title>
+    </titles>
+    <songbooks>
+      <songbook name="Il Riposo Ci Ricorda Il Creator" entry="243"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Questo giorno di riposo<br />ci ricorda il Creator.<br />A lui gloria, a lui l’onore,<br />a lui lode oggi e ancor!<br />Questo è il giorno del Signor,<br />riposiamo nel suo amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Qui riuniti ricordiamo<br />il riposo del Signor<br />e al suo trono ci prostriamo<br />proclamando il suo poter.<br />Questo è il giorno del Signor,<br />riposiamo nel suo amor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I dolori d’ogni giorno<br />noi lasciamo in questo dì<br />e cantiamo con ardore:<br />“Sia la gloria al Creator!”<br />Questo è il giorno del Signor,<br />riposiamo nel suo amor</lines>
+    </verse>
+  </lyrics>
+</song>

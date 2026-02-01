@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>225 Vai E Racconta</title>
+    </titles>
+    <songbooks>
+      <songbook name="Vai E Racconta" entry="225"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vai e racconta quel che<br />per te un dì fece Gesù:<br />dillo con forza, dillo con fede<br />a chi non spera più.<br />Lode, sia lode all’Agnello che morì per me;<br />ora è nel cielo ed un giorno tornerà.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In questo mondo invan<br />noi cerchiamo pace e libertà:<br />sol nel Signore v’è la speranza<br />di pace e libertà.<br />Lode, sia lode all’Agnello che morì per me;<br />ora è nel cielo ed un giorno tornerà.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Orsù, cantiamo inni di lode<br />a Cristo, il Salvator.<br />Cantiamo con gioia la sua vittoria,<br />ché Cristo è il Redentor.<br />Lode, sia lode all’Agnello che morì per me;<br />ora è nel cielo ed un giorno tornerà.</lines>
+    </verse>
+  </lyrics>
+</song>

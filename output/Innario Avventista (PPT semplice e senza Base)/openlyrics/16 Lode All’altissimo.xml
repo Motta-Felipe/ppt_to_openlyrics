@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>16 Lode All’altissimo</title>
+    </titles>
+    <songbooks>
+      <songbook name="Lode All’altissimo" entry="16"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lode all’Altissimo,<br />lode al Signor della gloria!<br />Del Re dei secoli dei secoli<br />noi celebriam la vittoria!<br />Orsù cantiam e tutti insiem giubiliam<br />in terra e in cielo adoriamo!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lode all’Altissimo,<br />quei che dal cielo ha parlato,<br />e l’Unigenito per amor<br />nostro ha donato.<br />Ei ci affrancò e da ogni mal liberò;<br />egli ha sconfitto il peccato.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lode all’Altissimo,<br />sole di vera giustizia,<br />che sopra gli umili<br />scende benigna e propizia.<br />Il peccator celebri il buon Redentor<br />che nel suo amor gli perdona!</lines>
+    </verse>
+  </lyrics>
+</song>

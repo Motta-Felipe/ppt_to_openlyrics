@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>501 Gesù, Il Mio Pastore</title>
+    </titles>
+    <songbooks>
+      <songbook name="Gesù, Il Mio Pastore" entry="501"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gesù, il mio pastore, la pace mi dà,<br />per prati erbosi mi fa pascolar.<br />Lungo fiumi andrò se con me è il Signor.<br />La mia anima egli ristorerà<br />perché lui, per amor del suo nome,<br />mi guida ogni giorno<br />nel mio cammin di lealtà</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nella valle dell’ombra non ho da temer.<br />Il mio buon pastore sarà accanto a me.<br />Mi consolerà sapere che lui,<br />tutti i giorni che ancora mi donerà,<br />lui sarà al mio fianco<br />finché nella casa del Padre<br />potrò abitare ogni dì.</lines>
+    </verse>
+  </lyrics>
+</song>

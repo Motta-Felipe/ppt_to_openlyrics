@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>328 Senza Te Non C'È Luce</title>
+    </titles>
+    <songbooks>
+      <songbook name="Senza Te Non C'È Luce" entry="328"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vien Gesù, dal ciel per me!<br />Nella, vita senza te<br />non c’è luce, non c’è amor:<br />senza te luce non c’è.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Signor, divino Re,<br />la mia mano prendi tu,<br />la tua forza infondi ancor:<br />senza te forza non c’è.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Solo in te, o Salvator,<br />trovo pace, gioia amor,<br />trovo vita a sazietà:<br />senza te vita non c’è.</lines>
+    </verse>
+  </lyrics>
+</song>

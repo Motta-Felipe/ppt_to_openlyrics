@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>342 Padre D’amore</title>
+    </titles>
+    <songbooks>
+      <songbook name="Padre D’amore" entry="342"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Padre d’amore, il nostro cuore<br />in questo istante cerca sol te.<br />Indegni siamo, pur ti preghiamo,<br />in noi discendi, o Re dei Re!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A te si prostra, l’anima nostra,<br />a te domanda luce e fervor.<br />Questa preghiera umil, sincera,<br />deh, tu esaudisci, o Dio d’amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A chi ti chiama, a chi ti brama,<br />sempre riveli la tua bontà.<br />Padre, in quest’ora con noi dimora,<br />e da te vita il cuore avrà.</lines>
+    </verse>
+  </lyrics>
+</song>

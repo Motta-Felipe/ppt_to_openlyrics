@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>274 Quanti Figliuoli Prodighi</title>
+    </titles>
+    <songbooks>
+      <songbook name="Quanti Figliuoli Prodighi" entry="274"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quanti figliuoli profighi, o Signor,<br />vanno lontano, errando, dal tuo cuor!<br />Nel loro triste esilio<br />non san che tu li chiami<br />non sanno che tu li ami, o eterno amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ma quando a te ritornano, o Signor,<br />san la bontà infinita del tuo cuor;<br />al seno tu li stringi,<br />gli errori lor perdoni,<br />di gloria li coroni, o eterno amor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Per quei che ancora soffrono, o Signor,<br />servi del mal, lontani dal tuo cuor,<br />noi ti preghiam, ci ascolta:<br />che anch’essi pure un giorno<br />facciano a te ritorno, o eterno amor!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>86 Per Me Moristi In Croce</title>
+    </titles>
+    <songbooks>
+      <songbook name="Per Me Moristi In Croce" entry="86"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O mio Signor Gesù,<br />per me moristi in croce un dì:<br />ti prego per pietà, mio Re,<br />perdona questo cuor.<br />Dirigi tu dall’alto ciel<br />la mente ed i pensier;<br />in te, amato Redentor,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>rovo forza e amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Con fede voglio te servir,<br />parlare del tuo amor.<br />Ti prego, infondi in me più zel<br />e fammi vincitor.<br />In te io spero, Dio del ciel,<br />preservami dal mal.<br />Sei tu la forza mia, Signor,<br />eterno Salvator.</lines>
+    </verse>
+  </lyrics>
+</song>

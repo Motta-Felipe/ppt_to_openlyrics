@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>203 Chi Visse Nel Signor Gesù</title>
+    </titles>
+    <songbooks>
+      <songbook name="Chi Visse Nel Signor Gesù" entry="203"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chi visse nel Signor Gesù<br />frutti d’amore portò.<br />La messe ricca allora fu:<br />frutti d’eternità.<br />Noi oggi ancor con fede e zel<br />al nostro Redentor<br />frutti copiosi per il ciel<br />con fé vogliam portar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Al fianco del Signor Gesù<br />paura non avrò.<br />A chi non sa la sua bontà<br />parlar di lui potrò.<br />Iddio per me mandò Gesù<br />e grazia mi donò.<br />Frutti copiosi per il ciel<br />anch’io gli porterò.</lines>
+    </verse>
+  </lyrics>
+</song>

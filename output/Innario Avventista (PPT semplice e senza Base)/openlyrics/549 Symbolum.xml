@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>549 Symbolum</title>
+    </titles>
+    <songbooks>
+      <songbook name="Symbolum" entry="549"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu sei la mia vita altro io non ho<br />Tu sei la mia strada la mia verità<br />nella Tua parola io camminerò<br />finché avrò respiro<br />fino a quando Tu vorrai<br />non avrò paura sai<br />se Tu sei con me<br />io ti prego resta con me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Credo in Te Signore nato<br />da Maria figlio eterno e santo<br />uomo come noi morto per<br />amore vivo in mezzo a noi<br />una cosa sola con il Padre<br />e tutti noi fino a quando<br />io lo so Tu ritornerai<br />per aprirci il Regno di Dio.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu sei la mia forza<br />altro io non ho tu sei<br />la mia pace la mia libertà<br />niente nella vita ci separerà<br />so che la tua mano forte<br />non mi lascerà so che<br />da ogni male tu mi libererai<br />e nel tuo perdono vivrò.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Padre della vita noi crediamo<br />in te Figlio Salvatore noi<br />speriamo in te Spirito d’amore<br />vieni in mezzo a noi<br />Tu da mille strade ci raduni<br />in unità e per mille strade<br />poi dove Tu vorrai<br />noi saremo i figli di Dio.(ter)</lines>
+    </verse>
+  </lyrics>
+</song>

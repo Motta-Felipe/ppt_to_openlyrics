@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>160 E' Giunta Ormai Quell'Ora</title>
+    </titles>
+    <songbooks>
+      <songbook name="E' Giunta Ormai Quell'Ora" entry="160"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>160   È giunta ormai quell’ora<br />È giunta ormai quell’ora,<br />il tempo se ne va;<br />si sta schiarendo il cielo:<br />Gesù ritornerà.<br />Sulle nuvole dorate</lines>
+    </verse>
+    <verse name="c1">
+      <lines>orna il Salvator<br />e gli uomini salvati<br />raggiungono il Signor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>La schiera degli eletti<br />riflette il suo splendor:<br />la luce della vita<br />ovunque splenderà.<br />Il premio del Signore<br />riceveranno allor<br />coloro che per fede<br />già furon vincitor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O uomini di Dio,<br />donate il vostro amor<br />a chi piange smarrito<br />cercando verità.<br />Le vostre voci alzate<br />e dite al mondo inter<br />che Cristo, il Salvatore,<br />dal ciel presto verrà.</lines>
+    </verse>
+  </lyrics>
+</song>

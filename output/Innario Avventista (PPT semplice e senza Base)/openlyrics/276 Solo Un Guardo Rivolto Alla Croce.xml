@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>276 Solo Un Guardo Rivolto Alla Croce</title>
+    </titles>
+    <songbooks>
+      <songbook name="Solo Un Guardo Rivolto Alla Croce" entry="276"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Solo un guardo rivolto alla croce<br />in eterno salvar ti potrà!<br />Apri il cuore, fidente alla voce<br />che speranza si grande ti dà.<br />Guarda , credi, salvato sei tu!<br />Ché, morendo del Padre l’amore<br />a te volle mostrare Gesù.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Perché mai quel martirio inumano,<br />tal di sangue tributo crudel,<br />se il perdono invocassi tu invano<br />e bandito ognor fossi dal ciel?<br />Guarda , credi, salvato sei tu!<br />Ché, morendo del Padre l’amore<br />a te volle mostrare Gesù.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abbi fede! Le braccia qual figlio<br />tendi a lui che pietoso t’amò;<br />sul suo sen non temere periglio,<br />che le frecce del mal ei spezzo.<br />Guarda , credi, salvato sei tu!<br />Ché, morendo del Padre l’amore<br />a te volle mostrare Gesù.</lines>
+    </verse>
+  </lyrics>
+</song>

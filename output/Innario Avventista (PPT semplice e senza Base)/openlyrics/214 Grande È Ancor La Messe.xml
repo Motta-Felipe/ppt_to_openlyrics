@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>214 Grande È Ancor La Messe</title>
+    </titles>
+    <songbooks>
+      <songbook name="Grande È Ancor La Messe" entry="214"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Grande, o Signor, è ancor la messe<br />e pochi sono i mietiror;<br />ma nel tuo Spirto che li elesse<br />trova conforto il loro cuor.<br />Guida e proteggi, o Dio fedel,<br />chi reca al mondo il tuo Vangel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In ogni luogo son chiamati<br />ad annunzia la verità;<br />son testimoni ai travagliati<br />della tua immensa carità.<br />Guida e proteggi, o Dio fedel,<br />chi reca al mondo il tuo Vangel!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Con umil fede ed allegrezza<br />seguono l’orme di Gesù;<br />la loro umana debolezza<br />soccorra ognor la tua virtù!<br />Guida e proteggi, o Dio fedel,<br />chi reca al mondo il tuo Vangel!</lines>
+    </verse>
+  </lyrics>
+</song>

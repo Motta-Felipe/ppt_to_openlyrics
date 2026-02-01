@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>432 Questo Bimbo Noi T'Offriamo</title>
+    </titles>
+    <songbooks>
+      <songbook name="Questo Bimbo Noi T'Offriamo" entry="432"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Questo bimbo noi t’offriamo,<br />benedicilo, Signor!<br />Su lui spargi, ti preghiamo,<br />le tue grazie, i tuoi favor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fa’ che quando in lui sian desti,<br />con l’età, la mente e il cuor,<br />le ricchezze tue celesti<br />ei ricerchi con ardor.</lines>
+    </verse>
+  </lyrics>
+</song>

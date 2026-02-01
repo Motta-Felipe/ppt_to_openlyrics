@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>67 Quale Amico È Il Signor Gesù</title>
+    </titles>
+    <songbooks>
+      <songbook name="Quale Amico È Il Signor Gesù" entry="67"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quale amico è il Signor Gesù<br />per l’uom peccator!<br />Un amico che sa dare<br />sol chiedendo il nostro cuor.<br />Alleluia, alleluia, alleluia al Signor;<br />egli dona il perdono a chi cerca santità.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Il Signore è nostra guida,<br />nostra forza e libertà;<br />con Gesù al nostro fianco<br />vinceremo contro il mal.<br />Alleluia, alleluia, alleluia al Signor;<br />egli dona il perdono a chi cerca santità.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se ricevi con amor Gesù,<br />il Cristo salvator;<br />s’aprirà per te il cielo<br />della pace nel tuo cuor.<br />Alleluia, alleluia, alleluia al Signor;<br />egli dona il perdono a chi cerca santità.</lines>
+    </verse>
+  </lyrics>
+</song>

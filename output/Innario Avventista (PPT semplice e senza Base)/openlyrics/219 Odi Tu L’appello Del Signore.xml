@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>219 Odi Tu L’appello Del Signore</title>
+    </titles>
+    <songbooks>
+      <songbook name="Odi Tu L’appello Del Signore" entry="219"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Odi tu l’appello del Signore:<br />“Chi invierò per me, per noi chi andrà?”.<br />“Chi mi condurrà il peccatore,<br />chi il retto sentier gl’indicherà?”<br />Di, Signor, di, Signor,<br />parla che il tuo servo ascolta te.<br />Di, Signor, di, Signor,<br />che risponderò: deh, manda me!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quante creature, ahimè smarrite,<br />gridano chiedendoti: pietà!<br />Presto, non tardar: dì lor che il mite,<br />grande e buon Gesù le salverà.<br />Di, Signor, di, Signor,<br />parla che il tuo servo ascolta te.<br />Di, Signor, di, Signor,<br />che risponderò: deh, manda me!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Il Signor per mietere ritorna:<br />giudice sarà del nostro zel.<br />Ch’egli, lieto, dica : “ Vien, soggiorna<br />Presso al Padre, servitor fedel”.<br />Di, Signor, di, Signor,<br />parla che il tuo servo ascolta te.<br />Di, Signor, di, Signor,<br />che risponderò: deh, manda me!</lines>
+    </verse>
+  </lyrics>
+</song>

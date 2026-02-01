@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>435 E’ La Casa Un Paradiso</title>
+    </titles>
+    <songbooks>
+      <songbook name="E’ La Casa Un Paradiso" entry="435"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E’ la casa un paradiso<br />quando c’è il Signor;<br />c’è la gioia, c’è il sorriso,<br />è un asil d’amor.<br />Si combatte tra le pene,<br />si sopporta ogni dolor.<br />Non si invidia l’altrui bene,<br />quando c’è il Signor! Il Signor! Il Signor!<br />Vive sempre in cuor la speme,<br />quando c’è il Signor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nella casa tutto è pace<br />quando c’è il Signor;<br />la tempesta quivi tacce,<br />tutto spira amor.<br />C’è la fede nell’Eterno,<br />c’è la gioia in ogni cuor.<br />Non si teme il freddo inverno<br />quando c’è il Signor! Il Signor! Il Signor!<br />Splende in lei l’amor superno<br />quando c’è il Signor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nella casa c’è il sereno<br />quando c’è il Signor;<br />la fiducia non vien meno,<br />non vien men l’amor.<br />La concordia e l’affezione<br />son due perle di valor.<br />Che ritemprano l’unione,<br />quando c’è il Signor! Il Signor! Il Signor!<br />Essa è il tempio di orazione,<br />quando c’è il Signor!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Redentore benedetto<br />e divin Signor,<br />benedici il nostro tetto,<br />fallo asil d’amor;<br />lo preserva dal peccato,<br />lo difendi dall’error.<br />Sia col sangue tuo segnato,<br />o divin Signor. O Signor! O Signor!<br />Sii tu l’ospite beato,<br />o divin Signor.</lines>
+    </verse>
+  </lyrics>
+</song>

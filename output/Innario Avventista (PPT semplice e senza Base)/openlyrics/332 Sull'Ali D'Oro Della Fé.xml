@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>332 Sull'Ali D'Oro Della Fé</title>
+    </titles>
+    <songbooks>
+      <songbook name="Sull'Ali D'Oro Della Fé" entry="332"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sull’ali d’oro della fé,<br />Signor, veniamo a te;<br />rivestici di tua virtù,<br />ammantaci di santità:<br />come il Signor Gesù.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>La grazia tua, Padre fedel,<br />del male squarci il vel;<br />ci renda forti e pronti ognor<br />a bene oprar con vivo ardor:<br />oprar come Gesù.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rendici puri e santi, o Re,<br />accresci in noi la fé;<br />in noi riaccendi, ti preghiam,<br />la sete dell’eternità;<br />per sempre uniti a te.</lines>
+    </verse>
+  </lyrics>
+</song>

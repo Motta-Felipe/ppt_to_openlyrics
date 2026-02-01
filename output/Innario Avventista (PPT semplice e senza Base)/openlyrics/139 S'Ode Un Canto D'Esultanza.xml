@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>139 S'Ode Un Canto D'Esultanza</title>
+    </titles>
+    <songbooks>
+      <songbook name="S'Ode Un Canto D'Esultanza" entry="139"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>S’ode un canto d’esultanza:<br />alleluia al Re dei re.<br />Pieno è il cuore di speranza:<br />alleluia al Re dei re.<br />Oggi è nato il Redentore,<br />la salvezza dell’umanità.<br />Innalziamo a Dio il nostro cuore:<br />alleluia al Redentor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Su, venite ad adorare:<br />alleluia al Re dei re.<br />Questo Bimbo, il Salvatore:<br />alleluia al Re di re.<br />A lui date il vostro cuore,<br />e la gioia il suo amore vi darà.<br />Deh, cantate a lui con fervore:<br />alleluia al Redentor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nel cammino della vita:<br />alleluia al Re dei re.<br />Una culla il ciel ci addita:<br />alleluia al Re dei re.<br />“Non perdete la speranza<br />perché Cristo è venuto a salvar”<br />A lui gloria con esultanza:<br />alleluia al Redentor!</lines>
+    </verse>
+  </lyrics>
+</song>

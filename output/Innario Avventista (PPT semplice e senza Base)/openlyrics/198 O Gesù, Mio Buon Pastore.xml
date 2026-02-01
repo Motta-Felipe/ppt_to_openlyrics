@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>198 O Gesù, Mio Buon Pastore</title>
+    </titles>
+    <songbooks>
+      <songbook name="O Gesù, Mio Buon Pastore" entry="198"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Gesù, mio buon pastore,<br />molti agnelli chiama a te;<br />li conduci nel tuo amore<br />a seguirti nella fé.<br />Deh, largisci il pan di vita<br />ai più piccoli ogni dì;<br />a ogni debole l’aita,<br />le carezze a chi soffrì.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Li conduci in luogo erboso<br />lungo l’acque chete ognor,<br />ove trova il suo riposo<br />chi ti segue con amor.<br />A chi segue il buon Pastore<br />nulla mai gli mancherà;<br />nel cocente estivo ardore<br />sempre in lui ristoro avrà.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>48 O Cristo, Fa Ch’io T’ami</title>
+    </titles>
+    <songbooks>
+      <songbook name="O Cristo, Fa Ch’io T’ami" entry="48"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Cristo, fa ch’io t’ami ognor di più;<br />prostrato ai piedi tuoi, dolce Gesù<br />ardente sarà ognor<br />la prece del  amor cuor;<br />più amor per te, più amor per te!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Non sempre questo fu mio sol pensier,<br />nel mondo ingannator cercai piacer;<br />perdona, o mio Signor,<br />e dona a questo cuor<br />più amor per te, più amor per te!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Coll’ultimo respiro del labbro alfin,<br />ancor proclamerò tuo amor divin;<br />sì, del languente cuor<br />sarà la prece allor:<br />più amor per te, più amor per te!</lines>
+    </verse>
+  </lyrics>
+</song>

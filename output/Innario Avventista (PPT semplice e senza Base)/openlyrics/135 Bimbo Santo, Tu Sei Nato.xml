@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>135 Bimbo Santo, Tu Sei Nato</title>
+    </titles>
+    <songbooks>
+      <songbook name="Bimbo Santo, Tu Sei Nato" entry="135"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bimbo santo, tu sei nato<br />nella stalla di Betlem;<br />fra un bue e un asinello<br />tu riposi, o Re dei re.<br />“Gloria a Dio e pace in terra”<br />s’odon gli angeli cantare,<br />“Oggi è nato il Salvator,<br />oggi è nato il Salvator”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sopra i monti, nelle valli<br />veglian quieti dei pastor<br />con le greggi che riposan<br />aspettando il sole d’or.<br />“Su correte ad adorare”<br />dicon gli angeli ai pastori,<br />“nato è Cristo, il Redentor,<br />nato è Cristo il Redentor!”.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>È Natale in ogni cuore,<br />oggi è nato il Redentor.<br />Raccontiamo al mondo intero<br />la salvezza dell’Agnel<br />e cantiamo con fervore<br />inni eccelsi al Salvatore:<br />lode al nostro Redentor,<br />lode al nostro Redentor!</lines>
+    </verse>
+  </lyrics>
+</song>

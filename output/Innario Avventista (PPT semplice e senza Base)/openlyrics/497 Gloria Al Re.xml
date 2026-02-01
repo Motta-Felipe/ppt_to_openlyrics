@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>497 Gloria Al Re</title>
+    </titles>
+    <songbooks>
+      <songbook name="Gloria Al Re" entry="497"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gloria, gloria, gloria sia al Re.<br />Gloria, gloria, gloria sia al Re.<br />Chi è il Re di gloria? Il suo nome è Gesù.<br />È il Signor dei signori, è l’Altissimo.<br />Il suo nome proclamerem.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>489 Da Gente A Gente</title>
+    </titles>
+    <songbooks>
+      <songbook name="Da Gente A Gente" entry="489"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come si può esprimere<br />tanto amore di Gesù<br />alla persona sofferente in solitudine?<br />A tanta gente che sente fame<br />e non ha il pane del Signor?<br />Come parlargli di Gesù?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gente che sa va a gente che ignora Gesù;<br />gente che ama va a gente che sta sempre sola.<br />Perché c’è gente che non vedrà,<br />gente che non udrà, gente che non saprà<br />del suo grande amor.<br />Gente che vede a gente che non vede Gesù<br />ed è da gente a gente, si, gente a gente,<br />che rivive l’amor del Signor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come si fa dire<br />della vita eterna,qui,<br />alla persona che non sa cos’è felicità?<br />Come si parla dell’amore<br />di Gesù a chi non sa amar?<br />Come parlargli di Gesù?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gente che sa va a gente che ignora Gesù;<br />gente che ama va a gente che sta sempre sola.<br />Perché c’è gente che non vedrà,<br />gente che non udrà, gente che non saprà<br />del suo grande amor.<br />Gente che vede a gente che non vede Gesù<br />ed è da gente a gente, si, gente a gente,<br />che rivive l’amor del Signor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come si fa a dire<br />ad un mondo nel dolor<br />che la speranza c’è ed è soltanto in Gesù?<br />Come si fa a convincere<br />un uomo dell’aiuto del Signor?<br />Come parlargli di Gesù?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gente che sa va a gente che ignora Gesù;<br />gente che ama va a gente che sta sempre sola.<br />Perché c’è gente che non vedrà,<br />gente che non udrà, gente che non saprà<br />del suo grande amor.<br />Gente che vede a gente che non vede Gesù<br />ed è da gente a gente, si, gente a gente,<br />che rivive l’amor del Signor!</lines>
+    </verse>
+  </lyrics>
+</song>

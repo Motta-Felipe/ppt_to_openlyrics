@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>226 Innalzate Il Vessil Della Croce</title>
+    </titles>
+    <songbooks>
+      <songbook name="Innalzate Il Vessil Della Croce" entry="226"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Innalzate il vessil della croce,<br />libertà, deh, bandite agli schiavi!<br />Di salvezza elevate la voce,<br />annunziando il Cristo Gesù:<br />raccontate la buona notizia<br />della grazia a chi grazia ricerca;<br />proclamate con grande letizia<br />che il Signore è venuto a salvar,<br />che il Signore è venuto a salvar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rimirate: la messe biondeggia,<br />è matura pel regno dei cieli;<br />accrescete di Cristo la greggia<br />conducendo nuove alme al Signor.<br />Vi dia Cristo coraggio e sapienza,<br />vi sia guida lo Spirto divino;<br />diffondete l’amor, la pazienza<br />e la pace che vien dal Signor,<br />e la pace che vien dal Signor.</lines>
+    </verse>
+  </lyrics>
+</song>

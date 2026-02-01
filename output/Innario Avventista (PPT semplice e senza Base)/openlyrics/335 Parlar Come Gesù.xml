@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>335 Parlar Come Gesù</title>
+    </titles>
+    <songbooks>
+      <songbook name="Parlar Come Gesù" entry="335"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Padre, dimmi cosa dir<br />per parlar come Gesù.<br />Dimmi, Padre, come far<br />per seguire il Cristo.<br />Esser come lui, come il mio Signore;<br />come lui sapere amar anche nel dolor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Padre, ascolta il mio pregar;<br />sono debole, lo so,<br />dimmi, Padre, come far<br />per seguire il Cristo.<br />Esser come lui, come il mio Signore;<br />come lui sapere amar anche nel dolor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quando guardo intorno a me<br />vorrei amar come Gesù;<br />dimmi, Padre, come far<br />per seguire il Cristo.<br />Esser come lui, come il mio Signore;<br />come lui sapere amar anche nel dolor.</lines>
+    </verse>
+  </lyrics>
+</song>

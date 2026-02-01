@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>402 La Tua Presenza Brama</title>
+    </titles>
+    <songbooks>
+      <songbook name="La Tua Presenza Brama" entry="402"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>La tua presenza brama<br />quest’anima, Signor;<br />te sol domanda e chiama<br />il debole mio cuor.<br />Non un sol giorno, un’ora,<br />vò star lontan da te;<br />Gesù vieni e dimora ognor vicino a me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se densa la bufera<br />nel buio ruggirà,<br />da te nella preghiera<br />l’aiuto mi verrà.<br />Non un sol giorno, un’ora,<br />vò star lontan da te;<br />Gesù vieni e dimora ognor vicino a me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se scorreranno meste<br />le notti mie nel duol,<br />il balsamo celeste<br />a me darai tu sol.<br />Non un sol giorno, un’ora,<br />vò star lontan da te;<br />Gesù vieni e dimora ognor vicino a me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Profonda ed infinita<br />pace, o Signor, sei tu;<br />serena gioia, vita<br />che non tramonta più.<br />Non un sol giorno, un’ora,<br />vò star lontan da te;<br />Gesù vieni e dimora ognor vicino a me.</lines>
+    </verse>
+  </lyrics>
+</song>

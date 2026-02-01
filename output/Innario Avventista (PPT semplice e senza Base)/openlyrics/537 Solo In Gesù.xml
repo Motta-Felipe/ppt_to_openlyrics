@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>537 Solo In Gesù</title>
+    </titles>
+    <songbooks>
+      <songbook name="Solo In Gesù" entry="537"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Solo in Gesù la tua pace puoi ritrovar.<br />Egli è con te, non dubitar.<br />Solo Gesù la salvezza ti può donar:<br />col sangue suo la conquistò.<br />Affida al Salvator i problemi che hai,<br />accanto a te lo troverai.<br />Porta al tuo Redentor ogni tuo sospir,<br />egli è con te, ti aiuterà.</lines>
+    </verse>
+  </lyrics>
+</song>

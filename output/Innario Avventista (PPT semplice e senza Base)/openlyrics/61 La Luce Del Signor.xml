@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>61 La Luce Del Signor</title>
+    </titles>
+    <songbooks>
+      <songbook name="La Luce Del Signor" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>La luce del Signor<br />fulgida è più del sol;<br />la dolce sua santità<br />sul volto suo vediam.<br />Cristo nei nostri cuor<br />risplende col suo amore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Grazie, Signor Gesù,<br />ti amiamo sempre più.<br />Ci doni la libertà,<br />vita ed eternità.<br />La luce del vangel<br />risplenda senza velo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Il popol tuo fedel<br />proclama l’Evangel,<br />racconta che solo in te<br />si trovan pace e fè.<br />Tu, luce sei Signor<br />che illumina ogni cuore.</lines>
+    </verse>
+  </lyrics>
+</song>

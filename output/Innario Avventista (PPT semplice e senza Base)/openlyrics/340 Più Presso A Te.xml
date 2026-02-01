@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>340 Più Presso A Te</title>
+    </titles>
+    <songbooks>
+      <songbook name="Più Presso A Te" entry="340"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Più presso a te, Signor,<br />venir vogli’io:<br />è il grido del mio cuor:<br />lo ascolta, o Dio!<br />Nei foschi dì del duolo,<br />allor ch’io  soffro solo,<br />mi guidi ognor la fé più presso a te.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Più presso a te, Signor,<br />venir vogli’io;<br />tu vedi il mio dolor:<br />tu solo, o Dio!<br />Tu, che ogni ben verace<br />puoi dar, mi dà la pace;<br />e pace avrò per me più presso a te.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Più presso a te, Signor,<br />venir vogli’io;<br />eppur mi assal talor<br />il dubbio, o Dio.<br />Dissipa, nel mio cielo,<br />di nubi il grigio velo,<br />e tienmi tu, mio Re, più presso a te.</lines>
+    </verse>
+  </lyrics>
+</song>

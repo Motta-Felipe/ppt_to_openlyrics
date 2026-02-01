@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>417 Gloria A Dio, Consolator</title>
+    </titles>
+    <songbooks>
+      <songbook name="Gloria A Dio, Consolator" entry="417"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gloria a Dio Padre creator,<br />gloria a Dio Figlio salvator,<br />gloria a Dio Spirto consolator!<br />Gloria, alleluia, gloria, alleluia<br />lode al Signor!</lines>
+    </verse>
+  </lyrics>
+</song>

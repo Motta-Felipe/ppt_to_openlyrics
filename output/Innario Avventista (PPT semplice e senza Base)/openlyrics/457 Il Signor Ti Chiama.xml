@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>457 Il Signor Ti Chiama</title>
+    </titles>
+    <songbooks>
+      <songbook name="Il Signor Ti Chiama" entry="457"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Il Signor ti chiama all’opra d’amor,<br />santa e benedetta opra del Signor.<br />Al solenne appello vuoi risponder tu:<br />vuoi fedel fratello, vuoi servir Gesù?<br />Credi, prega con ardor,<br />non cessar di lavorare pel Signor.<br />Abbi fede, speme, amor,<br />Gesù renderà possente il tuo lavor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vedi il tuo fratello come geme ancor<br />sotto il gran fardello dell’antico error?<br />Tu lo puoi salvare se con tutto il cuor<br />gli saprai parlare dell’eterno amor.<br />Credi, prega con ardor,<br />non cessar di lavorare pel Signor.<br />Abbi fede, speme, amor,<br />Gesù renderà possente il tuo lavor.</lines>
+    </verse>
+  </lyrics>
+</song>

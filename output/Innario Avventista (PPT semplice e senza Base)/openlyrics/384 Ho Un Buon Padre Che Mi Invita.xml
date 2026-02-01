@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>384 Ho Un Buon Padre Che Mi Invita</title>
+    </titles>
+    <songbooks>
+      <songbook name="Ho Un Buon Padre Che Mi Invita" entry="384"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ho un buon Padre che mi invita in ciel,<br />ho un buon Padre che mi invita in ciel.<br />A lui un giorno me ne andrò,<br />e quel buon Padre in ciel vedrò.<br />Me ne andrò, me ne andrò, me ne andrò nel ciel.  me ne andrò, me ne andrò, me ne andrò nel ciel. Mio Padre chiama debbo andar,<br />la faccia sua a contemplar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ho un salvatore che mi invita in ciel,<br />ho un Salvatore che mi invita in ciel;<br />a lui un giorno me ne andrò<br />e il Salvatore in ciel vedrò.<br />Lo vedrò, lo vedrò, lo vedrò nel ciel;<br />lo vedrò, lo vedrò, lo vedrò nel ciel;<br />Gesù con me dimorerà,<br />ed ei mi santificherà.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ho una corona preparata in ciel,<br />ho una corona preparata in ciel;<br />di spine l’ebbe il Salvator,<br />la mia sarà di vaghi fior.<br />Si l’avrò, si l’avrò, si l’avrò nel ciel;<br />si l’avrò, si l’avrò, si l’avrò nel ciel.<br />Gesù me la conserverà,<br />e questa fronte cingerà.</lines>
+    </verse>
+  </lyrics>
+</song>

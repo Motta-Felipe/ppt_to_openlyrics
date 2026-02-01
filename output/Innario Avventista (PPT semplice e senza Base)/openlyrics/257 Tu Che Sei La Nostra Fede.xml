@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>257 Tu Che Sei La Nostra Fede</title>
+    </titles>
+    <songbooks>
+      <songbook name="Tu Che Sei La Nostra Fede" entry="257"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu che sei la nostra fede, Gesù salvator,<br />e che doni a chi tel chiede il divin favor.<br />Ci dai pace e carità,<br />ed un cuor che sia verace,<br />fido in santità.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Con ardente fè guardiamo, te Signor Gesù;<br />umilmente ti chiediamo purità, virtù.<br />Facci santi, dacci ardor,<br />che lo Spirto tuo ci ammanti<br />col suo santo amor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I dolori della vita facci sopportar;<br />sii tu scudo, nostro aiuto, per non più peccar.<br />Deh, tu sprona il nostro cuor,<br />ad ogni opra che sia buona,<br />o divin Signor!</lines>
+    </verse>
+  </lyrics>
+</song>

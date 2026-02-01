@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>91 A Casa, Deh, Torna!</title>
+    </titles>
+    <songbooks>
+      <songbook name="A Casa, Deh, Torna!" entry="91"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A casa, deh, torna!<br />Sei stanco nel cuore,<br />sei solo ed orrore<br />la strada ti fa;<br />o prodigo figlio,<br />a casa, deh, va!<br />A casa, deh va!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A casa, deh, torna!<br />Il padre ti attende,<br />le braccia ti tende<br />con gioia e bontà;<br />o prodigo figlio,<br />a casa, deh, va!<br />A casa, deh, va!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A casa, deh, torna!<br />E lascia il dolor,<br />e il vil tentatore,<br />ed ogni empietà;<br />o prodigo figlio,<br />a casa, deh, va!<br />A casa, deh, va!</lines>
+    </verse>
+  </lyrics>
+</song>

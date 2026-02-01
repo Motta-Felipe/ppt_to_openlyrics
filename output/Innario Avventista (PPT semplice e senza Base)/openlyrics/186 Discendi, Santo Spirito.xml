@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>186 Discendi, Santo Spirito</title>
+    </titles>
+    <songbooks>
+      <songbook name="Discendi, Santo Spirito" entry="186"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Discendi, Santo Spirito,<br />le nostre menti visita<br />col soffio creatore.<br />Ravviva per tua grazia<br />a la nostra fede tiepida,<br />divin Consolatore.<br />Vieni, vieni, santo ardore,<br />vivo fuoco, puro amore,<br />vieni e infiamma il nostro cuore!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu, difensor sollecito,<br />sostegno sei degli umili<br />e intercessor pietoso.<br />La luce inaccessibile<br />del Padre manifestaci<br />nel Redentor glorioso.<br />Vieni, vieni, santo ardore,<br />vivo fuoco, puro amore,<br />vieni e infiamma il nostro cuore!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Spirito divino ancor<br />del tentator malefico<br />distruggi tu l’offesa!<br />L’amor nei cuori suscita,<br />giustizia e pace insegnaci,<br />edifica la chiesa.<br />Vieni, vieni, santo ardore,<br />vivo fuoco, puro amore,<br />vieni e infiamma il nostro cuore!</lines>
+    </verse>
+  </lyrics>
+</song>

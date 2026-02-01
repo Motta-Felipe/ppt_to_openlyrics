@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>231 In Questo Dì, Signor</title>
+    </titles>
+    <songbooks>
+      <songbook name="In Questo Dì, Signor" entry="231"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In questo dì, Signor,<br />la tua rugiada cada<br />su chi smarrì la strada,<br />sull’uomo peccator.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>La pace tua, Signor,<br />al nostro cuore arreca;<br />e l’anima invoca<br />la forza del tuo amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O sabato divin,<br />riposo doni al cuore<br />di chi con zelo e amore<br />a te si dona alfin.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E questo giorno, ognor,<br />annuncia eterna vita,<br />la tua bontà infinita<br />ed il tuo grande amor.</lines>
+    </verse>
+  </lyrics>
+</song>

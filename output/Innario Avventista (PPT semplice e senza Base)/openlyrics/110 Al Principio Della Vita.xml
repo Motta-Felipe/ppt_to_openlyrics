@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>110 Al Principio Della Vita</title>
+    </titles>
+    <songbooks>
+      <songbook name="Al Principio Della Vita" entry="110"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Al principio della vita<br />c’era il verbo dell’Eterno,<br />e per lui nel mondo vita fu.<br />Ha creato cielo e terra<br />e ogni cosa buona: sia gloria al Re!<br />Poi con gioia e maestà<br />creò l’uomo a sua sembianza.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come luce venne in terra<br />il Signore della vita<br />per squarciare il denso tenebror.<br />Ma le tenebre del mondo<br />rifiutarono la luce, l’eternità.<br />L’unigenito figliuol<br />dà salvezza al peccatore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>L’unigenito del Padre<br />ha portato luce e vita<br />per chi accetta la sua grazia e amor.<br />Ed un giorno lo splendore<br />di Gesù il Salvator, contemplerò.<br />Nella casa su nel ciel<br />io vivrò col mio Signor! Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

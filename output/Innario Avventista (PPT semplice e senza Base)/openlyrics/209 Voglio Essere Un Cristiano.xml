@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>209 Voglio Essere Un Cristiano</title>
+    </titles>
+    <songbooks>
+      <songbook name="Voglio Essere Un Cristiano" entry="209"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Voglio essere un cristiano<br />nel mio cuor, nel mio cuor;<br />Voglio essere un cristiano<br />nel mio cuor.<br />Nel mio cuor, nel mio cuor;<br />voglio essere un cristiano nel mio cuor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Voglio avere un vero amore<br />nel mio cuor, nel mio cuor;<br />voglio avere un vero amore<br />nel mio cuor.<br />Nel mio cuor, nel mio cuor;<br />voglio avere un vero amore nel mio cuor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Voglio esser più santo<br />nel mio cuor, nel mio cuor;<br />voglio esser più santo<br />nel mio cuor.<br />Nel mio cuor, nel mio cuor;<br />voglio esser più santo nel mio cuor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Voglio avere la sua pace<br />nel mio cuor, nel mio cuor;<br />voglio avere la sua pace<br />nel mio cuor.<br />Nel mio cuor, nel mio cuor;<br />voglio avere la sua pace nel mio cuor.</lines>
+    </verse>
+  </lyrics>
+</song>

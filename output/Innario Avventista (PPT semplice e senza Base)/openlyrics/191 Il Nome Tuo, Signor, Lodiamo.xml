@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>191 Il Nome Tuo, Signor, Lodiamo</title>
+    </titles>
+    <songbooks>
+      <songbook name="Il Nome Tuo, Signor, Lodiamo" entry="191"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Il nome tuo, Signor, lodiamo<br />uniti in una stessa fé;<br />concordi il canto a te eleviamo<br />per implorar la tua mercé.<br />Se lontani siamo, pure insiem<br />cerchiamo di ritrovarci in te.<br />Dacci, tu Signore, solidale amore<br />nella tua grazia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>L’annunzio certo e glorioso<br />del tuo ritorno, o Salvator,<br />stringe in un vincolo gioioso<br />di comunione i nostri cuor.<br />D’opera feconda desiderio<br />infonda nuova fraternità.<br />E le preci ardenti di tutti i credenti<br />salgano al cielo.</lines>
+    </verse>
+  </lyrics>
+</song>

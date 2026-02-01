@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>73 Andiamo Con Il Cristo</title>
+    </titles>
+    <songbooks>
+      <songbook name="Andiamo Con Il Cristo" entry="73"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Andiamo con il Cristo il nostro Dio e Signor<br />seguiamo la sua legge che parla del suo amor.<br />Ci dona pace, vita, amore, eternità.<br />Per grazia ci ha salvati: lode alla sua bontà.<br />Andiamo con il Cristo o uomini di fé<br />seguiamo la sua legge<br />ei solo ei solo è il nostro Re!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Andiamo con il Cristo, il nostro Dio e Signor;<br />seguiamo la sua strada con fede e con amor.<br />Se anche nella vita si oscura il nostro ciel,<br />Gesù, bontà infinita, ci dona forza e zel.<br />Andiamo con il Cristo o uomini di fé<br />seguiamo la sua legge<br />ei solo ei solo è il nostro Re!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Andiamo con il Cristo, il nostro Dio e Signor;<br />seguiamo noi il suo esempio di purità e d’amor.<br />Andiamo a raccontare che in croce lui morì<br />per darci vita eterna al suo ritorno, un dì.<br />Andiamo con il Cristo o uomini di fé<br />seguiamo la sua legge<br />ei solo ei solo è il nostro Re!</lines>
+    </verse>
+  </lyrics>
+</song>

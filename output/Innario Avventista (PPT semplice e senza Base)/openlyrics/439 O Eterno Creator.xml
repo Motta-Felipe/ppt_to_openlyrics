@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>439 O Eterno Creator</title>
+    </titles>
+    <songbooks>
+      <songbook name="O Eterno Creator" entry="439"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Eterno creator,<br />di un anno nuovo ancora<br />nel tuo paterno amor<br />ci fai veder l’aurora.<br />Rimani a noi vicin,<br />ravviva in noi la fé,<br />insegnaci il cammino<br />che sol conduce a te.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sia pien quest’anno ancor<br />di tua benevolenza;<br />accordaci, o Signor,<br />bontà, virtù, sapienza.<br />La voce di Gesù<br />ne insegna ad ascoltar<br />ché pace a noi quaggiù<br />la croce sa donar.</lines>
+    </verse>
+  </lyrics>
+</song>

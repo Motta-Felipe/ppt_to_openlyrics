@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>437 Trascorso È Appena Un Anno</title>
+    </titles>
+    <songbooks>
+      <songbook name="Trascorso È Appena Un Anno" entry="437"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Trascorso è appena un anno ancora,<br />eppur lontano sembra già.<br />Il tempo fugge d’ora in ora,<br />nessuno mai l’arresterà.<br />Tutto passò, ma resta in me<br />ferma e sicura in Dio la fé.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In lui la vita mia si fonda:<br />egli immutabil regnerà<br />quando del tempo in fuga<br />l’onda sui giorni nostri scorrerà;<br />poiché nel mondo il suo voler<br />è solo stabile poter.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Padre, la tua benevolenza<br />per l’anno nuovo invocherò:<br />ci guidi ancor la tua presenza<br />che fino ad or ci confortò,<br />e il popol tuo camminerà<br />con rinnovata fedeltà.</lines>
+    </verse>
+  </lyrics>
+</song>

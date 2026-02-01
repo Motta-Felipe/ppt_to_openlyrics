@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>374 Aspetto Il Signor</title>
+    </titles>
+    <songbooks>
+      <songbook name="Aspetto Il Signor" entry="374"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aspetto quando il Signor<br />dal ciel ritornerà<br />per dar la vita ai suoi fedel,<br />giustizia e santità.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Incontro a Cristo su nel ciel<br />andrò per il suo amor.<br />Per mille anni col Signor<br />sul trono regnerò.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Discenderà con gran splendor<br />la sposa di Gesù<br />dal cielo in festa per aver<br />il premio del Signor.</lines>
+    </verse>
+  </lyrics>
+</song>

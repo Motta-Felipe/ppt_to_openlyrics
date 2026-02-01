@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>193 Con Grande Gioia</title>
+    </titles>
+    <songbooks>
+      <songbook name="Con Grande Gioia" entry="193"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Con grande gioia, Padre ti lodiamo<br />per chi fra noi è giunto in questo dì;<br />un benvenuto lieto gli diciamo<br />nella comune fede che ci unì.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, quanto è bello per i tuoi figliuoli<br />un vero amor fraterno ricercar;<br />in questo mondo non sentirsi soli,<br />sotto il suo sguardo insieme dimorar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne forte vincol del cristiano affetto<br />riconosciam la grazia tua, Signor;<br />fa che il tuo amor diventi in noi perfetto,<br />fa che riscaldi e allieti i nostri cuor!</lines>
+    </verse>
+  </lyrics>
+</song>

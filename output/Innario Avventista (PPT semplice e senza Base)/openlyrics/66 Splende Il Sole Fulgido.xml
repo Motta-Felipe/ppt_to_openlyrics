@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>66 Splende Il Sole Fulgido</title>
+    </titles>
+    <songbooks>
+      <songbook name="Splende Il Sole Fulgido" entry="66"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Splende il sole fulgido nel cuor;<br />pace vera provo alfin.<br />E’ Gesù che col suo grande amor<br />rischiara il mio cammin.<br />Questa luce che risplende<br />dona pace, vita, eternità;<br />è Cristo il re che illumina il cuor<br />per l’immensa sua bontà.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Si sprigiona un canto dal mio cuor<br />Che s’innalza fin lassù.<br />Io vorrei cantar tutto il mio amor<br />a te, o mio Gesù.<br />Questa luce che risplende<br />dona pace, vita, eternità;<br />è Cristo il re che illumina il cuor<br />per l’immensa sua bontà.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Primavera con la gioia in cuor<br />giunge calma fino a me;<br />col profumo dolce dei suoi fior<br />mi porta fino a te!<br />Questa luce che risplende<br />dona pace, vita, eternità;<br />è Cristo il re che illumina il cuor<br />per l’immensa sua bontà.</lines>
+    </verse>
+  </lyrics>
+</song>

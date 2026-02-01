@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>259 Son Stanco Di Lottar</title>
+    </titles>
+    <songbooks>
+      <songbook name="Son Stanco Di Lottar" entry="259"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Son stanco di lottar, Signor<br />nel buio e nel dolor.<br />La vita, che non dà amor,<br />né pace, né pietà,<br />ognor, o dolce mio Gesù,<br />felice in te sarà.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Son solo e vuoto dentro me,<br />c’è angoscia nel mio cuor.<br />Ricerco invan la luce che<br />c’è in te, o Salvator.<br />Il male turba questo cuor,<br />aiutami, Signor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>“Deh, vieni, non tardar figliuol<br />che piangi nel dolor;<br />ti dono vita e amor,<br />la forza per lottar<br />e giorni pieni di splendor:<br />consacra a me il cuor!”.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>460 Sii Fedele Fino Alla Morte</title>
+    </titles>
+    <songbooks>
+      <songbook name="Sii Fedele Fino Alla Morte" entry="460"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sii fedele fino alla morte,<br />ed io ti darò la corona della vita<br />Sii fedele fino alla morte,<br />ed io ti darò la corona della vita<br />Sii fedele fino alla morte,<br />ed io ti darò la corona della vita<br />la corona, la corona della vita</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Né morte né vita, né angeli né principati,<br />né cose presenti né cose future,<br />né podestà né altezza né profondità,<br />né alcun altra creatura potrà separarci<br />dall’amore di Dio, ch’è in Cristo Gesù,<br />ch’è in Cristo Gesù, nostro Signore;<br />dall’amore di Dio, ch’è in Cristo Gesù,<br />ch’è in Cristo Gesù, nostro Signore.</lines>
+    </verse>
+  </lyrics>
+</song>

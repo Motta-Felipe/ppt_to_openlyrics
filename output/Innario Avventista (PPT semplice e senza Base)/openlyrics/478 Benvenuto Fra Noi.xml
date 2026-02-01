@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>478 Benvenuto Fra Noi</title>
+    </titles>
+    <songbooks>
+      <songbook name="Benvenuto Fra Noi" entry="478"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hai trovato la vita, la tua casa è qui;<br />molti hai lasciato, ma altri sono con te.<br />Ora che sei qui con noi, benvenuto fra noi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hai dovuto lottare per venire fin qui;<br />molto hai sofferto, ma hai trovato Gesù.<br />Ora che sei qui con noi, benvenuto fra noi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu sei nato di nuovo, Cristo vive in te;<br />nelle acque sei sceso per seguire Gesù.<br />Ora che sei qui con noi, benvenuto fra noi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Camminare dovrai e lottare di più;<br />nella lotta ci sarà chi ha vinto per te.<br />Ora che sei qui con noi, benvenuto fra noi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Non c’è modo più bello per andare da lui<br />è l’esempio che tu dai, altri a lui porterà.<br />Ora che sei qui con noi, benvenuto fra noi.</lines>
+    </verse>
+  </lyrics>
+</song>

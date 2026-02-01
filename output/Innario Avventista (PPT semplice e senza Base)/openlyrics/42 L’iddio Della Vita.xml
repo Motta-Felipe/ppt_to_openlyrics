@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>42 L’iddio Della Vita</title>
+    </titles>
+    <songbooks>
+      <songbook name="L’iddio Della Vita" entry="42"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>L’Iddio della vita<br />sorgente d’acqua pura;<br />stupenda, infinita<br />è la sua benignità.<br />Aspetto con ardore<br />la gioia del suo volto,<br />e cerco col suo aiuto<br />di seguir il suo voler.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>L’Iddio creatore<br />che ha fatto mare e cielo<br />mi parla della vita,<br />della grazia e dell’amore.<br />Io guardo al nuovo mondo<br />con fede e con speranza;<br />di gioia e di certezze<br />è ricolmo questo cuor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>L’Iddio che donò<br />all’uomo ingrato il figliuolo,<br />le lacrime dagli occhi<br />asciugherà ai suoi fedel.<br />Cercando luce vera,<br />perdono e conforto,<br />imploro il Signore<br />di donarmi il suo amor.</lines>
+    </verse>
+  </lyrics>
+</song>

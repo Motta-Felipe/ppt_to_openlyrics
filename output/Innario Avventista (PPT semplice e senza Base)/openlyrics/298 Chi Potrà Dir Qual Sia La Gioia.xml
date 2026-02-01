@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>298 Chi Potrà Dir Qual Sia La Gioia</title>
+    </titles>
+    <songbooks>
+      <songbook name="Chi Potrà Dir Qual Sia La Gioia" entry="298"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chi potrà dir qual sia la gioia<br />e quanta<br />che sgorga dall’ineffabile tua presenza<br />santa,<br />o mio Signor, e la soave pace arcana<br />e pura che rassicura, che ravviva il cuor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Presso di te, Gesù del mal s’acquieta<br />la voce  in me.<br />Presso di te più forte è l’alma, e lieta<br />di viva fé.<br />Presso di te più bella appar la vita<br />per l’infinita, dolce tua mercé.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Triste m’appar la terra e tanto oscuro<br />io vedo il ciel!<br />Su questo cuor deluso e malsicuro<br />si stende un vel.<br />Ma s’io mi volgo verso te, pietoso<br />mi dai riposo, provvido e fedel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Viver ognor vicino a te, Signore,<br />è il mio desir.<br />Con te lottar, divino vincitore,<br />con te morir!<br />Per te risorger alla vita eterna<br />che mi riservi: grande è il mio gioir!</lines>
+    </verse>
+  </lyrics>
+</song>

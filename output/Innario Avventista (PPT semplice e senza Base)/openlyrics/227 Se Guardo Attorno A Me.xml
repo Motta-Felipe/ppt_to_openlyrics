@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>227 Se Guardo Attorno A Me</title>
+    </titles>
+    <songbooks>
+      <songbook name="Se Guardo Attorno A Me" entry="227"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Se guardo attorno a me vedo l’ansia, il dolor,<br />la triste angoscia che turba l’uom peccatore.<br />Io sento che Gesù mi chiama ad annunciar<br />la buona notizia dell’eternità.<br />Ti prego, Signor Gesù, stai con me!<br />Con te, Salvator, non vivo<br />il terror che sento in me.<br />La croce annunciare saprò, non temerò,<br />ovunque con te mio Signore me ne andrò.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>La luce del Vangel vo’ portare con valor<br />ed indicare il ciel a colui che è nel dolor.<br />Lo so che il mio Gesù conforto sa recar<br />a un cuore smarrito che pace non ha.<br />Ti prego, Signor Gesù, stai con me!<br />Con te, Salvator, non vivo<br />il terror che sento in me.<br />La croce annunciare saprò, non temerò,<br />ovunque con te mio Signore me ne andrò.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Del dolce mio Gesù raccontare voglio ancor,<br />parlare sempre più di sua grazia e del suo amor.<br />Fratello, non tardar! Deh, vieni al Salvator!<br />Ei t’offre la vita e l’eternità.<br />Ti prego, Signor Gesù, stai con me!<br />Con te, Salvator, non vivo<br />il terror che sento in me.<br />La croce annunciare saprò, non temerò,<br />ovunque con te mio Signore me ne andrò.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>440 Questo Bimbo, O Salvator</title>
+    </titles>
+    <songbooks>
+      <songbook name="Questo Bimbo, O Salvator" entry="440"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Questo bimbo, o Salvator,<br />d’un sol cuor ti presentiamo;<br />la tua grazia, il tuo favor<br />per lui supplici invochiamo;<br />lo consacri la tua legge<br />quale agnello del tuo gregge.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu ammonisti: “A me venir<br />voi lasciate i fanciulletti!<br />Né vogliateli impedir:<br />essi sono i miei diletti,<br />ché del mio celeste Regno<br />più di lor nessuno è degno”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Questo bimbo accogli tu<br />che per grazia ci hai salvato:<br />lo rinnovi tua virtù,<br />lo preservi dal peccato;<br />abbia fede in te sincera,<br />a te unito, o Vite vera.</lines>
+    </verse>
+  </lyrics>
+</song>

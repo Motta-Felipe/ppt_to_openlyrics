@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>403 La Storia Di Gesù</title>
+    </titles>
+    <songbooks>
+      <songbook name="La Storia Di Gesù" entry="403"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mi piace raccontare la storia di Gesù,<br />parlar della sua gloria e dell’immenso amor.<br />Mi piace raccontare di quanto fece per me<br />donando la sua vita sul Golgota, lassù.<br />Mi piace raccontare la storia del Signore,<br />la bella e vera storia di Cristo e del suo amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mi piace raccontare la storia di Gesù,<br />parlare della croce, di quel crudel martir.<br />Mi piace raccontare del grande, immenso amor<br />che volle dare vita all’uomo peccator.<br />Mi piace raccontare la storia del Signore,<br />la bella e vera storia di Cristo e del suo amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mi piace raccontare la storia di Gesù,<br />parlare di quel mattino di luce e di splendor.<br />Mi piace raccontare che un dì resuscitò<br />per dare una certezza a chi errando va.<br />Mi piace raccontare la storia del Signore,<br />la bella e vera storia di Cristo e del suo amor.</lines>
+    </verse>
+  </lyrics>
+</song>

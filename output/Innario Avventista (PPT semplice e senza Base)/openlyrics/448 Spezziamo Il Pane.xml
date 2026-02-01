@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>448 Spezziamo Il Pane</title>
+    </titles>
+    <songbooks>
+      <songbook name="Spezziamo Il Pane" entry="448"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Noi spezziamo il pane tutti insiem;<br />Noi spezziamo il pane tutti insiem.<br />E cadendo in ginocchio<br />volgiamo lo sguardo a te:<br />pietà, o Dio, di noi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Noi beviamo il vino tutti insiem;<br />Noi beviamo il vino tutti insiem.<br />E cadendo in ginocchio<br />volgiamo lo sguardo a te:<br />pietà, o Dio, di noi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Noi lodiamo il Signore tutti insiem;<br />Noi lodiamo il Signore tutti insiem.<br />E cadendo in ginocchio<br />volgiamo lo sguardo a te:<br />pietà, o Dio, di noi.</lines>
+    </verse>
+  </lyrics>
+</song>

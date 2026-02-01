@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>404 La Voce Tua Dolcissima</title>
+    </titles>
+    <songbooks>
+      <songbook name="La Voce Tua Dolcissima" entry="404"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>La voce tua dolcissima,<br />Gesù, nel cuore ho udito:<br />“Asciuga le tue lacrime”,<br />diceva, “e vieni a me”.<br />Qual ero afflitto e debole,<br />Signore, io t’ho ubbidito,<br />ed ho trovato subito<br />riposo e pace in te.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>La voce tua dolcissima,<br />Gesù, m’ha detto: “Vieni,<br />di vita l’acqua limpida<br />e pura ti darò”.<br />E da quel dì trascorsero<br />i giorni miei sereni,<br />ché vita santa l’anima<br />vicino a te trovò.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>La voce tua dolcissima,<br />Gesù, m’ha detto ancora:<br />“Tua guida nelle tenebre<br />e luce mia sarà”<br />E presto ho visto sorgere,<br />Gesù, novella aurora,<br />di un dì glorioso inizio<br />che giammai tramonterà.</lines>
+    </verse>
+  </lyrics>
+</song>

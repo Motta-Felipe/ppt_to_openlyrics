@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>264 Dal Fondo Del Mio Cuore</title>
+    </titles>
+    <songbooks>
+      <songbook name="Dal Fondo Del Mio Cuore" entry="264"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dal fondo del mio cuore,<br />ne cupo mio dolor.<br />A te mi volgo solo<br />la notte e il dì Signor.<br />L’orecchio porgi al grido<br />del mio dolente cuor;<br />che solo in te confido:<br />pietà di me Signor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se quali siam Signore,<br />ne avessi a giudicar,<br />dal giusto tuo rigore<br />nessun potria scampar.<br />Ma, Padre, sei clemente<br />e pronto a a perdonar<br />a chi di cuor si pente<br />e in te vuol confidar.</lines>
+    </verse>
+  </lyrics>
+</song>

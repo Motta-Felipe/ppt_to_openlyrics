@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>114 C’era Un Dì Nella Città Regale</title>
+    </titles>
+    <songbooks>
+      <songbook name="C’era Un Dì Nella Città Regale" entry="114"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>C’era un dì nella città regale<br />un ovile dove nacque il Re.<br />Una greppia era la sua culla,<br />come segno grande d’umiltà.<br />Gesù bimbo, Re del ciel,<br />venne in terra per l’umanità.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Su nel ciel sia gloria, alleluia,<br />che la terra avrà un Salvator.<br />Egli fu un uomo mansueto,<br />pien d’amore per chi era nel dolor.<br />Disse frasi di bontà,<br />dette prova del suo grande cuor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Venne il dì che a Gerusalemme<br />fu arrestato il buono e giusto Re.<br />Suo martir crudele fu la croce:<br />ei morì per l’uomo peccator.<br />Nella morte perdonò<br />chi, crudel, gli lacerava il cuor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sol tre dì in una tomba nuova<br />stette Cristo, il Re di terra e ciel.<br />Un mattin, al sorgere del giorno<br />il Signor per noi risuscitò.<br />Alleluia al Redentor,<br />che per grazia vita ci donò.</lines>
+    </verse>
+  </lyrics>
+</song>

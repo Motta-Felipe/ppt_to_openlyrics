@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>395 Fino Alla Morte Saremo Fedeli</title>
+    </titles>
+    <songbooks>
+      <songbook name="Fino Alla Morte Saremo Fedeli" entry="395"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fino alla morte saremo fedeli,<br />fino alla morte sarai nostro Re.<br />Sotto la croce d’averci tu aneli:<br />noi ci saremo, lottando con fè.<br />Fino alla morte, ti sarem fedeli,<br />grido d’un popolo che schiavo fù.<br />Fino alla morte pel regno dei cieli,<br />noi lotteremo con Cristo Gesù.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fino alla morte vogliamo ubbidire,<br />fino alla morte vogliamo lottar!<br />Perché se teco dovremmo soffrire,<br />ancora teco potremo esultar.<br />Fino alla morte, ti sarem fedeli,<br />grido d’un popolo che schiavo fù.<br />Fino alla morte pel regno dei cieli,<br />noi lotteremo con Cristo Gesù.</lines>
+    </verse>
+  </lyrics>
+</song>

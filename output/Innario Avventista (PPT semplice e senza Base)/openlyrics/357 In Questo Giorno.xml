@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>357 In Questo Giorno</title>
+    </titles>
+    <songbooks>
+      <songbook name="In Questo Giorno" entry="357"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In questo giorno, a te Signor<br />mi prostro con fervor.<br />Ti chiedo e imploro il tuo favor:<br />rimani accanto a me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu grande Dio d’eternità<br />abbi di me pietà.<br />Del tuo amor l’immensità<br />avvince questo cuor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>La vita dono a te Signor:<br />deh, fammi vincitor!<br />Con te vicin non ho timor<br />del buio attorno a me.</lines>
+    </verse>
+  </lyrics>
+</song>

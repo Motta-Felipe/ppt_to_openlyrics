@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>532 Show Your Power, O Lord</title>
+    </titles>
+    <songbooks>
+      <songbook name="Show Your Power, O Lord" entry="532"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Show your power, o Lord,<br />demonstrate the justice of your Kingdom,<br />prove your mighty word,<br />vindicate your name<br />before a watching world.<br />Awesome are you deeds, o Lord,<br />renew them for this hour.<br />Show your power, o Lord<br />among the people now.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Show your power, o Lord,<br />cause your church to rise and take action.<br />Let all fear be gone,<br />power of the age to come<br />are breaking through.<br />We your people are ready to serve,<br />to arise and to obey.<br />Show your power, o Lord,<br />and set the people free.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Show your power, o Lord,<br />and set the people.<br />Show your power, o Lord,<br />and set the people.<br />Show your power, o Lord,<br />and set the people free.</lines>
+    </verse>
+  </lyrics>
+</song>

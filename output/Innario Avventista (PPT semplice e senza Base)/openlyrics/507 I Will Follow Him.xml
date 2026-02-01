@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>507 I Will Follow Him</title>
+    </titles>
+    <songbooks>
+      <songbook name="I Will Follow Him" entry="507"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will follow him,<br />follow him where ever he may go.<br />And near him I always will be,<br />for nothing can keep me away.<br />He is my destiny.<br />I will follow him.<br />Ever since he touched my heart I knew.<br />There isn’t an ocean too deep,<br />a mountain so high it can keep,<br />keep me away, away from his love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love him, I love him, I love him.<br />And where he goes<br />I’ll follow, I’ll follow, I’ll follow.<br />I will follow him,<br />follow him where ever he may go.<br />There isn’t an ocean too deep,<br />a mountain so higt it can keep,<br />keep me away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We will follow him,<br />follow him where ever he may go.<br />There isn’t an ocean too deep,<br />a mountain so higt it can keep,<br />keep me away.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(I love him) Oh yes I love him<br />(I’ll follow). I’m gonna follow.<br />(True love). He’ll always be my true love.<br />(Forever). From now until forever.<br />I love him, I love him, I love him<br />and where he goes<br />I’ll follow, I’ll follow, I’follow.<br />He always be my true love,<br />my true love, my true love from now until<br />forever, forever, forever.<br />There isn’t an ocean too deep, a mountain so<br />higt it can keep, keep us away, away from his love</lines>
+    </verse>
+  </lyrics>
+</song>

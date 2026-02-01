@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>56 Più D’ogni Umana Cosa</title>
+    </titles>
+    <songbooks>
+      <songbook name="Più D’ogni Umana Cosa" entry="56"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Più d’ogni umana cosa<br />amarti voglio, o Dio,<br />te dolce Padre mio,<br />Maestro e Salvator.<br />In te, Signor io vivo,<br />per te cristiano sono;<br />e gioia eterna in dono<br />se t’ama avrà il mio cuor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ma amarti, o Dio non posso<br />se il mio fratel non amo,<br />se il ben di lui non bramo<br />se penso solo a me.<br />L’amor fraterno accresci<br />adunque nel cor mio,<br />così ch’io possa, o Dio,<br />te veramente amar.</lines>
+    </verse>
+  </lyrics>
+</song>

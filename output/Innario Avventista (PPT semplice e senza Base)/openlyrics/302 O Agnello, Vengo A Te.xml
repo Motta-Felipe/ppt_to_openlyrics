@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>302 O Agnello, Vengo A Te</title>
+    </titles>
+    <songbooks>
+      <songbook name="O Agnello, Vengo A Te" entry="302"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Così qual son, io vengo a te<br />solo implorando il perdon.<br />Sul Golgota moristi allor:<br />o Agnello, vengo a te!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Così qual son, io vengo a te,<br />ai piedi tuoi mi prostro, Re.<br />Concedi grazia a questo cuor:<br />o Agnello, vengo a te!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Così qual son, io vengo a te,<br />prendimi e calma il soffrir;<br />riempi il cuor con il tuo amor:<br />o Agnello, vengo a te!</lines>
+    </verse>
+  </lyrics>
+</song>

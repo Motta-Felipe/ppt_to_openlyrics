@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>339 Padre Nostro!</title>
+    </titles>
+    <songbooks>
+      <songbook name="Padre Nostro!" entry="339"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>339   Padre nostro<br />Padre nostro, Re dei cieli<br />al tuo santo nome onore.<br />Venga il regno tuo d’amore<br />e si adempia il tuo voler.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Non esporci in tentazione<br />ma ne libera dal male<br />tu, che domini immortale<br />nella gloria e nel poter!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dacci il pane quotidiano<br />e il perdono tuo supremo;<br />anche noi perdoneremo<br />alle offese volentier! Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

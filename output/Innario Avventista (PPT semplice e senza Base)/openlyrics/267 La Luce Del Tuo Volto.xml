@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>267 La Luce Del Tuo Volto</title>
+    </titles>
+    <songbooks>
+      <songbook name="La Luce Del Tuo Volto" entry="267"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>La luce del tuo volto<br />io cerco, o mio Gesù,<br />per ritrovare il cammino<br />che guida a te, Signor.<br />Nel buio della vita<br />cercai la libertà,<br />ma mi smarrii nella notte<br />lontano dal mio Re.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deh, parla ed io ti ascolto<br />ché cerco verità!<br />Soltanto in te, o Signore,<br />si trova vita ognor.<br />Tu sei salvezza e pace,<br />giustizia e verità,<br />e in te c’è gioia e speranza,<br />in te, Gesù, mio Re.</lines>
+    </verse>
+  </lyrics>
+</song>

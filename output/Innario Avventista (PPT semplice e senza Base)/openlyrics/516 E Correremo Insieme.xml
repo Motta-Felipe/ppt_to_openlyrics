@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>516 E Correremo Insieme</title>
+    </titles>
+    <songbooks>
+      <songbook name="E Correremo Insieme" entry="516"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Davvero questa festa non finisce qui;<br />il sole non muore la sera,<br />la festa coi fratelli non finisce con un ciao<br />e torni poi a casa contento.<br />E correremo insieme le vie del mondo<br />con fede e gioia per tutta la vita<br />e non avremo niente, te solo, Signore,<br />amico di tutta la gente, la gente del mondo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ti dico grazie per il pane che mi dai,<br />il pane che è la tua vita.<br />È il dono più prezioso che potevi fare a me;<br />lo serbo nel cuore per sempre.<br />E correremo insieme le vie del mondo<br />con fede e gioia per tutta la vita<br />e non avremo niente, te solo, Signore,<br />amico di tutta la gente, la gente del mondo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Incontrerò persone qui che cercan te,<br />che cercan la pace, Signore.<br />L’inviterò a venire ad incontrarti insieme a me<br />perché, o Signore, ci aspetti<br />E correremo insieme le vie del mondo<br />con fede e gioia per tutta la vita<br />e non avremo niente, te solo, Signore,<br />amico di tutta la gente, la gente del mondo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ti prego, o Dio, per tutti i figli tuoi quaggiù;<br />perché tu li hai creati; nel volto dei fratelli<br />che ho incontrato in te, Gesù,<br />rivive ogni volta il tuo viso.<br />E correremo insieme le vie del mondo<br />con fede e gioia per tutta la vita<br />e non avremo niente, te solo, Signore,<br />amico di tutta la gente, la gente del mondo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>La vita è una stagione ricca d’ogni fior;<br />ciascuno vale il tuo amore.<br />La tua parola guida i nostri passi quaggiù<br />e questa è la chiesa che siamo.<br />E correremo insieme le vie del mondo<br />con fede e gioia per tutta la vita<br />e non avremo niente, te solo, Signore,<br />amico di tutta la gente, la gente del mondo.</lines>
+    </verse>
+  </lyrics>
+</song>

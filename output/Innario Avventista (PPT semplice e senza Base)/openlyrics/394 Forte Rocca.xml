@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>394 Forte Rocca</title>
+    </titles>
+    <songbooks>
+      <songbook name="Forte Rocca" entry="394"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Forte rocca è il nostro Dio,<br />nostra speme in lui si fonda.<br />Ci sostien benigno e pio,<br />nell’angoscia più profonda.<br />Il rio tentator a noi fa guerra ognor:<br />astuzia e frode son l’armi sue crudel;<br />ma da lui Dio ci difende.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E’ perduto eternamente<br />quei che solo in sé confida.<br />Per noi lotta l’uomo potente<br />che Dio scelse a nostra guida.<br />Chi sia? Domandi tu. Egli è Cristo Gesù<br />nostro Signore: la forza da lui viene,<br />la vittoria in mano tiene.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>La parola della vita<br />rispettar denno i potenti.<br />Col suo Spirto Dio ci aiuta,<br />noi sarem con lui vincenti.<br />Se pieni di furor ci tolgon figli, onor<br />ed ogni bene, vantaggio non avranno:<br />a noi il Regno restar deve.</lines>
+    </verse>
+  </lyrics>
+</song>

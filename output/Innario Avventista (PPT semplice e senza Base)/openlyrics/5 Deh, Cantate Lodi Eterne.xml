@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>5 Deh, Cantate Lodi Eterne</title>
+    </titles>
+    <songbooks>
+      <songbook name="Deh, Cantate Lodi Eterne" entry="5"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deh, cantate lodi eterne<br />a colui che vive in ciel,<br />creatore della terra<br />e dell’universo inter.<br />Giubilate, giubilate, giubilate, amen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deh, cantate lodi eterne<br />a colui che ci salvò,<br />a Gesù il Salvatore<br />che morì e resuscitò!<br />Giubilate, giubilate, giubilate, amen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deh, cantate lodi eterne<br />al divin consolator<br />che rafforza i cuori stanchi<br />e provati dal dolor!<br />Giubilate, giubilate, giubilate, amen!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>212 Ambasciatori Noi Siamo Del Cielo</title>
+    </titles>
+    <songbooks>
+      <songbook name="Ambasciatori Noi Siamo Del Cielo" entry="212"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ambasciatori noi siamo del cielo,<br />araldi siamo di Cristo il Signor;<br />ad ogni gente rechiamo il Vangelo,<br />l’alma parola che sana ogni cuor.<br />Chi potrà dir del colportor la pace<br />quando dirà: “Lavoro per Gesù?”<br />Testimoniamo che il santo, il verace<br />morì per trarne a salvezza lassù.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Inestimabil tesoro divino<br />offriamo ai miseri cuori quaggiù;<br />nessuno indugi, ma fin dal mattino<br />diamo il messaggio del nostro Gesù.<br />“Ite a Gesù”:sia questo il dolce invito.<br />“Vi aspetta, orsù, perché tardar ancor?”<br />Venne l’amore, celeste, infinito,<br />per liberarci da lotte e dolor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se il tentator ci dà guai e dolori,<br />volgiam lo sguardo a Dio il Signor;<br />se qualche volta ci par d’esser soli,<br />andiamo a Cristo Gesù salvator.<br />Chi potrà dir del colportor la pace<br />quando dirà: “Lavoro per Gesù?”<br />Testimoniamo che il santo, il verace<br />morì per trarne a salvezza lassù.</lines>
+    </verse>
+  </lyrics>
+</song>

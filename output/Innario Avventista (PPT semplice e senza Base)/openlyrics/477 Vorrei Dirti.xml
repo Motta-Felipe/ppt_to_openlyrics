@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>477 Vorrei Dirti</title>
+    </titles>
+    <songbooks>
+      <songbook name="Vorrei Dirti" entry="477"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Io vorrei pregarti un po’<br />e riuscire a dirti quello che<br />non ho saputo mai,<br />che anch’io ti amo come ami me.<br />E ti prometto che non mi vergognerò<br />di amarti mai</lines>
+    </verse>
+  </lyrics>
+</song>

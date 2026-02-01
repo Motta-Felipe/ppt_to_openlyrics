@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>215 Chi Vuol Servire Con Amor</title>
+    </titles>
+    <songbooks>
+      <songbook name="Chi Vuol Servire Con Amor" entry="215"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chi vuol servire con amor,<br />lottando per Gesù?<br />Non vuoi donargli tutto il cuor,<br />o balda gioventù.<br />L’appello vien dal  Re,<br />che pur morì per te!<br />Perciò rispondi a Lui con zel:<br />egli è l’Emmanuel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se tu prendessi la sua man<br />potente, atta a salvar,<br />con la sua forza sovruman<br />potresti trionfar.<br />Oh, vieni al Salvator,<br />consacragli il tuo cuor!<br />E tu vedrai come Gesù<br />ti salverà quaggiù.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deh, segui il dolce e buon Gesù,<br />il tuo Redentor!<br />Ognor ti dedica di più,<br />a lui con puro amor.<br />Fra breve ei tornerà<br />e allor ti guiderà,<br />se gli sarai stato fedel,<br />dal Padre suo, nel ciel.</lines>
+    </verse>
+  </lyrics>
+</song>

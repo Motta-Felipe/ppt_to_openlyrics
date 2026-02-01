@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>346 Veglia, Prega, Credi Ognor</title>
+    </titles>
+    <songbooks>
+      <songbook name="Veglia, Prega, Credi Ognor" entry="346"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Veglia, prega, credi ognor<br />lotta con fervore!<br />Con l’aiuto del Signor<br />tu sei vincitore.<br />Vuole il dubbio a te recar<br />insidiosa offesa:<br />Cristo è tua difesa!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Veglia, prega ed ama ognor<br />come lui t’ha amato.<br />Testimone del suo amor<br />sei da lui mandato.<br />Né l’umana iniquità<br />ti farà esitar<br />se vorrai amare!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Veglia, prega, spera ognor<br />nella sua promessa!<br />A chi fida nel Signor<br />grazia vien concessa.<br />Non temere, con Gesù<br />certa è la vittoria.<br />Solo a lui sia la gloria!</lines>
+    </verse>
+  </lyrics>
+</song>

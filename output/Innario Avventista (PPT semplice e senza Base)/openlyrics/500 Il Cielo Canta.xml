@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>500 Il Cielo Canta</title>
+    </titles>
+    <songbooks>
+      <songbook name="Il Cielo Canta" entry="500"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Canta il cielo di gioia: alleluia!<br />Quando la gloria di Dio<br />splende su te e su me.<br />Alleluia, alleluia!<br />Alleluia, alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Canta il cielo di gioia: alleluia!<br />Quando la gloria di Dio<br />ci unisce insieme.<br />Alleluia, alleluia!<br />Alleluia, alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Canta il cielo di gioia: alleluia!<br />Quando la gloria di Dio<br />Tutti insiem proclamiam.<br />Alleluia, alleluia!<br />Alleluia, alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

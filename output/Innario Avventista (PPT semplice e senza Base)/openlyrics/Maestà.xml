@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Maestà</title>
+    </titles>
+    <songbooks>
+      <songbook name="Maestà"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Maestà, Gloriosa Maestà<br />A Gesu sia la lode,<br />La gloria e l’onor<br />Maestà, divina autorità,<br />Vien dal Suo tron<br />Gloria al Signor<br />Vien nel Suo amor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Su lodiam, ed esaltiam<br />Gesu il Signore,<br />Adoriam, glorifichiam<br />Il nostro Re</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Maestà, divina autorità,<br />Gesu mori!<br />Nel ciel Sali,<br />Qual Re dei Re!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Su lodiam, ed esaltiam<br />Gesu il Signore,<br />Adoriam, glorifichiam<br />Il nostro Re</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Maestà, divina autorità,<br />Gesu mori!<br />Nel ciel Sali,<br />Qual Re dei Re!</lines>
+    </verse>
+  </lyrics>
+</song>

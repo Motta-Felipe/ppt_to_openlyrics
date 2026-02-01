@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>525 Padre Celeste</title>
+    </titles>
+    <songbooks>
+      <songbook name="Padre Celeste" entry="525"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Padre celeste, ci volgiamo a te,<br />santificando il nome tuo.<br />Possa il Regno tuo venire dentro<br />il nostro cuor mentre noi parliamo<br />al mondo del tuo nome.<br />Benedetto sia il Signore,<br />che fu, che è e che verrà.<br />Benedetto sia il Signore per sempre regnerà</lines>
+    </verse>
+  </lyrics>
+</song>

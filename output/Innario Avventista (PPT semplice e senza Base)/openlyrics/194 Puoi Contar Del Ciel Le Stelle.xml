@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>194 Puoi Contar Del Ciel Le Stelle</title>
+    </titles>
+    <songbooks>
+      <songbook name="Puoi Contar Del Ciel Le Stelle" entry="194"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>194   Puoi contar del ciel le stelle?<br />Puoi contar del ciel le stelle d’or<br />che risplendono di fulgor,<br />e le gocce di rugiada ancor<br />che si posano sopra i fior?<br />Dio, il creator, tutti può contar;<br />con il suo poter, gioia ci può dar.<br />A lui grati noi cantiamo<br />alleluia a te, o Signor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Puoi contare i fili d’erba e i fior<br />che alla terra, si, dan color;<br />ed i pesci rossi, gialli e blu<br />che nei fiumi e mar vanno su e giù?<br />Dio, il creator, tutti può contar;<br />con il suo poter, gioia ci può dar.<br />A lui grati noi cantiamo<br />alleluia a te, o Signor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Puoi contare tutti i bimbi ancor<br />che si destano al sole d’or,<br />e con canti d’esultanza e amor<br />ti ringraziamo, o Signor?<br />Dio, il creator, tutti può contar;<br />con il suo poter, gioia ci può dar.<br />A lui grati noi cantiamo<br />alleluia a te, o Signor!</lines>
+    </verse>
+  </lyrics>
+</song>

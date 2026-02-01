@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>396 Poni In Dio La Tua Speranza</title>
+    </titles>
+    <songbooks>
+      <songbook name="Poni In Dio La Tua Speranza" entry="396"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Poni in Dio la tua speranza,<br />non lasciare il buon cammin.<br />E con gioia e con costanza<br />segui il Salvator divin.<br />Credi in Dio, divina guida,<br />ti sostiene la sua man;<br />ei non cambia, in lui confida:<br />è qui in terra e in ciel sovran.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gloria, gloria alleluia<br />alleluia a Gesù!<br />Alleluia, gloria a Gesù!<br />Gloria, gloria alleluia<br />alleluia a Gesù<br />alleluia al Re dei re!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Scorron gli anni senza posa,<br />ma il suo amor non passerà;<br />se la vita è dolorosa,<br />egli ti consolerà.<br />Fra le nubi ei t’assicura<br />che il Verbo suo d’amor<br />cambierà la notte oscura<br />in bel giorno di splendor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gloria, gloria alleluia<br />alleluia a Gesù!<br />Alleluia, gloria a Gesù!<br />Gloria, gloria alleluia<br />alleluia a Gesù<br />alleluia al Re dei re!</lines>
+    </verse>
+  </lyrics>
+</song>

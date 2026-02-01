@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>156 Gesù Trionfa</title>
+    </titles>
+    <songbooks>
+      <songbook name="Gesù Trionfa" entry="156"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gesù trionfa, ei verrà,<br />sopra ogni cosa regnerà.<br />E nel suo regno dov’è amor,<br />anch’io vedrò il suo splendor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ogni nazione di quaggiù<br />dovrà chinarsi al re Gesù.<br />Egli darà l’eternità:<br />sia lode a lui di età in età.</lines>
+    </verse>
+  </lyrics>
+</song>

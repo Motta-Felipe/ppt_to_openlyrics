@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>299 Perdona A Noi, O Re Del Ciel</title>
+    </titles>
+    <songbooks>
+      <songbook name="Perdona A Noi, O Re Del Ciel" entry="299"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Perdona a noi, o Re del ciel,<br />noi ti preghiam, Signor!<br />Perdona tu, Signor d’amor,<br />il nostro debol cuor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Noi pur vogliamo perdonar<br />a chi ha fatto mal;<br />ispira al nostro cuor bontà<br />e dacci eternità.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Il tuo martirio per amore<br />dà vita e pace ancor<br />a chi ricerca con ardor<br />perdono e santità.</lines>
+    </verse>
+  </lyrics>
+</song>

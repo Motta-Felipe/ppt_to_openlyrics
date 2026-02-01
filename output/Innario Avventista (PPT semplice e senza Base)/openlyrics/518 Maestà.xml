@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>518 Maestà</title>
+    </titles>
+    <songbooks>
+      <songbook name="Maestà" entry="518"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Maestà, gloriosa Maestà.<br />A Gesù sia la lode, la Gloria<br />e l’onor!<br />Maestà divina autorità, vien<br />dal suo tron. Gloria al<br />Signor, vien nel suo Amor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Su, lodiam ed esaltiam<br />Gesù il Signor.<br />Adoriam, glorifichiam<br />il nostro Re!<br />Maestà, divina autorità,<br />Gesù morì, nel ciel salì qual Re dei Re</lines>
+    </verse>
+  </lyrics>
+</song>

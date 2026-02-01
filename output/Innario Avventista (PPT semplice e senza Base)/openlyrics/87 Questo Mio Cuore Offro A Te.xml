@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>87 Questo Mio Cuore Offro A Te</title>
+    </titles>
+    <songbooks>
+      <songbook name="Questo Mio Cuore Offro A Te" entry="87"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Questo mio cuore offro a te Gesù:<br />fa che sia puro come il tuo, Signor.<br />Vorrei per te amar sempre di più:<br />ti prego, dona a questo cuor amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Questa mia mente offro a te,<br />fa che comprenda sempre il tuo voler.<br />Vorrei operar con zelo e con fervor,<br />vorrei seguir con fede i tuoi sentir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>La vita intera t’offro in umiltà<br />e consacrarla voglio a te Gesù.<br />Rendimi degno della verità:<br />la via, la vita e verità sei tu.</lines>
+    </verse>
+  </lyrics>
+</song>

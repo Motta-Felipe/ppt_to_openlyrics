@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>202 Le Creature Del Signore</title>
+    </titles>
+    <songbooks>
+      <songbook name="Le Creature Del Signore" entry="202"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Le creature del Signore<br />non saranno abbandonate<br />perché Cristo, Gesù santo,<br />le protegge con amore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gli uccellini hanno un nido<br />e le stelle il cielo scuro;<br />le farfalle i prati in fiore<br />ed i pesci il vasto mare.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I bambini hanno una casa<br />dove vivono felici,<br />e Gesù, il Salvatore,<br />li conserva nel suo cuore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Se i bambini ameranno<br />Gesù santo, il Redentore,<br />tanta gioia proveranno<br />camminando col Signore.</lines>
+    </verse>
+  </lyrics>
+</song>

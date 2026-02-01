@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>245 Rocca Eterna</title>
+    </titles>
+    <songbooks>
+      <songbook name="Rocca Eterna" entry="245"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>245   Rocca eterna vengo a te<br />Rocca eterna vengo a te,<br />tu rifugio sei per me.<br />Sulla croce, o mio Gesù,<br />la tua vita desti tu.<br />Per salvare il peccator<br />hai pagato col tuo amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rocca eterna vengo a te,<br />tu rifugio sei per me.<br />Quando afflitto dal dolor<br />cerco pace, o mio Signor.<br />Il tuo amore e il tuo perdon<br />sono balsamo al mio cuor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Roca eterna, vengo a te,<br />tu rifugio sei per me.<br />Ed un giorno in ciel, lassù,<br />vedrò il volto tuo, Gesù;<br />che mi parla del tuo amor,<br />o divino Salvator.</lines>
+    </verse>
+  </lyrics>
+</song>

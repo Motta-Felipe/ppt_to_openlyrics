@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>128 E’ Nato! E’nato!</title>
+    </titles>
+    <songbooks>
+      <songbook name="E’ Nato! E’nato!" entry="128"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E’ nato! E’nato! Gesù Salvator.<br />Nell’umile stalla,è nato il Signor.<br />L’Eterno, il Signore,discese quaggiù.<br />E’ nato, è nato il nostro Gesù</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E’ nato! E’nato! Gesù Salvator.<br />L’annunzio risuona degli angeli il cor.<br />Tremanti i pastori dai colli lassù,<br />discendono al piano ché nato è Gesù.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E’ nato! E’nato! Gesù Salvator:<br />Lo dice la stella nel suo pien fulgor.<br />I magi d’oriente adoran Gesù<br />e tutto gioisce di pace quaggiù.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Incenso, oro e mirra quei savi a Gesù<br />offrirono in dono ma nulla di più.<br />L’offerta più grande è il dono del cuor:<br />offriamolo, presto al nostro Signor.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>266 Se La Croce Ti Par Dura</title>
+    </titles>
+    <songbooks>
+      <songbook name="Se La Croce Ti Par Dura" entry="266"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Se la croce ti par dura, guarda lassù.<br />Non ti vinca la paura, guarda lassù.<br />Con amor la croce porta, guarda lassù;<br />sia lo Spirto la tua scorta, guarda lassù</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Della lotta nel retaggio, guarda lassù.<br />Da Gesù verrà il coraggio, guarda lassù.<br />Con amor la croce porta, guarda lassù;<br />sia lo Spirto la tua scorta, guarda lassù</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Può il nemico trionfare, guarda lassù.<br />Egli non ti può atterrare,guarda lassù.<br />Con amor la croce porta, guarda lassù;<br />sia lo Spirto la tua scorta, guarda lassù</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Non ti vinca mai il dolore, guarda lassù.<br />Presto torna il salvatore, guarda lassù.<br />Con amor la croce porta, guarda lassù;<br />sia lo Spirto la tua scorta, guarda lassù</lines>
+    </verse>
+  </lyrics>
+</song>

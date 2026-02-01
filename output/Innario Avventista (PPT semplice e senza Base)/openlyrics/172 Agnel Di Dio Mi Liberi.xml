@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>172 Agnel Di Dio Mi Liberi</title>
+    </titles>
+    <songbooks>
+      <songbook name="Agnel Di Dio Mi Liberi" entry="172"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Agnel di Dio, che vittima t’offristi<br />per amore, nel dono tuo mirabile,<br />al mondo peccatore;<br />sotto il fardello dei nostri error<br />curvo t’inoltri, o Salvator,<br />all’ultimo supplizio.<br />Vedo il tuo volto insanguinato,<br />l’occhio pietoso e contristato,<br />nell’ora del tuo sacrificio.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nella tua croce ignobile io trovai la vita;<br />con la tua morte orribile<br />hai l’alma mia guarita.<br />Tragica angoscia ti straziò,<br />ma vera pace a noi donò<br />il tuo sublime amore.<br />Tu, puro Agnel sacrificato,<br />un luogo in ciel m’hai preparato<br />là nell’eterne tue dimore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu dal perir mi liberi: vivo la tua vittoria;<br />nell’umiltà avvilendoti<br />mi ornavi di tua gloria.<br />Quando l’oltraggio ti coprì,<br />il mio riscatto si compì,<br />fu tolto il mio peccato.<br />Divino Agnel, mio difensore,<br />nell’indicibile tuo dolore<br />all’alma mia salvezza hai dato.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>118 Sopra La Pietra</title>
+    </titles>
+    <songbooks>
+      <songbook name="Sopra La Pietra" entry="118"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sopra la Pietra, o Dio d’amor,<br />la chiesa tua si poggia;<br />la Pietra è Cristo, il Salvator,<br />che dona vita e perdono.<br />Noi t’imploriamo, o Dio del ciel:<br />dona a chi crede nel tuo amor<br />più zelo, più slancio e fede.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Onnipresente Dio d’amor<br />desti alla chiesa la vita:<br />Cristo dal cielo scese un dì<br />per camminare con l’uomo.<br />Ei con amore e con bontà<br />dette alla chiesa tua, Signor,<br />l’esempio del tuo perdono.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ora in ginocchi innanzi a te<br />la chiesa tutta si prostra<br />cerca il conforto del tuo amor<br />e dello Spirito Santo.<br />Grazie Signor, ché in Gesù<br />troviamo vita, eternità:<br />a te sia gloria in eterno.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>10 Al Signor Dell'Universo</title>
+    </titles>
+    <songbooks>
+      <songbook name="Al Signor Dell'Universo" entry="10"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Al Signor dell’universo<br />sia la gloria per l’eternità<br />come gli angeli del cielo<br />su, lodiamo la sua Maestà.<br />Sole, luna e voi stelle<br />date lode al creator;<br />al Signor dell’universo<br />sia a gloria per l’eternità.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Al Signor dell’universo<br />noi serviamo per l’eternità<br />ei mantien le sue promesse<br />di giustizia e di libertà.<br />Per il dono del suo amore<br />diamo lode al Redentor.<br />Al Signor dell’universo<br />sia la gloria per l’eternità.</lines>
+    </verse>
+  </lyrics>
+</song>

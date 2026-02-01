@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>3 Cantiamo Con Gioia A Te</title>
+    </titles>
+    <songbooks>
+      <songbook name="Cantiamo Con Gioia A Te" entry="3"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cantiamo con gioia a te<br />che sei nostro Creator.<br />La terra ed il mar,<br />il ciel nel suo splendor<br />danno gloria a te, Signor!<br />Gioia, gioia e gloria a te, Signor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cantiamo con gioia a te<br />che in Cristo sei Redentor.<br />Sul legno morì,<br />per me il Salvator,<br />sia lode a te, Signor.<br />Gioia, gioia e gloria a te, Signor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cantiamo con gioia a te<br />che un dì tornerai, Signor,<br />per dare a noi<br />il frutto del tuo amor.<br />Sia gloria a te, Signor.<br />Gioia, gioia e gloria a te, Signor!</lines>
+    </verse>
+  </lyrics>
+</song>

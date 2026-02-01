@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>30 Dio Parlò, La Luce Sorse</title>
+    </titles>
+    <songbooks>
+      <songbook name="Dio Parlò, La Luce Sorse" entry="30"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dio parlò, la luce sorse<br />Dio parlò e il mondo fu.<br />A sua immagine divina<br />Dio creò l’umanità.<br />La parola della vita:<br />lode a Dio, Cristo Gesù!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>L’uomo a immagine di Dio<br />fu creato per amor,<br />ma un dì lasciò al peccato<br />il dominio di sé,<br />ed il Padre del suo amore<br />fece dono al peccator.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>La parola della vita<br />scese in terra per morir;<br />per capir la creatura<br />rivestì l’umanità:<br />sulla croce, sopra un monte,<br />consumò il suo martir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Solo un Dio pien d’amore<br />può salvar l’umanità!<br />Quando penso a questo Dio<br />che morì e resuscitò,<br />vedo un mondo pien di luce<br />di gioiosa eternità.</lines>
+    </verse>
+  </lyrics>
+</song>

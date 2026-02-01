@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>312 Dei Padri Vivida Fede</title>
+    </titles>
+    <songbooks>
+      <songbook name="Dei Padri Vivida Fede" entry="312"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>312   Dei padri vivida fede immortal<br />Dei padri vivida fede immortal<br />che vinci guerre, battaglie e ogni mal,<br />doni alla vita nuovo vigor:<br />per quegli esempi esulta il cuor.<br />Dei nostri padri, o sacra fé,<br />pronti a morir noi siam per te.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>La fede fulgida dei padri, ancor<br />dona ai figli tuoi e dona l’amor;<br />con te, al fianco, Signor Gesù,<br />vittoria avremo sul mal quaggiù.<br />Dei nostri padri, o sacra fé,<br />pronti a morir noi siam per te.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Per quella fede si viva e immortal,<br />la chiesa santa il premio otterrà:<br />eterna vita, eterno gioir,<br />perché per noi Gesù morì.<br />Dei nostri padri, o sacra fé,<br />pronti a morir noi siam per te.</lines>
+    </verse>
+  </lyrics>
+</song>

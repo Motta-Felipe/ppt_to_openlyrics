@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>65 Stupendo. Immenso Amor</title>
+    </titles>
+    <songbooks>
+      <songbook name="Stupendo. Immenso Amor" entry="65"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>65   Stupendo, immenso amor<br />L’amore tuo, divin Signor,<br />stupendo, immenso amor,<br />nessuno mai potrà capir.<br />O grande immenso amor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lasciasti il cielo un dì per me,<br />il trono tuo, o Re!<br />La croce fu il  tuo martir,<br />e salvo son per te.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>L’amore tuo, divin Signor,<br />stupendo, immenso amor,<br />non sarà pago d donar<br />la grazia al peccator.</lines>
+    </verse>
+  </lyrics>
+</song>

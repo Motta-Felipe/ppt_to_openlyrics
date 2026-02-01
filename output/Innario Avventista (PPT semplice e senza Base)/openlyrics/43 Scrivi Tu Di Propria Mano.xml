@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>43 Scrivi Tu Di Propria Mano</title>
+    </titles>
+    <songbooks>
+      <songbook name="Scrivi Tu Di Propria Mano" entry="43"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Scrivi tu di propria mano,<br />scrivi Tu Signor possente,<br />la Tua legge in questa mente,<br />in Tuo nome in questo cor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Regna Tu sull’una e l’altro<br />e devoti a Te li rendi,<br />e li illumina e li accendi.<br />Con la grazia e con l’amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>La Tua legge ed il Tuo nome<br />sulla via del ben mi affidi,<br />l’una irraggi e l’altra guidi,<br />intelletto e volontà</lines>
+    </verse>
+    <verse name="v4">
+      <lines>L’una e l’altra diverranno<br />mio sostegno e mio ristoro,<br />finché il tempo in cui t’adoro<br />non divenga eternità.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>348 Ovunque Intorno A Me, Signor</title>
+    </titles>
+    <songbooks>
+      <songbook name="Ovunque Intorno A Me, Signor" entry="348"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ovunque intorno a me, Signor,<br />tutto tace tutto dorme;<br />ma dentro questo cuore<br />che anela vita in te, mio Re,<br />s’ode il suono d’una preghiera:<br />il tuo aiuto donami!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O mio Gesù, mio Salvator,<br />liberasti questo cuore<br />dal dubbio, dal terror,<br />dall’ansia, dal peccato ancor,<br />ecco a te la mia preghiera:<br />sia lode a te, o mio Signor!</lines>
+    </verse>
+  </lyrics>
+</song>

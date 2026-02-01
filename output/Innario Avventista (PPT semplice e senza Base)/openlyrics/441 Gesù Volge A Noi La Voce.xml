@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>441 Gesù Volge A Noi La Voce</title>
+    </titles>
+    <songbooks>
+      <songbook name="Gesù Volge A Noi La Voce" entry="441"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gesù volge a noi la voce:<br />”Ricordatevi di me!<br />Rammentatevi la croce:<br />ricordatevi di me!<br />Rammentatevi ch’esposi<br />l’alma a orribile martir,<br />che la vita mia deposi:<br />ricordatevi di me!”.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mentre il pane romperete:<br />ricordatevi di me!<br />Mentre il calice berrete:<br />ricordatevi di me!<br />Annunciate al mondo ingrato<br />quanto è buono il Redentor;<br />ei morì per il peccator:<br />ricordatevi di me!</lines>
+    </verse>
+  </lyrics>
+</song>

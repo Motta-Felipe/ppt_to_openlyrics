@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>72 Gesù, Sono A Te Dinanzi</title>
+    </titles>
+    <songbooks>
+      <songbook name="Gesù, Sono A Te Dinanzi" entry="72"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dinanzi sono a te Gesù,<br />ti prego parla a questo cuor;<br />ispira la mia mente tu,<br />parlare voglio del tuo amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Servire sempre te Signor;<br />un dì moristi tu per me.<br />Ti prego, prendi questo cuor:<br />con gioia voglio darlo a te.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Il cuore che ti dono, o Re,<br />non ha intensa carità.<br />Infondi amore vero in me,<br />ricolmami di santità.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amarti voglio sempre più<br />perché per primo amasti me.<br />Salvezza sei tu sol, Gesù,<br />la vera pace trovo in te.</lines>
+    </verse>
+  </lyrics>
+</song>

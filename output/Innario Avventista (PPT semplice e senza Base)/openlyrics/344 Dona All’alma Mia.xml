@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>344 Dona All’alma Mia</title>
+    </titles>
+    <songbooks>
+      <songbook name="Dona All’alma Mia" entry="344"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dona all’alma mia maggior santità,<br />metti nel cuor mio più serenità.<br />Fà che fiducioso resti ognor fedel,<br />dammi più costanza, empimi di zel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fà che senza posa riguardi a Gesù,<br />al suo vivo esempio ed ami di più<br />la sua grazia eletta, la sua gloria,<br />e allor per il suo ritorno, sarò vincitor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dammi pel servizio un cuor più leal,<br />pronto al sacrifizio, puro d’ogni mal;<br />che canti o che tremi, pieno di fervor,<br />un cuore che somigli al tuo, Salvator.</lines>
+    </verse>
+  </lyrics>
+</song>

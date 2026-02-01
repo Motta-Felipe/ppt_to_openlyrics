@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>55 Nella Notte Oscura</title>
+    </titles>
+    <songbooks>
+      <songbook name="Nella Notte Oscura" entry="55"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nella notte oscura<br />una stella in ciel<br />calma, dolce, pura,<br />brilla senza vel;<br />come un suon giocondo<br />par che di lassù<br />scenda e dica al mondo<br />l’amor di Gesù</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Timida fiammella<br />qual mi fece Iddio,<br />come quella stella<br />vo’ brillare anch’io;<br />vo’ cantare al mondo,<br />finche sto quaggiù<br />l’inno mio giocondo:<br />l’amor di Gesù.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quando poi un giorno<br />col Signor sarò,<br />di sua gloria adorno<br />stella diverrò;<br />l’inno mio giocondo,<br />ancor di lassù<br />dirà: salvò il mondo<br />l’amor di Gesù.</lines>
+    </verse>
+  </lyrics>
+</song>

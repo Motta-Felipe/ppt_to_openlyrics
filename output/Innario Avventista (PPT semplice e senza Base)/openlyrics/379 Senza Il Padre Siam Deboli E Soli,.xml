@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>379 Senza Il Padre Siam Deboli E Soli,</title>
+    </titles>
+    <songbooks>
+      <songbook name="Senza Il Padre Siam Deboli E Soli," entry="379"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>379   Senza il Padre siam deboli e soli<br />Senza il Padre siam deboli e soli,<br />senza Dio siamo senza speranza;<br />senza Dio non abbiamo costanza,<br />per combattere e vincere il male.<br />Dunque andiamo a colui che ci invita,<br />che ci chiama a gioire del ciel!<br />A colui che dà grazia e da vita<br />e ci parla nel Santo Vangel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Senza Cristo non c’è luce in noi,<br />senza Cristo c’è guerra nel cuore;<br />fuor di Cristo non c’è salvatore,<br />fuor di Cristo la vita non c’è.<br />Dunque andiamo a colui che ci invita,<br />che ci chiama a gioire del ciel!<br />A colui che dà grazia e da vita<br />e ci parla nel Santo Vangel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Senza spirto divino il credente<br />nei suoi mali non trova conforto;<br />sol lo Spirto conduce ad un porto<br />dove l’uom possa in pace sostar.<br />Dunque andiamo a colui che ci invita,<br />che ci chiama a gioire del ciel!<br />A colui che dà grazia e da vita<br />e ci parla nel Santo Vangel.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>93 O Padre, Dio D'Eternità</title>
+    </titles>
+    <songbooks>
+      <songbook name="O Padre, Dio D'Eternità" entry="93"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Padre, Dio d’eternità,<br />creasti il mondo inter.<br />Tu sai che questa umanità<br />tradì il tuo voler.<br />Per grazia e per il tuo amor,<br />pietà del peccator.<br />Tu per salvare i nostri cuor,<br />donasti il Salvator</lines>
+    </verse>
+    <verse name="v2">
+      <lines>L’immenso amore del Signor<br />lo rivelò il figliuol.<br />Dal cielo scese e con calor<br />curò l’uom nel dolor.<br />La sorte dell’umanità<br />cambiò in felicità:<br />per dare all’uomo eternità<br />offrì la sua bontà.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se col Signor vuoi camminar<br />accetta il Salvator;<br />con lui nessuno ti può fermar:<br />sarai tu vincitor.<br />Accetta del Signor l’amor<br />e donagli il tuo cuor.<br />Per grazia il dolce Salvator<br />ti dona pace ognor.</lines>
+    </verse>
+  </lyrics>
+</song>

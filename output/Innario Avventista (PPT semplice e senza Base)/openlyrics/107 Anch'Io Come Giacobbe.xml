@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>107 Anch'Io Come Giacobbe</title>
+    </titles>
+    <songbooks>
+      <songbook name="Anch'Io Come Giacobbe" entry="107"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anch’io come Giacobbe cerco ancor<br />quella strada che porta lassù verso il sol.<br />Poi Giacobbe sognò quella scala divin<br />che congiunge la terra col trono del ciel.<br />Alleluia al Signor ch’è venuto quaggiù<br />per donarci speranza, salvezza e amor.<br />Alleluia al Signor, Redentore Gesù.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anch’io come Giacobbe vado a Gesù<br />per avere la gioia del suo grande amor.<br />Egli scese dal ciel per donarmi il perdon,<br />regalarmi la vita nell’eternità.<br />Alleluia al Signor ch’è venuto quaggiù<br />per donarci speranza, salvezza e amor.<br />Alleluia al Signor, Redentore Gesù.</lines>
+    </verse>
+  </lyrics>
+</song>

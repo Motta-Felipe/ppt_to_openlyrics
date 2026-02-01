@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>533 Resta Qui Con Noi</title>
+    </titles>
+    <songbooks>
+      <songbook name="Resta Qui Con Noi" entry="533"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Le ombre si distendono<br />scende ormai la sera<br />e si allontanano dietro i monti<br />i riflessi di un giorno che non finirà,<br />di un giorno che ora correrà. Sempre!<br />Perché sappiamo che una nuova vita<br />Da qui è partita e mai più si fermerà.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Resta qui con noi<br />il sole scende già<br />Resta qui con noi<br />Signore è sera ormai<br />Resta qui con noi<br />il sole scende già<br />Se tu sei con noi<br />la notte non verrà.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>S’allarga verso il mare<br />il tuo cerchio d’onda<br />che il vento spingerà fino a quando<br />giungerà ai confini di ogni cuore<br />alle porte dell’amore, vero!<br />come una fiamma che dove passa brucia<br />così il tuo amore tutto il mondo invaderà.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Resta qui con noi<br />il sole scende già<br />Resta qui con noi<br />Signore è sera ormai<br />Resta qui con noi<br />il sole scende già<br />Se tu sei con noi<br />la notte non verrà.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Davanti a noi l’umanità<br />lotta soffre e spera come una terra<br />che nell’arsura chiede l’acqua<br />ad un cielo senza nuvole<br />ma che sempre le può dare, vita!<br />con Te saremo sorgente d’acqua pura<br />con Te fra noi il deserto finirà</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Resta qui con noi<br />il sole scende già<br />resta qui con noi<br />Signore è sera ormai<br />resta qui con noi i<br />l sole scende già<br />se tu sei con noi<br />la notte non verrà (bis)</lines>
+    </verse>
+  </lyrics>
+</song>

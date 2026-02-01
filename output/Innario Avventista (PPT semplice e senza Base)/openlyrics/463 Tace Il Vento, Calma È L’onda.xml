@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>463 Tace Il Vento, Calma È L’onda</title>
+    </titles>
+    <songbooks>
+      <songbook name="Tace Il Vento, Calma È L’onda" entry="463"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tace il vento, calma è l’onda,<br />brilla il ciel tranquillo è il cuor.<br />Una barca ad altra sponda<br />han diretto i remator.<br />Ecco il cielo che balena<br />odo il vento sibilar.<br />Lungi è ancor la riva amena<br />su, affrettatevi a remar. (Bis)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quella fragil navicella<br />deve i flutti contrastar;<br />più nel cielo v’è una stella,<br />s’odon gli uomini gridar:<br />“O Maestro, tu non vedi<br />che muoriamo in questo mar?<br />Deh, soccorri e provvedi<br />la salvezza a noi donar” (Bis)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gesù sorse, sgridò il vento,<br />la tempesta si acquietò;<br />e la calma per incanto<br />su quel lago ritornò.<br />“Dove avete voi la fede?”<br />disse poi ai remator.<br />“La tempesta non temete<br />sono io il Salvator” (Bis)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nella vita del credente<br />la tempesta sorgerà,<br />non temete, che potente<br />il Signor ti salverà.<br />In lui solo è la speranza,<br />in lui solo è libertà.<br />O Signore, la costanza<br />dacci ognora, ed umiltà. (Bis)</lines>
+    </verse>
+  </lyrics>
+</song>

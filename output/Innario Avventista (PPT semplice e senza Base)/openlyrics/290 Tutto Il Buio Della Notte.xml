@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>290 Tutto Il Buio Della Notte</title>
+    </titles>
+    <songbooks>
+      <songbook name="Tutto Il Buio Della Notte" entry="290"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tutto il buio della notte se ne andò:<br />splende il sole nel mio cuor.<br />Ora vivo nel fulgor di un nuovo dì<br />grazie a Cristo, il salvator.<br />Splende il sole, splende il sole nel mio cuor,<br />Cristo il buio della notte dissipò.<br />Lode e gloria al nostro Re<br />per la luce del Vangel,<br />splende il sole, splende il sole nel mio cuor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Il creato si risveglia al nuovo dì:<br />splende il sole nel mio cuor.<br />Ogni accento che s’innalza verso il ciel<br />è una lode al Signor.<br />Splende il sole, splende il sole nel mio cuor,<br />Cristo il buio della notte dissipò.<br />Lode e gloria al nostro Re<br />per la luce del Vangel,<br />splende il sole, splende il sole nel mio cuor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Or la gioia del suo dono è dentro me:<br />splende il sole nel mio cuor.<br />Una vita senza fine io vivrò<br />per il dono del suo amor.<br />Splende il sole, splende il sole nel mio cuor,<br />Cristo il buio della notte dissipò.<br />Lode e gloria al nostro Re<br />per la luce del Vangel,<br />splende il sole, splende il sole nel mio cuor.</lines>
+    </verse>
+  </lyrics>
+</song>

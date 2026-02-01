@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>78 Non Foglie, No Che Il Vento Invola</title>
+    </titles>
+    <songbooks>
+      <songbook name="Non Foglie, No Che Il Vento Invola" entry="78"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Non foglie, no che il vento invola,<br />ma fiori e frutti io ti darò;<br />non il sospir, non la parola,<br />ma la mia vita offrir ti vò.<br />A te l’ardor di giovinezza,<br />a te degli anni il pien vigor.<br />A te il seren della vecchiezza,<br />a te soltanto o mio Signor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>La lode a te del canto mio<br />e della mente il più bel fior;<br />a te i mie beni, o sommo Iddio,<br />ed ogni affetto del mio cuor.<br />A te l’ardor di giovinezza,<br />a te degli anni il pien vigor.<br />A te il seren della vecchiezza,<br />a te soltanto o mio Signor!</lines>
+    </verse>
+  </lyrics>
+</song>

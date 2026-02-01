@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>327 O Tu Che Doni La Vita</title>
+    </titles>
+    <songbooks>
+      <songbook name="O Tu Che Doni La Vita" entry="327"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O tu che doni la vita,<br />ai tuoi piè vengo così,<br />come s’assise Maria<br />nell’ora dolce del dì.<br />Come s’assise Maria<br />nell’ora dolce del dì.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tutto il mio cuor ti reclama<br />col desiderio che è in me.<br />L’alma mia te solo brama,<br />non può star senza di te.<br />L’alma mia te solo brama,<br />non può star senza di te.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ecco, ai tuoi piedi mi inchino,<br />maestro t’apro il mio cuor.<br />Tua grazia dammi ten prego,<br />riversa in me il tuo amor.<br />Tua grazia dammi ten prego,<br />riversa in me il tuo amor.</lines>
+    </verse>
+  </lyrics>
+</song>

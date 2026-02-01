@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>405 Il Signor Gesù</title>
+    </titles>
+    <songbooks>
+      <songbook name="Il Signor Gesù" entry="405"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Il Signor Gesù salvatore,<br />è la luce del mio cuor.<br />Egli è la pietra angolare<br />della chiesa per amor.<br />Si, la chiesa tua Signore<br />cresce in te, o Redentor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nella chiesa tua , mio Signore<br />vieni e regna solo tu.<br />I credenti con gran fervore<br />cercan vita in te, Gesù.<br />Noi siam pietre in te viventi<br />per tua gloria, o Redentor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Signor del ciel, Padre santo,<br />grati a te porgiamo onor!<br />Dei figliuoli tu tergi il pianto<br />e consoli i loro cuor.<br />Tu donasti il tuo Figliuolo<br />per salvare l’umanità.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Signor Gesù, Redentore,<br />la tua chiesa ha fede in te.<br />È con noi il Consolatore<br />che fortifica la fé.<br />Il tuo popolo ti aspetta:<br />vieni presto, o Salvator!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>352 O Re Dei Re Che Nel Mio Cuor</title>
+    </titles>
+    <songbooks>
+      <songbook name="O Re Dei Re Che Nel Mio Cuor" entry="352"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Re dei re che nel mio cuor<br />un santo ardor poni ed accendi;<br />dinanzi a te salmeggerò,<br />io canterò con dolci accenti.<br />Di te, Signor, gran Dio del ciel,<br />con nuovo zelo, con tutto il cuore<br />vo’ celebrar la carità,<br />la fedeltà, l’immenso amore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Il mio pregar, odi Signor,<br />tu che mantieni ogni promessa;<br />per tua bontà, o Redentor,<br />la grazia ancor mi sia concessa.<br />O Creator, Signor Gesù,<br />per noi quaggiù lasciasti il cielo;<br />deh, ascolta il grido del mio cuor,<br />donami fé, costante zelo!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O mio Signor, Cristo Gesù,<br />mi stringi al cuor per darmi vita.<br />Soltanto in te, per me quaggiù<br />speranze c’è, gioia infinita.<br />Lassù nel ciel con te verrò<br />e canterò inni di gioia.<br />Rendimi pronto per quel dì,<br />per incontrarti nella gloria.</lines>
+    </verse>
+  </lyrics>
+</song>

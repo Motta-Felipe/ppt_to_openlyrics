@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>480 Canta Alleluia Al Signor</title>
+    </titles>
+    <songbooks>
+      <songbook name="Canta Alleluia Al Signor" entry="480"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Canta alleluia al Signor.<br />Canta alleluia al Signor.<br />Canta alleluia, canta alleluia,<br />Canta alleluia al Signor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egli è il Signor  e il Re dei re.<br />Egli è il Signor  e il Re dei re.<br />Canta alleluia, canta alleluia,<br />egli è il Signor  e il Re dei re.</lines>
+    </verse>
+  </lyrics>
+</song>

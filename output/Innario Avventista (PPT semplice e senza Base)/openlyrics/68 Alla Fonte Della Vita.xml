@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>68 Alla Fonte Della Vita</title>
+    </titles>
+    <songbooks>
+      <songbook name="Alla Fonte Della Vita" entry="68"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Signore della vita<br />il mio cuore cerca te:<br />nella tua bontà infinità<br />tu salvasti proprio me.<br />Si, o Signor, t’amo!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alla fonte della vita<br />ho bevuto a sazietà;<br />la mia anima s’è unita<br />al tuo cuore, o Maestà.<br />Si, o Signor, t’amo!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu mia luce, tu mia vita,<br />m’abbandono sul tuo cuor.<br />La paura è ormai svanita,<br />trovo la forza nel tuo amor.<br />Si, Signor, t’amo!</lines>
+    </verse>
+  </lyrics>
+</song>

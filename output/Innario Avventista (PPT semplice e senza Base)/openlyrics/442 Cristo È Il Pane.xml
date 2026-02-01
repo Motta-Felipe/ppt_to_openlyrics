@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>442 Cristo È Il Pane</title>
+    </titles>
+    <songbooks>
+      <songbook name="Cristo È Il Pane" entry="442"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo è il pane, oh, gran mistero,<br />per noi sceso giù dal ciel!<br />È di vita il cibo vero,<br />che da forza ai suoi fedel.<br />Questo pane ci rammenta<br />di Gesù l’immenso amor;<br />il suo corpo rappresenta,<br />ch’ei morì pel peccator.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In quell’ora triste, estrema,<br />Gesù il calice pur dà:<br />“Questo vin del sangue emblema<br />del Signor per voi sarà”.<br />Del Signor ch’è in ciel, la morte<br />noi dobbiamo così annunciar,<br />fino a che con gran potenza<br />egli torni per regnar.</lines>
+    </verse>
+  </lyrics>
+</song>

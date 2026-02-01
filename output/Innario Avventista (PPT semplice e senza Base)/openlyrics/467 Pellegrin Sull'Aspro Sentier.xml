@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>467 Pellegrin Sull'Aspro Sentier</title>
+    </titles>
+    <songbooks>
+      <songbook name="Pellegrin Sull'Aspro Sentier" entry="467"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pellegrin sull’aspro sentier del mondo,<br />a Gesù che m’ama d’amor profondo,<br />vò guardar, si, vò guardare ognora;<br />in lui che per me s’immolava vo fidar.<br />In lui speriam, soltanto in lui crediam.<br />In lui viviam ei vien per portarci in ciel.<br />Amiam quaggiù, si, sempre amiamo il Cristo;<br />egli è fedel siam fedeli nel suo amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pellegrin, straniero quaggiù pur sono,<br />ma Gesù per grazia mi diè il perdono;<br />ed ancor m’offrì la vita e il cielo,<br />quel ciel che il Signor della gloria mi serbò.<br />In lui speriam, soltanto in lui crediam.<br />In lui viviam ei vien per portarci in ciel.<br />Amiam quaggiù, si, sempre amiamo il Cristo;<br />egli è fedel siam fedeli nel suo amor.</lines>
+    </verse>
+  </lyrics>
+</song>

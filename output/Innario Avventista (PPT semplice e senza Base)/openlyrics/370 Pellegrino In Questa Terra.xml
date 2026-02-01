@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>370 Pellegrino In Questa Terra</title>
+    </titles>
+    <songbooks>
+      <songbook name="Pellegrino In Questa Terra" entry="370"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pellegrino in questa terra<br />dov’è pianto, sofferenza e crudeltà;<br />ma nel Signore trovo la pace<br />perché per grazia ei mi ha salvato.<br />Pellegrino in questa terra,<br />ma un giorno un mondo nuovo abiterò.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pellegrino in questa terra<br />dove morte senza tema oscura il ciel.<br />In questa terra nuova e redenta,<br />non più la morte avrà vittoria<br />Pellegrino in questa terra,<br />ma un giorno un mondo nuovo abiterò.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pellegrino in questa terra<br />ed anelo a quella patria dov’è amor.<br />Io sto aspettando quel mondo nuovo<br />che il mio Signore m’ha preparato.<br />Pellegrino in questa terra,<br />ma un giorno un mondo nuovo abiterò.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pellegrino in questa terra<br />ma un giorno col Signore abiterò,<br />dove radioso sarà il mio cielo<br />e pien di gioia sarà la vita.<br />Pellegrino in questa terra,<br />ma un giorno un mondo nuovo abiterò.</lines>
+    </verse>
+  </lyrics>
+</song>

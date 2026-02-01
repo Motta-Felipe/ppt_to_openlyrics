@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>36 Ogni Fiore Che S’apre Al Sole</title>
+    </titles>
+    <songbooks>
+      <songbook name="Ogni Fiore Che S’apre Al Sole" entry="36"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ogni fiore che s’apre al sole d’or<br />parla del tuo amor, o mio Creator.<br />Il canto del ruscel ancor dice:<br />“Grande e buono sei, Signor”.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu dal cielo vegli su me, Signor,<br />e l’amore immenso che doni ognor<br />la sete calma del mio cuor.<br />Sei potente e grande, Dio d’amor!</lines>
+    </verse>
+  </lyrics>
+</song>

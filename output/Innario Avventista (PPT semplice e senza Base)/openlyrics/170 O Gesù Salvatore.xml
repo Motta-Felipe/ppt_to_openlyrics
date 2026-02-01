@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>170 O Gesù Salvatore</title>
+    </titles>
+    <songbooks>
+      <songbook name="O Gesù Salvatore" entry="170"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Gesù salvatore moristi per me<br />sulla croce con grande dolor,<br />per salvarmi dal mal e donarmi la fé<br />che atterra il nemico in terror.<br />Sulla croce per me tu moristi o Gesù<br />tu spargesti il tuo sangue, o gran Re,<br />per lavare il mio cuor<br />d’ogni mal, d’ogni error,<br />e per farmi obbedir solo a te.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Gesù sulla croce soffristi il martir<br />per donarmi il tuo immenso perdon,<br />per portarmi nel ciel in eterno a gioir<br />coi redenti a cui desti il tuo tron.<br />Sulla croce per me tu moristi o Gesù<br />tu spargesti il tuo sangue, o gran Re,<br />per lavare il mio cuor<br />d’ogni mal, d’ogni error,<br />e per farmi obbedir solo a te.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Gesù tu portasti le mie infermità<br />sulla croce pel grande tuo amor.<br />Tutti quanti i miei mal e le mie iniquità<br />tu portasti, o benigno Signor.<br />Sulla croce per me tu moristi o Gesù<br />tu spargesti il tuo sangue, o gran Re,<br />per lavare il mio cuor<br />d’ogni mal, d’ogni error,<br />e per farmi obbedir solo a te.</lines>
+    </verse>
+  </lyrics>
+</song>

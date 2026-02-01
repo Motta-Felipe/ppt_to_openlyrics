@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>109 Venne Giù Dal Cielo</title>
+    </titles>
+    <songbooks>
+      <songbook name="Venne Giù Dal Cielo" entry="109"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Venne giù da ciel il grande Creator,<br />e si rivesti per me dell’umanità.<br />La sua vita densa fu di sublime amor;<br />e sparse per l’uomo la serenità.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ubbidiente fu il dolce Salvator<br />e in quel grigio giorno, ahime, ei morì per me.<br />Sulla croce, si, Gesù rivelò il suo amor,<br />l’amore infinito che mi addita il ciel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Per la sua umiltà e il suo grande amor,<br />pieno di splendor Gesù fu innalzato al ciel.<br />Nella gloria il Re tornò da suo Padre allor<br />ed ora intercede presso Dio per me.</lines>
+    </verse>
+  </lyrics>
+</song>

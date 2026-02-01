@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>282 Gioia In Ciel</title>
+    </titles>
+    <songbooks>
+      <songbook name="Gioia In Ciel" entry="282"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gioia in ciel!<br />Ascoltate degli angeli il coro:<br />il figliuol torna al paterno asil.<br />Vuol tornar, vuol tornar<br />s’apran le porte d’oro;<br />vuol tornar per obliar<br />un passato assai crudel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Il Padre l’aspetta in piè sul cammin<br />ed, ecco lo vede da lungi apparir<br />con tenero amore lo stringe al cuore<br />come allora in quel mattin.<br />Gioia in ciel!<br />Ascoltate degli angeli il cor:<br />il figliuol torna al paterno asil.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gioia in ciel!<br />Ascoltate quest’umil preghiera<br />che dal cuor eleva l’infedel.<br />“Peccator, son Signor,<br />perdon chiedo stasera<br />peccator, son Signor<br />ma d’amor mi copra il vel!”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Il Padre che l’ama gioisce a l’udir:<br />quel giovane anela di non più soffrir.<br />Il suo peccato è perdonato<br />grazie al suo sincero pentir.<br />Gioia in ciel!<br />Ascoltate degli angeli il cor:<br />il figliuol torna al paterno asil.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gioia in ciel!<br />Preparate la veste più bella,<br />ché al figliuol sian resi gloria onor.<br />Ed allor, nel fulgor<br />della casa illuminata<br />v’è la gioia e l’amor<br />che perdona il peccator.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Non più duolo e pianto, non più quel soffrir;<br />quel tragico incanto per sempre fini,<br />e il cupo dolore del genitore<br />se ne andò, come ombra fuggì.<br />Gioia in ciel!<br />Ascoltate degli angeli il cor:<br />il figliuol torna al paterno asil.</lines>
+    </verse>
+  </lyrics>
+</song>

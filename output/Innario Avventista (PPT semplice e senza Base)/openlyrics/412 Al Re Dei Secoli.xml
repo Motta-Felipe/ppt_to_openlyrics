@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>412 Al Re Dei Secoli</title>
+    </titles>
+    <songbooks>
+      <songbook name="Al Re Dei Secoli" entry="412"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Al Re dei secoli all’immortale,<br />a lui sia gloria, a lui l’onor.<br />Le preci fervide di fé sull’ale<br />a lui s’innalzino dal nostro cuor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ognun glorifichi l’Eterno, il Forte,<br />ognun magnifichi il Redentor,<br />che nelle squallide ombre di morte<br />qual sole fulgido portò il chiaror.</lines>
+    </verse>
+  </lyrics>
+</song>

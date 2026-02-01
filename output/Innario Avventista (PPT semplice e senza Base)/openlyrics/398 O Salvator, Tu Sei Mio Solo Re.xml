@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>398 O Salvator, Tu Sei Mio Solo Re</title>
+    </titles>
+    <songbooks>
+      <songbook name="O Salvator, Tu Sei Mio Solo Re" entry="398"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Salvator, tu sei mio solo Re,<br />ed il tuo amor mi dona pace al cuore;<br />il dì trascorre lieto, o mio Signore,<br />guardo al domani con fiducia in te.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vivo e sincero sento in me il voler<br />d’amarti sempre, d’esserti obbediente;<br />ma nell’agire sono inconseguente:<br />l’impegno mio non so mantener.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quando mi assal la prova del dolor,<br />nella mia pena chiedo a te la pace;<br />ogni tormento al tuo comando tace<br />e luce e gioia brillan nel mio cuor.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>182 Dal Cielo Scendi Tu, O Dio</title>
+    </titles>
+    <songbooks>
+      <songbook name="Dal Cielo Scendi Tu, O Dio" entry="182"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dal cielo scendi tu,<br />o Dio consolator;<br />infiamma il nostro cuore col tuo amore.<br />Vien, non tardare più,<br />rendici degni tu<br />del sacrificio di nostro Signore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come colomba tu<br />scendesti sul Signor<br />donandogli la forza ed il vigor.<br />Scendi anche su di me<br />dammi maggior vigor<br />per vincere il nemico, il tentator.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Un tempo ormai lontan,<br />come un fuoco tu<br />sopra i tuoi testimoni sei disceso.<br />La fiamma del tuo amor<br />arda qui dentro il cuor<br />per dire, a chi non sa, di Dio l’amore.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>539 Son Io, Signor</title>
+    </titles>
+    <songbooks>
+      <songbook name="Son Io, Signor" entry="539"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Son io, son io, son io, Signor,<br />che ho bisogno di pregar;<br />Son io, son io, son io, Signor,<br />che ho bisogno di pregar!<br />Non mio padre o mio fratello<br />ma son io Signor, che ho bisogno di pregar.<br />Non mia madre o mia sorella,<br />ma son io Signor, che ho bisogno di pregar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Son io, son io, son io, Signor,<br />che ho bisogno di pregar;<br />Son io, son io, son io, Signor,<br />che ho bisogno di pregar!<br />Non l’anziano né il pastore,<br />ma son io, Signor, che ho bisogno di pregar.<br />Non la gente nelle panche,<br />ma son io, Signor, che ho bisogno di pregar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Son io, son io, son io, Signor,<br />che ho bisogno di pregar;<br />Son io, son io, son io, Signor,<br />che ho bisogno di pregar!<br />Non l’amico o il vicino,<br />ma son io, Signor che ho bisogno di pregar.<br />Non è l’altro, non è l’altro,<br />ma son io, Signor, che ho bisogno di pregar.</lines>
+    </verse>
+  </lyrics>
+</song>

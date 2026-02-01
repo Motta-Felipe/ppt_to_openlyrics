@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>74 Niente Fra Cristo Ed Il Mio Cuore</title>
+    </titles>
+    <songbooks>
+      <songbook name="Niente Fra Cristo Ed Il Mio Cuore" entry="74"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niente fra Cristo ed il mio cuore<br />che qui nel mondo vita non c’è.<br />Ogni terreno vano piacere<br />non può viver fra Cristo e me.<br />Niente fra Cristo ed il mio cuore,<br />solo il suo volto è gioia per me;<br />solo cercando il suo favore<br />ho vita vera: egli è il mio Re.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niente fra Cristo ed il mio cuore,<br />né sofferenza e né dolore.<br />Solo la fede nel mio Signore<br />porta la pace, porta l’amor.<br />Niente fra Cristo ed il mio cuore,<br />solo il suo volto è gioia per me;<br />solo cercando il suo favore<br />ho vita vera: egli è il mio Re.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niente fra Cristo ed il mio cuore,<br />ché in lui soltanto viver potrò.<br />Se mi tormenta il tentatore,<br />solo con Cristo vincer potrò.<br />Niente fra Cristo ed il mio cuore,<br />solo il suo volto è gioia per me;<br />solo cercando il suo favore<br />ho vita vera: egli è il mio Re.</lines>
+    </verse>
+  </lyrics>
+</song>

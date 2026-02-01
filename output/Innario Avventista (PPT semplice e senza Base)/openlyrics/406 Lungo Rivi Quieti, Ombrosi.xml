@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>406 Lungo Rivi Quieti, Ombrosi</title>
+    </titles>
+    <songbooks>
+      <songbook name="Lungo Rivi Quieti, Ombrosi" entry="406"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lungo rivi quieti, ombrosi,<br />la sua gregge Iddio conduce,<br />e in ameni paschi erbosi<br />a giacere poi l’adduce;<br />del suo nome per l’amore<br />l’alma mia ristoro avrà:<br />il Signore è il mio pastore,<br />nulla mai mi mancherà<br />Il Signore è il mio pastore<br />nulla mai mi mancherà.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Di giustizia pei sentieri<br />lieti giorni vivo in pace,<br />ché rischiara i miei pensieri<br />dell’amore tuo la luce;<br />della morte niun timore,<br />né del mal m’assalirà:<br />è con me il Consolatore,<br />la sua pace mi darà.<br />Il Signore è il mio pastore<br />nulla mai mi mancherà.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>La tua mensa è a me davanti,<br />dei tuoi beni ho gran dovizia;<br />il mio cuore è traboccante,<br />o Signor, di tua letizia.<br />Chi fedele il buon pastore<br />sulla terra seguirà,<br />nella casa del Signore<br />lunghi giorni abiterà.<br />Il Signore è il mio pastore<br />nulla mai mi mancherà.</lines>
+    </verse>
+  </lyrics>
+</song>

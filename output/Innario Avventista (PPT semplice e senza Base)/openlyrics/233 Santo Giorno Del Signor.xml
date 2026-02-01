@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>233 Santo Giorno Del Signor</title>
+    </titles>
+    <songbooks>
+      <songbook name="Santo Giorno Del Signor" entry="233"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Santo giorno del Signor<br />mi ricordi il Creator.<br />A chi solo e stanco è<br />porti vita, pace, amor<br />in Gesù, il Signor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Santo giorno del Signor<br />mi conduci verso il ciel.<br />Riposare allor potrò<br />dalle angosce e dal dolor<br />con Gesù, il Signor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Santo giorno del Signor<br />tu ridoni gioia al cuor.<br />Quell’albor riveli tu<br />di tua pace e di beltà<br />in Gesù, il Signor.</lines>
+    </verse>
+  </lyrics>
+</song>

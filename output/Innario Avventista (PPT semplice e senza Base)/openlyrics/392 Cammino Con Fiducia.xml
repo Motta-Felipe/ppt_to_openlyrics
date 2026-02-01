@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>392 Cammino Con Fiducia</title>
+    </titles>
+    <songbooks>
+      <songbook name="Cammino Con Fiducia" entry="392"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cammino con fiducia e zel<br />verso la Canaan celeste.<br />Il mio Signore è accanto a me<br />per dar luce al sentiero.<br />La Canaan celeste<br />la mia patria sarà in Cristo;<br />aspetto quel giorno con ardor<br />per vedere il Signor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Davanti al trono dell’Agnel<br />loderò il nome tuo<br />vivendo nell’eternità<br />per la grazia del Signor.<br />La Canaan celeste<br />la mia patria sarà in Cristo;<br />aspetto quel giorno con ardor<br />per vedere il Signor.</lines>
+    </verse>
+  </lyrics>
+</song>

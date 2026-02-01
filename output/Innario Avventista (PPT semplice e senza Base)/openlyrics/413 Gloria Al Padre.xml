@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>413 Gloria Al Padre</title>
+    </titles>
+    <songbooks>
+      <songbook name="Gloria Al Padre" entry="413"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gloria al Padre, al Figlio<br />ed allo Spirito Santo.<br />Com’era nel principio<br />ed ora è sarà sempre.<br />Nei secoli, dei secoli, amen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>176 Per Le Vie Del Ben Ci Guida</title>
+    </titles>
+    <songbooks>
+      <songbook name="Per Le Vie Del Ben Ci Guida" entry="176"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Per le vie del ben ci guida<br />il divin Consolator,<br />lieta l’anima s’affida<br />allo Spirto del Signor.<br />A lui gloria, gloria, gloria.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nelle lotte, nelle pene<br />che ci angosciano quaggiù;<br />ci consola, ci sostiene<br />il tuo Spirito, Gesù.<br />A lui gloria, gloria, gloria.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se il nemico è a noi accanto,<br />se il peccato il cuore assal;<br />a noi dà lo Spirto Santo<br />la vittoria su ogni mal.<br />A lui gloria, gloria, gloria.</lines>
+    </verse>
+  </lyrics>
+</song>

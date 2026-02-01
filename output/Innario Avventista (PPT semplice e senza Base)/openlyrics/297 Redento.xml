@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>297 Redento</title>
+    </titles>
+    <songbooks>
+      <songbook name="Redento" entry="297"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Redento son io dal Signore<br />e canta di gioia il mio cuor,<br />per grazia e bontà del Signore<br />un dì vita eterna avrò.<br />Redento, redento dal mio salvator Gesù;<br />redento son io dal Signore:<br />con gioia proclamo il suo amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Il cuore è colmo d’amore<br />per chi sulla croce morì.<br />È dolce pensare al Signore<br />che vita e speranza impartì.<br />Redento, redento dal mio salvator Gesù;<br />redento son io dal Signore:<br />con gioia proclamo il suo amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Un giorno vedrò il Signore<br />al quale ho donato il mio cuor.<br />La legge che ha dato il Signore,<br />per grazia osservarla potrò.<br />Redento, redento dal mio salvator Gesù;<br />redento son io dal Signore:<br />con gioia proclamo il suo amor.</lines>
+    </verse>
+  </lyrics>
+</song>

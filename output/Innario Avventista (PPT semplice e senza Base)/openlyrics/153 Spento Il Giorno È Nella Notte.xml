@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>153 Spento Il Giorno È Nella Notte</title>
+    </titles>
+    <songbooks>
+      <songbook name="Spento Il Giorno È Nella Notte" entry="153"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spento il giorno è nella notte;<br />l’incanto che vive d’intorno<br />dà calma ai cuori in ansietà;<br />e le dieci damigelle<br />si stanno aspettando Gesù<br />son prese da gran sonno, ahime!<br />un grido s’ode allor:<br />“Destate i vostri cuor: alleluia!<br />Lo sposo è qui nel suo splendor,<br />correte ad incontrar Gesù!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Senza l’olio son rimaste<br />le stolte che imprevidenti<br />smarrite son sperando invan.<br />Ecco giungere lo sposo:<br />le savie che han l’olio vital<br />han gioia alfin a sazietà.<br />Un canto s’ode allor:<br />“E’ giunto il Salvator, alleluia!<br />La chiesa va dal suo Signor,<br />si sposa con l’Agnel alfin.</lines>
+    </verse>
+  </lyrics>
+</song>

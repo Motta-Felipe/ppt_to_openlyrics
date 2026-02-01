@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>237 Questo Giorno Celebriamo</title>
+    </titles>
+    <songbooks>
+      <songbook name="Questo Giorno Celebriamo" entry="237"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Questo giorno celebriamo<br />esso è il giorno del Signor.<br />Questo dì santifichiamo,<br />esso è il giorno del Signor.<br />All’Eterno, al forte e al santo,<br />su leviamo il nostro cuor;<br />a Gesù sciogliamo un canto,<br />questo è il giorno del Signor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dio ci insegna in questa scuola,<br />questo è il giorno del Signor;<br />ascoltiam la sua parola,<br />questo è il giorno del Signor.<br />Egli ci apre il suo vangelo,<br />ci rischiara mente e cuor;<br />ei ci fa pensare al cielo,<br />questo è il giorno del Signor.</lines>
+    </verse>
+  </lyrics>
+</song>

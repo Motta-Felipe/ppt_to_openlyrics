@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>362 Qui Raccolti Al Tuo Cospetto</title>
+    </titles>
+    <songbooks>
+      <songbook name="Qui Raccolti Al Tuo Cospetto" entry="362"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Qui raccolti al tuo cospetto<br />t’adoriamo, o Creator;<br />il tuo nome benedetto<br />invochiamo con fervor.<br />Lode eterna, o Re del ciel,<br />salga a te dai tuoi fedel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Qui col canto e la preghiera<br />eleviamo a te il pensier;<br />d’ogni pace e gioia vera<br />l’alma nostra può goder.<br />Il tuo Spirito ci dà<br />nuovo ardor di carità.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Qui, Signor, la tua Parola<br />tu rivolgi al peccator;<br />essa libera e consola<br />dal peccato e dal dolor;<br />essa intendere ci fa<br />la tua santa verità.</lines>
+    </verse>
+  </lyrics>
+</song>

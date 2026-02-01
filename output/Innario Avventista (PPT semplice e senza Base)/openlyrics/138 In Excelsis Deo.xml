@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>138 In Excelsis Deo</title>
+    </titles>
+    <songbooks>
+      <songbook name="In Excelsis Deo" entry="138"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>S’ode un canto su nel ciel<br />degli angelici cantor;<br />canto è di felicità<br />che ravviva i nostri cuor.<br />Gloria, in excelsis Deo.<br />Gloria, in excelsis Deo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Una luce splende in ciel<br />che rischiara il mondo inter.<br />Questa notte a Betlem<br />nato, è Cristo, il Re dei re.<br />Gloria, in excelsis Deo.<br />Gloria, in excelsis Deo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Questo annuncio del Natal<br />porta gioia in ogni cuor,<br />pace per l’umanità:<br />oggi è nato il Salvator!<br />Gloria, in excelsis Deo.<br />Gloria, in excelsis Deo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Egli scese giù dal ciel<br />su, corriamo ad adorar:<br />egli è Cristo, il Redentor,<br />che ci dona eternità.<br />Gloria, in excelsis Deo.<br />Gloria, in excelsis Deo.</lines>
+    </verse>
+  </lyrics>
+</song>

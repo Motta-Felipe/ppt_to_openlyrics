@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>385 Ben Può La Fede</title>
+    </titles>
+    <songbooks>
+      <songbook name="Ben Può La Fede" entry="385"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ben può la fede abbattere<br />le mura più imponenti,<br />i tristi ceppi infrangere<br />ed essere per fé vincenti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chi prende a scudo valido<br />la fede nel Signore<br />al mal non può soccombere<br />e mai ne avrà timore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Di fé gli eroi, che impavidi<br />sfidarono il destino,<br />col loro esempio fulgido<br />ci additano il cammino.</lines>
+    </verse>
+  </lyrics>
+</song>
