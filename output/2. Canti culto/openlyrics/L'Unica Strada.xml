@@ -7,21 +7,18 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>L’unica strada</lines>
-    </verse>
-    <verse name="v2">
       <lines>Cerco negli occhi di chi mi sta<br />intorno se c’è un po’d’allegria.<br />Scopro che tanti si perdono e<br />tanti non sanno più chi è Dio.</lines>
     </verse>
-    <verse name="v3">
+    <verse name="v2">
       <lines>Parlo di me, di come lo amo io<br />solo così potrò far sapere che<br />Dio è il più grande,<br />è l’unica strada che c’è.</lines>
     </verse>
-    <verse name="v4">
+    <verse name="v3">
       <lines>Se nella vita non trovi la felicità,<br />guarda a Gesù.<br />Lui soltanto può darti la gioia<br />e la vera libertà.</lines>
     </verse>
-    <verse name="v5">
+    <verse name="v4">
       <lines>Vive in me, e guida i passi miei<br />solo così, potrai scoprire che<br />Dio è il più grande ,<br />è l’unica strada che c’è.</lines>
     </verse>
-    <verse name="v6">
+    <verse name="v5">
       <lines>Parla con Lui, come ad un amico<br />solo così, potrai scoprire che,<br />Dio è il più grande,<br />è l’unica strada che c’è.<br />Dio è il più grande,<br />è l’unica strada che c’è.</lines>
     </verse>
   </lyrics>

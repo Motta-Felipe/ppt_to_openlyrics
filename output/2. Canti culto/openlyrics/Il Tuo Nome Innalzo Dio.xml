@@ -6,22 +6,19 @@
     </titles>
   </properties>
   <lyrics>
-    <verse name="v1">
-      <lines>Il tuo nome innalzo  dio</lines>
-    </verse>
     <verse name="c1">
-      <lines>con le lodi del mio canto<br />grande gioia è dentro me<br />mi hai salvato col tuo amore</lines>
+      <lines>Il Tuo nome innalzo Dio<br />con le lodi del mio canto<br />grande gioia è dentro me<br />mi hai salvato col tuo amore</lines>
     </verse>
-    <verse name="v2">
+    <verse name="v1">
       <lines>Tu sei venuto quaggiù Signor Gesù<br />per mostrarmi la via, eterno Dio<br />tu che morto al posto mio<br />ora vivi e regni in me<br />Oh Signore innalzo Te<br />(♪♪♪)</lines>
     </verse>
     <verse name="c1">
-      <lines>con le lodi del mio canto<br />grande gioia è dentro me<br />mi hai salvato col tuo amore</lines>
+      <lines>Il Tuo nome innalzo Dio<br />con le lodi del mio canto<br />grande gioia è dentro me<br />mi hai salvato col tuo amore</lines>
     </verse>
-    <verse name="v3">
+    <verse name="v2">
       <lines>Tu sei venuto quaggiù Signor Gesù<br />per mostrarmi la via, eterno Dio<br />tu che morto al posto mio<br />ora vivi e regni in me<br />Oh Signore innalzo Te (bis)</lines>
     </verse>
-    <verse name="v4">
+    <verse name="v3">
       <lines>Oh Signore innalzo Te<br />Oh Signore innalzo Te<br />fine</lines>
     </verse>
   </lyrics>

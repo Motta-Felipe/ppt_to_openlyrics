@@ -7,24 +7,21 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Tra le braccia di gesu’</lines>
-    </verse>
-    <verse name="v2">
       <lines>La sua compagnia<br />mi dà gioia al cuor<br />tra le braccia eterne di Gesù<br />che felicità, pace Lui mi dà<br />tra le braccia eterne di Gesù</lines>
     </verse>
     <verse name="c1">
       <lines>Tra le braccia<br />di Gesù al sicuro stò<br />tra le braccia<br />di Gesù protetto son.</lines>
     </verse>
-    <verse name="v3">
+    <verse name="v2">
       <lines>Camminar con Lui<br />sempre voglio io<br />tra le braccia eterne di Gesù<br />splende il sentier<br />quando è con me<br />tra le braccia eterne di Gesù</lines>
     </verse>
     <verse name="c1">
       <lines>Tra le braccia<br />di Gesù al sicuro stò<br />tra le braccia<br />di Gesù protetto son.</lines>
     </verse>
-    <verse name="v4">
+    <verse name="v3">
       <lines>Io non temerò<br />se Tu sei con me<br />tra le braccia eterne di Gesù<br />Benedetto sei<br />grande è il mio Re<br />tra le braccia eterne di Gesù</lines>
     </verse>
-    <verse name="v5">
+    <verse name="v4">
       <lines>Tra le braccia<br />di Gesù al sicuro stò<br />tra le braccia<br />di Gesù protetto son<br />(x2)<br />fine</lines>
     </verse>
   </lyrics>

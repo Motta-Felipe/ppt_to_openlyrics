@@ -7,24 +7,21 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Cristo viene gia’ i segni vediamo</lines>
+      <lines>Cristo viene già i segni vediamo<br />sulle nubi Egli scende dal ciel<br />Cristo viene, fratelli esultiamo<br />lo vedremo apparir come Re</lines>
     </verse>
     <verse name="v2">
-      <lines>sulle nubi Egli scende dal ciel<br />Cristo viene, fratelli esultiamo<br />lo vedremo apparir come Re</lines>
-    </verse>
-    <verse name="v3">
       <lines>Cessi il pianto non più duol<br />alleluia si canti al Signor<br />cessi il pianto non più duol<br />alleluia si canti al Signor.</lines>
     </verse>
-    <verse name="v4">
+    <verse name="v3">
       <lines>Cristo viene il grido si spande<br />risvegliando chi cerca il suo amor<br />Cristo viene la gioia è sì grande<br />per chi ha dato al Signore<br />il suo cuor</lines>
     </verse>
-    <verse name="v5">
+    <verse name="v4">
       <lines>Cessi il pianto non più duol<br />alleluia si canti al Signor<br />cessi il pianto non più duol<br />alleluia si canti al Signor</lines>
     </verse>
-    <verse name="v6">
+    <verse name="v5">
       <lines>Cristo viene si compiono allora<br />le visioni del grande avvenir<br />l’orizzonte di gioia s’indora<br />e appagato sarà ogni desir</lines>
     </verse>
-    <verse name="v7">
+    <verse name="v6">
       <lines>Cessi il pianto non più duol<br />alleluia si canti al Signor<br />cessi il pianto non più duol<br />alleluia si canti al Signor<br />(x 2)</lines>
     </verse>
   </lyrics>

@@ -7,27 +7,24 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Cantero’ al mioredentore</lines>
-    </verse>
-    <verse name="v2">
       <lines>Canterò al mio Redentore,<br />il suo grande amore per me.<br />Sulla croce Egli ha sofferto,<br />Per liberarmi dal mio peccato.</lines>
     </verse>
     <verse name="c1">
       <lines>Canta, oh canta, al mio Redentore,<br />con il suo sangue mi ha salvato.<br />Ha suggellato il mio perdono,<br />Gesù ha pagato il mio debito.</lines>
     </verse>
-    <verse name="v3">
+    <verse name="v2">
       <lines>Racconterò la magnifica storia,<br />di come Lui mi ha salvato.<br />Amore eterno e misericordia,<br />gratuitamente mi ha riscattato.</lines>
     </verse>
     <verse name="c1">
       <lines>Canta, oh canta, al mio Redentore,<br />con il suo sangue mi ha salvato.<br />Ha suggellato il mio perdono,<br />Gesù ha pagato il mio debito.</lines>
     </verse>
-    <verse name="v4">
+    <verse name="v3">
       <lines>Loderò il mio Redentore,<br />la sua potenza, racconterò.<br />Gesù ha vinto il nemico,<br />la mia morte ed il peccato.</lines>
     </verse>
-    <verse name="v5">
+    <verse name="v4">
       <lines>Canta, oh canta, al mio Redentore,<br />con il suo sangue mi ha salvato.<br />Ha suggellato il mio perdono,<br />Gesù ha pagato il mio debito.<br />##################</lines>
     </verse>
-    <verse name="v6">
+    <verse name="v5">
       <lines>Canterò al mio Redentore,<br />il suo grande amore per me.<br />Ero perduto e adesso son vivo,<br />ora son figlio del mio Gesù.</lines>
     </verse>
     <verse name="c1">
