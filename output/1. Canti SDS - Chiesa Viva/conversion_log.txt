@@ -20708,3 +20708,1135 @@ File: ~$DALLA NASCITA DEL  SOL.pptx
   Notes: Failed to extract text from input\1. Canti SDS - Chiesa Viva\~$DALLA NASCITA DEL  SOL.pptx: Package not found at 'input\1. Canti SDS - Chiesa Viva\~$DALLA NASCITA DEL  SOL.pptx'
   Processed: 2026-02-02T18:04:06.527498
 ----------------------------------------
+File: 10 000 REASONS.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '10'
+    - Converted to Title Case: '10 000 REASONS' → '000 Reasons'
+    - Removed numbered title header: '10 000 reasons'
+    - Detected chorus labels: RIT:
+    - Auto-detected 4 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:12:50.832127
+----------------------------------------
+File: 10 CANTO PER CRISTO.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '10'
+    - Converted to Title Case: '10 CANTO PER CRISTO' → 'Canto Per Cristo'
+    - Removed title slide: 'Canto per Cristo'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:12:50.922355
+----------------------------------------
+File: 10000 RAGIONI.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '10000'
+    - Converted to Title Case: '10000 RAGIONI' → 'Ragioni'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:12:51.011807
+----------------------------------------
+File: 11 CHI MI HA CREATO.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '11'
+    - Converted to Title Case: '11 CHI MI HA CREATO' → 'Chi Mi Ha Creato'
+    - Removed title slide: 'Chi mi ha creato'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:12:51.093639
+----------------------------------------
+File: 12 CRISTO MUOVE LE MONTAGNE.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '12'
+    - Converted to Title Case: '12 CRISTO MUOVE LE MONTAGNE' → 'Cristo Muove Le Montagne'
+    - Removed title slide: 'Cristo muove le montagne'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:12:51.171209
+----------------------------------------
+File: 13 DAME UN NUEVO CORAZON.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '13'
+    - Converted to Title Case: '13 DAME UN NUEVO CORAZON' → 'Dame Un Nuevo Corazon'
+    - Removed title slide: 'Dame un nuevo corazon'
+  Processed: 2026-02-02T18:12:51.254090
+----------------------------------------
+File: 17 GIOVENTU' ALZATI IN VOLO.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '17'
+    - Converted to Title Case: '17 GIOVENTU' ALZATI IN VOLO' → 'Gioventu' Alzati In Volo'
+    - Removed title slide: 'Gioventu’ Alzati IN VOLo'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:12:51.335719
+----------------------------------------
+File: 178 - Come il riarso terreno.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '178 -'
+    - Converted to Title Case: '178 - Come il riarso terreno' → 'Come Il Riarso Terreno'
+    - Removed title slide: 'Come il Riarso Terreno'
+    - Removed numbered title from slide 2: '178 - Come il riarso terreno'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Removed numbered title from slide 3: '178 - Come il riarso terreno'
+    - Removed numbered title from slide 4: '178 - Come il riarso terreno'
+    - Removed numbered title from slide 5: '178 - Come il riarso terreno'
+    - Removed numbered title from slide 6: '178 - Come il riarso terreno'
+    - Removed numbered title from slide 7: '178 - Come il riarso terreno'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-02-02T18:12:51.467281
+----------------------------------------
+File: 18 RITROVARTI IN CIELO.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '18'
+    - Converted to Title Case: '18 RITROVARTI IN CIELO' → 'Ritrovarti In Cielo'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed title slide: 'Ritrovarti In cielo'
+  Processed: 2026-02-02T18:12:56.513998
+----------------------------------------
+File: 19 GRANDE E’ IL NOSTRO DIO.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '19'
+    - Converted to Title Case: '19 GRANDE E’ IL NOSTRO DIO' → 'Grande E’ Il Nostro Dio'
+    - Removed title slide: 'Grande e’ il nostro dio'
+  Processed: 2026-02-02T18:12:56.615067
+----------------------------------------
+File: 20 IN QUEL GIORNO PIEN DI LUCE.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '20'
+    - Converted to Title Case: '20 IN QUEL GIORNO PIEN DI LUCE' → 'In Quel Giorno Pien Di Luce'
+    - Removed title slide: 'In quel giorno  pien di luce'
+  Processed: 2026-02-02T18:12:56.743778
+----------------------------------------
+File: 21 INNO DEL MISSIONARIO.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '21'
+    - Converted to Title Case: '21 INNO DEL MISSIONARIO' → 'Inno Del Missionario'
+    - Removed title slide: 'Inno del missionario'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:12:56.854914
+----------------------------------------
+File: 25 IO SO CHI SONO.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '25'
+    - Converted to Title Case: '25 IO SO CHI SONO' → 'Io So Chi Sono'
+    - Removed title slide: 'Io so chi sono'
+    - Detected chorus labels: Rit.
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:12:56.932666
+----------------------------------------
+File: 29 MERAVIGLIOSO SEI.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '29'
+    - Converted to Title Case: '29 MERAVIGLIOSO SEI' → 'Meraviglioso Sei'
+    - Removed title slide: 'Meraviglioso sei'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:12:57.012987
+----------------------------------------
+File: 30 MI PENSAMIENTO ERES TU.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '30'
+    - Converted to Title Case: '30 MI PENSAMIENTO ERES TU' → 'Mi Pensamiento Eres Tu'
+    - Removed title slide: 'Mi pensamiento eres tu'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:12:57.107691
+----------------------------------------
+File: 31 MIO SIGNOR CHE MATTINO.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '31'
+    - Converted to Title Case: '31 MIO SIGNOR CHE MATTINO' → 'Mio Signor Che Mattino'
+    - Removed title slide: 'Mio signor che mattino'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:12:57.195903
+----------------------------------------
+File: 32 MONTI E COLLINE.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '32'
+    - Converted to Title Case: '32 MONTI E COLLINE' → 'Monti E Colline'
+    - Removed title slide: 'Monti e colline'
+    - Detected chorus labels: Rit:
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:12:57.283970
+----------------------------------------
+File: 33 NELLE TUE MANI.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '33'
+    - Converted to Title Case: '33 NELLE TUE MANI' → 'Nelle Tue Mani'
+    - Removed title slide: 'Nelle tue mani'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:12:57.412669
+----------------------------------------
+File: 34 NO ME IMPORTA.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '34'
+    - Converted to Title Case: '34 NO ME IMPORTA' → 'No Me Importa'
+    - Removed title slide: 'No me importa'
+  Processed: 2026-02-02T18:12:57.541875
+----------------------------------------
+File: 36 TU SEI.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '36'
+    - Converted to Title Case: '36 TU SEI' → 'Tu Sei'
+    - Removed title slide: 'Tu sei'
+    - Detected chorus labels: RIT:
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:12:57.633539
+----------------------------------------
+File: 384 - Ho un Buon Padre che m'invita.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '384 -'
+    - Converted to Title Case: '384 - Ho un Buon Padre che m'invita' → 'Ho Un Buon Padre Che M'Invita'
+    - Removed title slide: 'Ho un Buon Padre che m'invita'
+    - Removed numbered title from slide 2: '384 - Ho un Buon Padre che m'invita'
+    - Removed numbered title from slide 3: '384 - Ho un Buon Padre che m'invita'
+    - Removed numbered title from slide 4: '384 - Ho un Buon Padre che m'invita'
+    - Removed numbered title from slide 5: '384 - Ho un Buon Padre che m'invita'
+    - Removed numbered title from slide 6: '384 - Ho un Buon Padre che m'invita'
+    - Removed numbered title from slide 7: '384 - Ho un Buon Padre che m'invita'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+  Processed: 2026-02-02T18:12:57.779750
+----------------------------------------
+File: 39 SEI TU.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '39'
+    - Converted to Title Case: '39 SEI TU' → 'Sei Tu'
+    - Removed title slide: 'Sei tu'
+  Processed: 2026-02-02T18:12:57.893398
+----------------------------------------
+File: 41 SYMBOLUM.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '41'
+    - Converted to Title Case: '41 SYMBOLUM' → 'Symbolum'
+    - Removed title slide: 'Symbolum'
+  Processed: 2026-02-02T18:12:58.010070
+----------------------------------------
+File: 42 TU SEI SANTO.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '42'
+    - Converted to Title Case: '42 TU SEI SANTO' → 'Tu Sei Santo'
+    - Converted from legacy .ppt format via LibreOffice
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:00.974765
+----------------------------------------
+File: 43 UNA CASA NEL CIELO.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '43'
+    - Converted to Title Case: '43 UNA CASA NEL CIELO' → 'Una Casa Nel Cielo'
+    - Removed title slide: 'Una casa nel cielo'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:01.065325
+----------------------------------------
+File: 46 LA LUCE VEDRA'.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '46'
+    - Converted to Title Case: '46 LA LUCE VEDRA'' → 'La Luce Vedra''
+    - Removed title slide: 'La luce vedra’'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:01.171910
+----------------------------------------
+File: 47 - Là nel ciel qui sulla terra.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '47 -'
+    - Converted to Title Case: '47 - Là nel ciel qui sulla terra' → 'Là Nel Ciel Qui Sulla Terra'
+    - Removed title slide: 'Lá nel ciel qui sulla terra'
+    - Removed numbered title from slide 2: '47 - Là nel ciel qui sulla terra'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Removed numbered title from slide 3: '47 - Là nel ciel qui sulla terra'
+    - Removed numbered title from slide 4: '47 - Là nel ciel qui sulla terra'
+    - Removed numbered title from slide 5: '47 - Là nel ciel qui sulla terra'
+    - Removed numbered title from slide 6: '47 - Là nel ciel qui sulla terra'
+    - Removed numbered title from slide 7: '47 - Là nel ciel qui sulla terra'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-02-02T18:13:01.334299
+----------------------------------------
+File: 47 RESTA ACCANTO A ME.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '47'
+    - Converted to Title Case: '47 RESTA ACCANTO A ME' → 'Resta Accanto A Me'
+    - Removed title slide: 'Resta accanto a me'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:01.449161
+----------------------------------------
+File: 48 CORRERO' DA TE.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '48'
+    - Converted to Title Case: '48 CORRERO' DA TE' → 'Correro' Da Te'
+    - Removed title slide: 'Correrò da te'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:01.548870
+----------------------------------------
+File: 49 CANTO DI VITTORIA.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '49'
+    - Converted to Title Case: '49 CANTO DI VITTORIA' → 'Canto Di Vittoria'
+    - Removed title slide: 'Canto di vittoria'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:01.664195
+----------------------------------------
+File: 50 SEI TU LA MIA VITA.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '50'
+    - Converted to Title Case: '50 SEI TU LA MIA VITA' → 'Sei Tu La Mia Vita'
+    - Removed title slide: 'Sei tu la mia vita'
+  Processed: 2026-02-02T18:13:01.753270
+----------------------------------------
+File: 51 PRINCIPE DI PACE.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '51'
+    - Converted to Title Case: '51 PRINCIPE DI PACE' → 'Principe Di Pace'
+    - Removed title slide: 'Principe di pace'
+  Processed: 2026-02-02T18:13:01.833071
+----------------------------------------
+File: 52 BLESSED BE YOUR NAME.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '52'
+    - Converted to Title Case: '52 BLESSED BE YOUR NAME' → 'Blessed Be Your Name'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed title slide: 'Blessed be your name'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:04.436175
+----------------------------------------
+File: 52 TI BENEDIRO'.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '52'
+    - Converted to Title Case: '52 TI BENEDIRO'' → 'Ti Benediro''
+    - Removed title slide: 'Ti benedirò'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:04.536924
+----------------------------------------
+File: 54 QUANDO PENSO A CRISTO.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '54'
+    - Converted to Title Case: '54 QUANDO PENSO A CRISTO' → 'Quando Penso A Cristo'
+    - Removed title slide: 'Quando penso a cristo'
+  Processed: 2026-02-02T18:13:04.606871
+----------------------------------------
+File: 549 - Tu sei la mia vita (Symbolum).pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '549 -'
+    - Converted to Title Case: '549 - Tu sei la mia vita (Symbolum)' → 'Tu Sei La Mia Vita (symbolum)'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa, 4° Strofa
+  Processed: 2026-02-02T18:13:04.770999
+----------------------------------------
+File: 55 LA CASA SULLA ROCCIA.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '55'
+    - Converted to Title Case: '55 LA CASA SULLA ROCCIA' → 'La Casa Sulla Roccia'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed title slide: 'La casa sulla roccia'
+  Processed: 2026-02-02T18:13:07.618215
+----------------------------------------
+File: 56 CON DIO.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '56'
+    - Converted to Title Case: '56 CON DIO' → 'Con Dio'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed title slide: 'Con dio'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+    - Merged 2 consecutive identical chorus blocks into one with (2X)
+  Processed: 2026-02-02T18:13:10.149788
+----------------------------------------
+File: 58 IL SUO RITORNO.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '58'
+    - Converted to Title Case: '58 IL SUO RITORNO' → 'Il Suo Ritorno'
+    - Removed title slide: 'Il suo ritorno'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:10.273477
+----------------------------------------
+File: 59 IL CANTO DELL’AMICIZIA.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '59'
+    - Converted to Title Case: '59 IL CANTO DELL’AMICIZIA' → 'Il Canto Dell’amicizia'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed formatted title line: 'Il canto dell’amicizia'
+    - Detected chorus labels: Rit.
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:12.971649
+----------------------------------------
+File: 61 TUTTO CIO’ CHE FACCIO E’ PER TE.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '61'
+    - Converted to Title Case: '61 TUTTO CIO’ CHE FACCIO E’ PER TE' → 'Tutto Cio’ Che Faccio E’ Per Te'
+    - Removed title slide: 'Tutto cio’ che faccio e’ per te'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:13.067573
+----------------------------------------
+File: 62 TI LODERO’.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '62'
+    - Converted to Title Case: '62 TI LODERO’' → 'Ti Lodero’'
+    - Removed title slide: 'Ti lodero’'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:13.152916
+----------------------------------------
+File: 63 SONREIR.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '63'
+    - Converted to Title Case: '63 SONREIR' → 'Sonreir'
+    - Removed formatted title line: 'Sonreir'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+    - Merged 2 consecutive identical chorus blocks into one with (2X)
+  Processed: 2026-02-02T18:13:13.218461
+----------------------------------------
+File: 63-santo santo santo.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '63-'
+    - Converted to Title Case: '63-santo santo santo' → 'Santo Santo Santo'
+    - Removed title slide: 'Santo, santo, santo'
+  Processed: 2026-02-02T18:13:13.300145
+----------------------------------------
+File: 64 LASCIA CHE IL CRISTO TI RAGGIUNGA.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '64'
+    - Converted to Title Case: '64 LASCIA CHE IL CRISTO TI RAGGIUNGA' → 'Lascia Che Il Cristo Ti Raggiunga'
+    - Removed title slide: 'Lascia che il Cristo ti raggiunga'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:13.381711
+----------------------------------------
+File: 65 L’ UOMO DI GALILEA.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '65'
+    - Converted to Title Case: '65 L’ UOMO DI GALILEA' → 'L’ Uomo Di Galilea'
+    - Detected chorus labels: Rit:
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:13.468468
+----------------------------------------
+File: 68 INCONTRARE TE.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '68'
+    - Converted to Title Case: '68 INCONTRARE TE' → 'Incontrare Te'
+    - Removed formatted title line: 'Incontrare te'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:13.548338
+----------------------------------------
+File: 70 - Io servo il Salvatore.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '70 -'
+    - Converted to Title Case: '70 - Io servo il Salvatore' → 'Io Servo Il Salvatore'
+    - Removed title slide: 'Io servo il Salvatore'
+    - Removed numbered title from slide 2: '70 - Io servo il Salvatore'
+    - Removed church name header: 'Chiesa OLGIATE'
+    - Removed numbered title from slide 3: '70 - Io servo il Salvatore'
+    - Removed numbered title from slide 4: '70 - Io servo il Salvatore'
+    - Removed numbered title from slide 5: '70 - Io servo il Salvatore'
+    - Removed numbered title from slide 6: '70 - Io servo il Salvatore'
+    - Removed numbered title from slide 7: '70 - Io servo il Salvatore'
+    - Detected verse markers: 1° Strofa, 2° Strofa, 3° Strofa
+    - Detected chorus labels: Ritornello
+  Processed: 2026-02-02T18:13:13.726147
+----------------------------------------
+File: 72 VIVERE CON TE.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '72'
+    - Converted to Title Case: '72 VIVERE CON TE' → 'Vivere Con Te'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed title slide: 'Vivere con Te'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:16.562443
+----------------------------------------
+File: 75 GLI UOMINI CHE SOGNANO.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '75'
+    - Converted to Title Case: '75 GLI UOMINI CHE SOGNANO' → 'Gli Uomini Che Sognano'
+    - Removed title slide: 'Gli uomini che sognano'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:16.706998
+----------------------------------------
+File: 78 CRESCERE E’...!.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '78'
+    - Converted to Title Case: '78 CRESCERE E’...!' → 'Crescere E’...!'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed title slide: 'Crescere e’!!!!!!!!!!!!!!!!!!!'
+  Processed: 2026-02-02T18:13:19.445823
+----------------------------------------
+File: 79 ERES MI TODO.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '79'
+    - Converted to Title Case: '79 ERES MI TODO' → 'Eres Mi Todo'
+    - Removed title slide: 'Eres mi todo'
+  Processed: 2026-02-02T18:13:19.533130
+----------------------------------------
+File: 9 CANTO DE ALEGRIA.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed number prefix: '9'
+    - Converted to Title Case: '9 CANTO DE ALEGRIA' → 'Canto De Alegria'
+    - Removed title from slide 1: 'Canto de alegria'
+    - Detected chorus labels: Rit.
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:19.668969
+----------------------------------------
+File: A Dio sia la gloria.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'A Dio sia la gloria' → 'A Dio Sia La Gloria'
+    - Removed title slide: 'A Dio sia la gloria'
+  Processed: 2026-02-02T18:13:19.774216
+----------------------------------------
+File: AL SICURO IN TE.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'AL SICURO IN TE' → 'Al Sicuro In Te'
+    - Removed title slide: 'Al sicuro in Te'
+  Processed: 2026-02-02T18:13:19.861474
+----------------------------------------
+File: ALLA TUA PRESENZA.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'ALLA TUA PRESENZA' → 'Alla Tua Presenza'
+    - Removed title slide: 'Alla tua presenza'
+  Processed: 2026-02-02T18:13:19.942067
+----------------------------------------
+File: APRI GLI OCCHI DEL CUORE.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'APRI GLI OCCHI DEL CUORE' → 'Apri Gli Occhi Del Cuore'
+    - Removed title slide: 'Apri gli occhi del cuore'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:20.051442
+----------------------------------------
+File: BENEDICI IL SIGNOR.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'BENEDICI IL SIGNOR' → 'Benedici Il Signor'
+    - Removed title slide: 'Benedici il signor'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:20.170272
+----------------------------------------
+File: CAMMINERO'.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'CAMMINERO'' → 'Camminero''
+    - Removed title slide: 'Camminerò'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:20.274246
+----------------------------------------
+File: Camminiamo sul sentiero.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Camminiamo sul sentiero' → 'Camminiamo Sul Sentiero'
+    - Removed title slide: 'Camminiamo sul sentiero'
+  Processed: 2026-02-02T18:13:20.376283
+----------------------------------------
+File: Canto degli esploratori.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Canto degli esploratori' → 'Canto Degli Esploratori'
+    - Removed title slide: 'Canto degli esploratori'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:20.472357
+----------------------------------------
+File: Chi è venuto in chiesa oggi.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Chi è venuto in chiesa oggi' → 'Chi È Venuto In Chiesa Oggi'
+    - Removed title slide: 'Chi è venuto in chiesa oggi'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:20.567518
+----------------------------------------
+File: Con Gesù nella famiglia.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Con Gesù nella famiglia' → 'Con Gesù Nella Famiglia'
+    - Removed title slide: 'Con Gesù nella famiglia'
+  Processed: 2026-02-02T18:13:20.666349
+----------------------------------------
+File: CON TE VICINO.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'CON TE VICINO' → 'Con Te Vicino'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed title slide: 'Con te vicino'
+  Processed: 2026-02-02T18:13:23.495550
+----------------------------------------
+File: CON TUTTO IL CUOR.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'CON TUTTO IL CUOR' → 'Con Tutto Il Cuor'
+    - Removed title slide: 'Con tutto il cuor'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:23.598308
+----------------------------------------
+File: CRISTO TORNERA’.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'CRISTO TORNERA’' → 'Cristo Tornera’'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed title slide: 'Cristo tornera’'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:26.273184
+----------------------------------------
+File: DA ORA IN POI.odp
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'DA ORA IN POI' → 'Da Ora In Poi'
+    - Converted from legacy .odp format via LibreOffice
+    - Removed title slide: 'Da ora in poi'
+  Processed: 2026-02-02T18:13:31.437514
+----------------------------------------
+File: DALLA NASCITA DEL  SOL.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'DALLA NASCITA DEL  SOL' → 'Dalla Nascita Del Sol'
+    - Removed title slide: 'Dalla nascita del sol'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:31.558368
+----------------------------------------
+File: Dall’aurora al tramonto.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Dall’aurora al tramonto' → 'Dall’aurora Al Tramonto'
+    - Removed formatted title line: 'Dall’aurora al tramonto'
+  Processed: 2026-02-02T18:13:31.655608
+----------------------------------------
+File: DIO E' QUI CON NOI.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'DIO E' QUI CON NOI' → 'Dio E' Qui Con Noi'
+    - Removed title slide: 'Dio è qui con noi!'
+  Processed: 2026-02-02T18:13:31.734704
+----------------------------------------
+File: DIOS PUEDE SALVAR!.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'DIOS PUEDE SALVAR!' → 'Dios Puede Salvar!'
+    - Removed title slide: 'Dios puede salvar'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:31.838828
+----------------------------------------
+File: E' BELLO STARE QUI.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'E' BELLO STARE QUI' → 'E' Bello Stare Qui'
+    - Removed title slide: 'E’ bello stare qui'
+  Processed: 2026-02-02T18:13:31.918153
+----------------------------------------
+File: ERO MOLTO LONTANO.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'ERO MOLTO LONTANO' → 'Ero Molto Lontano'
+    - Removed title slide: 'Ero molto lontano'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:32.028172
+----------------------------------------
+File: FIGLIO DI LUCE.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'FIGLIO DI LUCE' → 'Figlio Di Luce'
+    - Removed title slide: 'Figlio di luce'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:32.131986
+----------------------------------------
+File: FIUME, FIUME.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'FIUME, FIUME' → 'Fiume, Fiume'
+    - Removed title slide: 'Fiume, fiume'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:32.218822
+----------------------------------------
+File: GESU' TI INNALZIAMO.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'GESU' TI INNALZIAMO' → 'Gesu' Ti Innalziamo'
+    - Removed title slide: 'Gesù ti innalziamo'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:32.334826
+----------------------------------------
+File: GESU’ DOLCE MUSICA.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'GESU’ DOLCE MUSICA' → 'Gesu’ Dolce Musica'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed title slide: 'Gesu’ dolce musica'
+  Processed: 2026-02-02T18:13:36.347755
+----------------------------------------
+File: Gloria al Signor.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Gloria al Signor' → 'Gloria Al Signor'
+    - Removed title slide: 'Gloria al Signor'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:36.485561
+----------------------------------------
+File: GRANDE IN FORZA_.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed trailing underscore(s)
+    - Converted to Title Case: 'GRANDE IN FORZA_' → 'Grande In Forza'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed title slide: 'Grande in forza'
+  Processed: 2026-02-02T18:13:40.915880
+----------------------------------------
+File: HO FATTO UN MAZZOLINO.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'HO FATTO UN MAZZOLINO' → 'Ho Fatto Un Mazzolino'
+    - Removed title slide: 'Ho fatto un mazzolino'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:41.082549
+----------------------------------------
+File: I DUE LIOCORNI.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'I DUE LIOCORNI' → 'I Due Liocorni'
+    - Removed title slide: 'I due liocorni'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:41.202449
+----------------------------------------
+File: Il signor presto verrà.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Il signor presto verrà' → 'Il Signor Presto Verrà'
+    - Removed title slide: 'Il Signor presto verrà'
+  Processed: 2026-02-02T18:13:41.332550
+----------------------------------------
+File: IL TUO AMORE ANNUNCERO’.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'IL TUO AMORE ANNUNCERO’' → 'Il Tuo Amore Annuncero’'
+    - Removed title slide: 'Il tuo amore annuncero’'
+  Processed: 2026-02-02T18:13:41.454435
+----------------------------------------
+File: Il Tuo amore annuncerò.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Il Tuo amore annuncerò' → 'Il Tuo Amore Annuncerò'
+    - Removed title slide: 'Il Tuo amore annuncerò'
+    - Detected chorus labels: Rit:
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:41.650212
+----------------------------------------
+File: INDESCRIVIBILE.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'INDESCRIVIBILE' → 'Indescrivibile'
+    - Removed title slide: 'Indescrivibile'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:41.784753
+----------------------------------------
+File: Insieme noi stiamo pregando.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Insieme noi stiamo pregando' → 'Insieme Noi Stiamo Pregando'
+    - Removed title slide: 'Insieme noi stiamo pregando'
+  Processed: 2026-02-02T18:13:41.876997
+----------------------------------------
+File: INSIEME PIU' FORTI.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'INSIEME PIU' FORTI' → 'Insieme Piu' Forti'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed title slide: 'Insieme piu’ forti'
+  Processed: 2026-02-02T18:13:47.165552
+----------------------------------------
+File: IO SONO L'ARGILLA, OH MIO SIGNOR.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'IO SONO L'ARGILLA, OH MIO SIGNOR' → 'Io Sono L'Argilla, Oh Mio Signor'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed formatted title line: '83   Io sono l’argilla, o mio Signor'
+  Processed: 2026-02-02T18:13:52.481423
+----------------------------------------
+File: JESUS TE NECESITA HOY.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'JESUS TE NECESITA HOY' → 'Jesus Te Necesita Hoy'
+    - Removed title slide: 'Jesus te necesita hoy'
+    - Detected chorus labels: RIT:
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:52.617839
+----------------------------------------
+File: Kumbaya.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Kumbaya'
+  Processed: 2026-02-02T18:13:52.757938
+----------------------------------------
+File: L'appello del Maestro.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'L'appello del Maestro' → 'L'Appello Del Maestro'
+    - Removed title slide: 'L’appello del Maestro'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:52.919908
+----------------------------------------
+File: La campana fa din don dan.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'La campana fa din don dan' → 'La Campana Fa Din Don Dan'
+    - Removed title slide: 'La campana fa din don dan'
+  Processed: 2026-02-02T18:13:53.050604
+----------------------------------------
+File: LA CANZONE DELLA FELICITA’.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'LA CANZONE DELLA FELICITA’' → 'La Canzone Della Felicita’'
+    - Removed title slide: 'La canzone della felicita’'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:53.204037
+----------------------------------------
+File: LA GRANDE FIAMMATA.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'LA GRANDE FIAMMATA' → 'La Grande Fiammata'
+    - Removed title slide: 'La grande fiammata'
+  Processed: 2026-02-02T18:13:53.308429
+----------------------------------------
+File: LA MIA ANIMA CERCA TE.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'LA MIA ANIMA CERCA TE' → 'La Mia Anima Cerca Te'
+    - Removed title slide: 'La mia anima cerca Te'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:53.448305
+----------------------------------------
+File: LA MIA VITA PER TE.odp
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'LA MIA VITA PER TE' → 'La Mia Vita Per Te'
+    - Converted from legacy .odp format via LibreOffice
+    - Removed title slide: 'La mia vita per te'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:58.955237
+----------------------------------------
+File: LASCIA CHE IL TUO FIUME.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'LASCIA CHE IL TUO FIUME' → 'Lascia Che Il Tuo Fiume'
+    - Removed title slide: 'Lascia che il tuo fiume'
+    - Auto-detected 3 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:59.133287
+----------------------------------------
+File: LODA ADONAI.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'LODA ADONAI' → 'Loda Adonai'
+    - Removed title slide: 'Loda  adonai'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:13:59.261384
+----------------------------------------
+File: Lode all’Altissimo.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Lode all’Altissimo' → 'Lode All’altissimo'
+    - Removed title slide: 'Lode all’Altissimo'
+  Processed: 2026-02-02T18:13:59.424793
+----------------------------------------
+File: LODIAMO IL SIGNORE.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'LODIAMO IL SIGNORE' → 'Lodiamo Il Signore'
+    - Removed title slide: 'Lodiamo il signore'
+  Processed: 2026-02-02T18:13:59.543808
+----------------------------------------
+File: MANI.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'MANI' → 'Mani'
+    - Removed title from slide 1: 'Mani'
+  Processed: 2026-02-02T18:13:59.766082
+----------------------------------------
+File: METTI LUCE.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'METTI LUCE' → 'Metti Luce'
+    - Removed title slide: 'Metti luce'
+  Processed: 2026-02-02T18:13:59.893165
+----------------------------------------
+File: MIO SIGNORE.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'MIO SIGNORE' → 'Mio Signore'
+    - Removed title slide: 'Mio Signore'
+  Processed: 2026-02-02T18:14:00.036316
+----------------------------------------
+File: MOMENTI COSI’.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'MOMENTI COSI’' → 'Momenti Cosi’'
+    - Removed title slide: 'Momenti cosi’'
+  Processed: 2026-02-02T18:14:00.180867
+----------------------------------------
+File: OH QUANTA GIOIA.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'OH QUANTA GIOIA' → 'Oh Quanta Gioia'
+    - Removed title slide: 'Oh, quanta gioia!'
+  Processed: 2026-02-02T18:14:00.334012
+----------------------------------------
+File: PARLAR CON DIO.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'PARLAR CON DIO' → 'Parlar Con Dio'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed title slide: 'Parlar con dio'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:05.021523
+----------------------------------------
+File: POSSO SOLO SOGNARE.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'POSSO SOLO SOGNARE' → 'Posso Solo Sognare'
+    - Removed title slide: 'Posso solo sognare'
+    - Detected chorus labels: Rit.
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:05.164330
+----------------------------------------
+File: PUNTA IN ALTO.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'PUNTA IN ALTO' → 'Punta In Alto'
+    - Removed title slide: 'Punta in alto'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:05.288661
+----------------------------------------
+File: RESTA QUI CON NOI.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'RESTA QUI CON NOI' → 'Resta Qui Con Noi'
+    - Removed title slide: 'Resta qui con noi'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:05.383958
+----------------------------------------
+File: SE SEI FELICE.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'SE SEI FELICE' → 'Se Sei Felice'
+    - Removed title slide: 'Se sei felice'
+  Processed: 2026-02-02T18:14:05.472076
+----------------------------------------
+File: SEI DI PIU'.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'SEI DI PIU'' → 'Sei Di Piu''
+    - Removed title slide: 'Sei di più'
+  Processed: 2026-02-02T18:14:05.555518
+----------------------------------------
+File: Sei giorni abbiam per lavorar.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Sei giorni abbiam per lavorar' → 'Sei Giorni Abbiam Per Lavorar'
+  Processed: 2026-02-02T18:14:05.633708
+----------------------------------------
+File: Symbolum ’77(549).pptx
+  Status: SUCCESS
+  Has Media: No
+  Processed: 2026-02-02T18:14:05.720542
+----------------------------------------
+File: TENGO PAZ.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'TENGO PAZ' → 'Tengo Paz'
+    - Removed title from slide 1: 'Tengo paz'
+  Processed: 2026-02-02T18:14:05.814686
+----------------------------------------
+File: Tra i canti d'esultanza.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Tra i canti d'esultanza' → 'Tra I Canti D'Esultanza'
+    - Removed title slide: 'Tra i canti d’esultanza'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+    - Merged 2 consecutive identical chorus blocks into one with (2X)
+  Processed: 2026-02-02T18:14:05.956246
+----------------------------------------
+File: Tu sei il mio rifugio.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Tu sei il mio rifugio' → 'Tu Sei Il Mio Rifugio'
+    - Removed title slide: 'Tu Sei Il Mio Rifugio'
+  Processed: 2026-02-02T18:14:06.057972
+----------------------------------------
+File: UNICA VIA_.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed trailing underscore(s)
+    - Converted to Title Case: 'UNICA VIA_' → 'Unica Via'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed title slide: 'Unica via'
+    - Detected chorus labels: RIT:
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:08.848598
+----------------------------------------
+File: Vengo al tuo trono, o mio Signor289.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Vengo al tuo trono, o mio Signor289' → 'Vengo Al Tuo Trono, O Mio Signor289'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:08.965240
+----------------------------------------
+File: VOGLIO VIVERE.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'VOGLIO VIVERE' → 'Voglio Vivere'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed title slide: 'Voglio vivere'
+  Processed: 2026-02-02T18:14:11.748934
+----------------------------------------

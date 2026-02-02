@@ -1398,3 +1398,177 @@ File: Tu sei santo.pptx
     - Removed title slide: 'Tu sei santo'
   Processed: 2026-02-02T16:05:43.933413
 ----------------------------------------
+File: Alla tua presenza.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Alla tua presenza' → 'Alla Tua Presenza'
+    - Removed title slide: 'Alla tua presenza'
+    - Auto-detected 4 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:32.548169
+----------------------------------------
+File: Canto di vittoria.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Canto di vittoria' → 'Canto Di Vittoria'
+    - Removed title slide: 'Canto di Vittoria'
+  Processed: 2026-02-02T18:14:32.676211
+----------------------------------------
+File: Che magnifico nome.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Che magnifico nome' → 'Che Magnifico Nome'
+    - Removed title slide: 'Che magnifico nome'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:32.782454
+----------------------------------------
+File: GESU’ DOLCE MUSICA.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'GESU’ DOLCE MUSICA' → 'Gesu’ Dolce Musica'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed title slide: 'Gesu’ dolce musica'
+  Processed: 2026-02-02T18:14:35.517126
+----------------------------------------
+File: Il potere dell'amore.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Il potere dell'amore' → 'Il Potere Dell'Amore'
+    - Removed title slide: 'Il potere dell’amore'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:35.614998
+----------------------------------------
+File: io canterò del tuo nome.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'io canterò del tuo nome' → 'Io Canterò Del Tuo Nome'
+    - Removed title from slide 1: 'Io canterò del tuo nome'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:35.763365
+----------------------------------------
+File: Io ti dono il mio cuor.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Io ti dono il mio cuor' → 'Io Ti Dono Il Mio Cuor'
+    - Removed title slide: 'Io ti dono il mio cuor'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:35.852358
+----------------------------------------
+File: La casa sulla roccia.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'La casa sulla roccia' → 'La Casa Sulla Roccia'
+    - Removed title slide: 'La casa sulla roccia'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:35.951843
+----------------------------------------
+File: LA LUCE VEDRA'.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'LA LUCE VEDRA'' → 'La Luce Vedra''
+    - Removed title slide: 'La luce vedra’'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:36.032847
+----------------------------------------
+File: Meraviglioso sei.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Meraviglioso sei' → 'Meraviglioso Sei'
+    - Removed title slide: 'Meraviglioso sei'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:36.114800
+----------------------------------------
+File: Proviamo a farlo anche noi.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Proviamo a farlo anche noi' → 'Proviamo A Farlo Anche Noi'
+    - Removed title slide: 'Proviamo a farlo anche noi'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:36.219052
+----------------------------------------
+File: Quando penso a Cristo.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Quando penso a Cristo' → 'Quando Penso A Cristo'
+    - Removed title slide: 'Quando penso a cristo'
+  Processed: 2026-02-02T18:14:36.313454
+----------------------------------------
+File: QUANDO TU TORNERAI.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'QUANDO TU TORNERAI' → 'Quando Tu Tornerai'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:36.396814
+----------------------------------------
+File: QUESTA E' LA MIA FEDE - USARE QUESTO.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'QUESTA E' LA MIA FEDE - USARE QUESTO' → 'Questa E' La Mia Fede - Usare Questo'
+  Processed: 2026-02-02T18:14:36.484253
+----------------------------------------
+File: Questa è la mia fede.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Questa è la mia fede' → 'Questa È La Mia Fede'
+    - Removed title slide: 'Questa e’ la Mia fede'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:36.599722
+----------------------------------------
+File: Renderemo Gesù famoso.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Renderemo Gesù famoso' → 'Renderemo Gesù Famoso'
+    - Removed title slide: 'RENDEREMO GESù FAMOSO'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:36.756299
+----------------------------------------
+File: Se il mio popolo prega.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Se il mio popolo prega' → 'Se Il Mio Popolo Prega'
+    - Removed title slide: 'Se il mio popolo Prega'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:36.846930
+----------------------------------------
+File: Son soddisfatto.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Son soddisfatto' → 'Son Soddisfatto'
+    - Removed title slide: 'Son soddisfatto'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:36.946885
+----------------------------------------
+File: Sono qui a lodarti.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Sono qui a lodarti' → 'Sono Qui A Lodarti'
+    - Removed title slide: 'Sono qui a lodarti'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T18:14:37.086302
+----------------------------------------
+File: Tu sei santo.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Tu sei santo' → 'Tu Sei Santo'
+    - Removed title slide: 'Tu sei santo'
+  Processed: 2026-02-02T18:14:37.163974
+----------------------------------------
