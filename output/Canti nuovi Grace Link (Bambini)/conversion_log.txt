@@ -581,3 +581,87 @@ File: Sono piccolo ma Gesù.pptx
     - Auto-detected 1 chorus pattern(s) from repeated blocks
   Processed: 2026-02-02T12:46:54.454768
 ----------------------------------------
+File: C'è tanta gioia.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'C'è tanta gioia' → 'C'È Tanta Gioia'
+    - Removed title slide: 'C’e’ tanta gioia'
+  Processed: 2026-02-02T16:05:43.980596
+----------------------------------------
+File: Gesù cambia tutto.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Gesù cambia tutto' → 'Gesù Cambia Tutto'
+    - Removed title slide: 'Gesu’ cambia tutto'
+  Processed: 2026-02-02T16:05:44.047357
+----------------------------------------
+File: Gesù il Creatore.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Gesù il Creatore' → 'Gesù Il Creatore'
+    - Removed title slide: 'gesu’ il creatore'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T16:05:44.108043
+----------------------------------------
+File: Gesù m'ama.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Gesù m'ama' → 'Gesù M'Ama'
+  Processed: 2026-02-02T16:05:44.148247
+----------------------------------------
+File: Il frutto dello Spirito.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Il frutto dello Spirito' → 'Il Frutto Dello Spirito'
+    - Removed title slide: 'Il frutto dello spirito'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T16:05:44.197825
+----------------------------------------
+File: Io ho un amico che mi ama.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Io ho un amico che mi ama' → 'Io Ho Un Amico Che Mi Ama'
+    - Removed title slide: 'Io ho un amico che Mi ama'
+  Processed: 2026-02-02T16:05:44.245398
+----------------------------------------
+File: La mia offerta.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'La mia offerta' → 'La Mia Offerta'
+    - Removed title slide: 'La mia offerta'
+  Processed: 2026-02-02T16:05:44.281510
+----------------------------------------
+File: La sua luce splende nella vita mia.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'La sua luce splende nella vita mia' → 'La Sua Luce Splende Nella Vita Mia'
+    - Removed title slide: 'La sua luce splende nella vita mia'
+    - Detected chorus labels: Rit.
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T16:05:44.329399
+----------------------------------------
+File: Nel sacchetto metto.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Nel sacchetto metto' → 'Nel Sacchetto Metto'
+    - Removed title slide: 'Nel sacchetto metto'
+  Processed: 2026-02-02T16:05:44.366411
+----------------------------------------
+File: Sono piccolo ma Gesù.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: 'Sono piccolo ma Gesù' → 'Sono Piccolo Ma Gesù'
+    - Removed title slide: 'Sono piccolo ma gesu’'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-02T16:05:44.430530
+----------------------------------------

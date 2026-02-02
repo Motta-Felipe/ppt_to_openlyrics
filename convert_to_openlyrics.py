@@ -809,27 +809,62 @@ def parse_slides_to_blocks(slides_text: list[list[str]], title: str,
     return blocks
 
 
-def deduplicate_blocks(blocks: list[dict]) -> list[dict]:
+def deduplicate_blocks(blocks: list[dict], changes: list = None) -> list[dict]:
     """
     Remove consecutive duplicate blocks (same content).
+    When duplicates are found, adds "(2X)" etc. to indicate repetition count.
+    If changes list is provided, logs when blocks are deduplicated.
     """
     if not blocks:
         return blocks
     
-    result = [blocks[0]]
+    result = []
+    i = 0
     
-    for block in blocks[1:]:
-        prev_key = '\n'.join(result[-1]['lines']).lower()
-        curr_key = '\n'.join(block['lines']).lower()
+    while i < len(blocks):
+        current_block = blocks[i]
+        current_key = '\n'.join(current_block['lines']).lower()
         
-        if curr_key != prev_key:
-            result.append(block)
+        # Count consecutive duplicates
+        repeat_count = 1
+        j = i + 1
+        while j < len(blocks):
+            next_key = '\n'.join(blocks[j]['lines']).lower()
+            if next_key == current_key:
+                repeat_count += 1
+                j += 1
+            else:
+                break
+        
+        # If there are repetitions, add "(2X)" etc. to the last line
+        if repeat_count > 1:
+            block_type = current_block['type']
+            block_num = current_block['number']
+            if changes is not None:
+                changes.append(f"Merged {repeat_count} consecutive identical {block_type} blocks into one with ({repeat_count}X)")
+            
+            # Create a copy with (NX) notation on a new line
+            modified_lines = current_block['lines'].copy()
+            if modified_lines:
+                modified_lines.append(f"({repeat_count}X)")
+            
+            result.append({
+                'type': current_block['type'],
+                'lines': modified_lines,
+                'number': current_block['number']
+            })
+        else:
+            result.append(current_block)
+        
+        # Skip past all the duplicates
+        i = j
     
     return result
 
 
 def generate_openlyrics_xml(title: str, blocks: list[dict], 
-                           songbook_name: str = None, songbook_entry: str = None) -> str:
+                           songbook_name: str = None, songbook_entry: str = None,
+                           changes: list = None) -> str:
     """
     Generate OpenLyrics 0.8 XML from parsed blocks.
     
@@ -838,9 +873,10 @@ def generate_openlyrics_xml(title: str, blocks: list[dict],
         blocks: List of verse/chorus blocks
         songbook_name: Optional songbook name (typically title without number)
         songbook_entry: Optional entry number in the songbook
+        changes: Optional list to track changes/deduplication info
     """
     # Deduplicate consecutive identical blocks
-    blocks = deduplicate_blocks(blocks)
+    blocks = deduplicate_blocks(blocks, changes)
     
     # Renumber verses and choruses sequentially
     verse_counter = 0
@@ -985,7 +1021,8 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
                 xml_content = generate_openlyrics_xml(
                     title, blocks,
                     songbook_name=songbook_name if add_songbook else None,
-                    songbook_entry=songbook_entry if add_songbook else None
+                    songbook_entry=songbook_entry if add_songbook else None,
+                    changes=changes
                 )
                 
                 # Write XML file
@@ -1029,7 +1066,8 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
         xml_content = generate_openlyrics_xml(
             title, blocks,
             songbook_name=songbook_name if add_songbook else None,
-            songbook_entry=songbook_entry if add_songbook else None
+            songbook_entry=songbook_entry if add_songbook else None,
+            changes=changes
         )
         
         # Write XML file

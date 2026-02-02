@@ -6,14 +6,11 @@
     </titles>
   </properties>
   <lyrics>
+    <verse name="c1">
+      <lines>Sonreir el rostro iluminar,<br />levantar las manos hacia Dios,<br />vuestras manos estrechad ,<br />que felicidad…<br />(2X)</lines>
+    </verse>
     <verse name="v1">
-      <lines>SonreirSonreir el rostro iluminar,levantar las manos hacia Dios,vuestras manos estrechad ,que felicidad…</lines>
-    </verse>
-    <verse name="v2">
-      <lines>Sonreir el rostro iluminar,levantar las manos hacia Dios,vuestras manos estrechad ,que felicidad…</lines>
-    </verse>
-    <verse name="v3">
-      <lines>Sonreir el rostro iluminar,levantar las manos hacia Dios,vuestras manos estrechad ,que felicidad…vuestras manos estrechad ,que felicidad…</lines>
+      <lines>Sonreir el rostro iluminar,<br />levantar las manos hacia Dios,<br />vuestras manos estrechad ,<br />que felicidad…<br />vuestras manos estrechad ,<br />que felicidad…</lines>
     </verse>
   </lyrics>
 </song>
