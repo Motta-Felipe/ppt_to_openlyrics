@@ -4,6 +4,14 @@ PPT/PPTX to OpenLyrics 0.8 Converter
 
 Converts PowerPoint presentation files containing song lyrics to OpenLyrics XML format.
 Follows the rules in agent_instructions.md.
+
+Usage:
+    python convert_to_openlyrics.py [input_path]
+
+    input_path: Optional path to a folder or single file to process.
+                If not provided, defaults to 'input' folder.
+                If a file, processes that single file.
+                If a folder, processes all supported files in it.
 """
 
 import os
@@ -1094,21 +1102,47 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
 
 def main():
     """Main entry point."""
-    input_base = Path("input")
+    # Accept optional command-line argument for input path
+    input_path_str = sys.argv[1] if len(sys.argv) > 1 else "input"
+    input_path = Path(input_path_str)
+    
+    if not input_path.exists():
+        print(f"Error: {input_path} not found")
+        sys.exit(1)
+    
     output_base = Path("output")
     input_done = Path("input_done")
-    
-    if not input_base.exists():
-        print("Error: input folder not found")
-        sys.exit(1)
     
     output_base.mkdir(exist_ok=True)
     input_done.mkdir(exist_ok=True)
     
+    if input_path.is_file():
+        # Process single file
+        output_folder = output_base / "single_files"
+        output_folder.mkdir(exist_ok=True)
+        
+        log = ConversionLog(output_folder / "conversion_log.txt")
+        
+        print(f"Processing single file: {input_path.name}")
+        
+        if convert_file(input_path, output_folder, log):
+            print("    [OK] Converted successfully")
+            # Move processed file to input_done
+            try:
+                shutil.move(str(input_path), str(input_done / input_path.name))
+                print(f"    Moved file '{input_path.name}' to input_done")
+            except Exception as e:
+                print(f"    Warning: Could not move file '{input_path.name}' to input_done: {e}")
+        else:
+            print("    [SKIP] Skipped or failed")
+        
+        return  # Done processing single file
+    
+    # Process directory (original logic)
     total_success = 0
     total_skip = 0
     
-    for subfolder in sorted(input_base.iterdir()):
+    for subfolder in sorted(input_path.iterdir()):
         if not subfolder.is_dir():
             continue
         
@@ -1153,10 +1187,10 @@ def main():
         total_success += success_count
         total_skip += skip_count
     
-    # Also process any files directly in input_base
+    # Also process any files directly in input_path
     ppt_files = []
     for ext in SUPPORTED_EXTENSIONS:
-        ppt_files.extend(f for f in input_base.iterdir() if f.is_file() and f.suffix.lower() == ext)
+        ppt_files.extend(f for f in input_path.iterdir() if f.is_file() and f.suffix.lower() == ext)
     
     if ppt_files:
         output_folder = output_base / "root_files"
