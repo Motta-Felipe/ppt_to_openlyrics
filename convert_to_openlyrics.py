@@ -69,7 +69,7 @@ def convert_ppt_to_pptx(ppt_path: Path, temp_dir: Path) -> Path | None:
 
 # Patterns for detection
 VERSE_MARKER_PATTERN = re.compile(r'^(\d+)[°ª]?\s*strofa\b', re.IGNORECASE)
-CHORUS_LABEL_PATTERN = re.compile(r'^(ritornello|rit\.?)(?:\s|:\s*$|$)', re.IGNORECASE)
+CHORUS_LABEL_PATTERN = re.compile(r'^(ritornello|rit\.?)(?::\s*|\s|$)', re.IGNORECASE)
 TITLE_NUMBER_PATTERN = re.compile(r'^(\d+)\s*[-–—.]?\s*')
 CHURCH_FILTER_PATTERN = re.compile(r'chiesa.*olgiate', re.IGNORECASE)
 

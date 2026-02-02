@@ -13,10 +13,7 @@
       <lines>possano i nostri canti<br />scaldarti il cuor,<br />ma c’è un’altra<br />cosa che vorrei.</lines>
     </verse>
     <verse name="v3">
-      <lines>Io vorrei, io vorrei</lines>
-    </verse>
-    <verse name="c1">
-      <lines>rovarti in cielo<br />un giorno insieme a Lui;<br />per cantar, ricordar,<br />come Gesù ci conquistò,<br />io vorrei …</lines>
+      <lines>Io vorrei, io vorrei<br />ritrovarti in cielo<br />un giorno insieme a Lui;<br />per cantar, ricordar,<br />come Gesù ci conquistò,<br />io vorrei…</lines>
     </verse>
     <verse name="v4">
       <lines>Possa il Signore esser<br />la luce che<br />fa chiaro il  tuo cielo,<br />come se</lines>
@@ -24,11 +21,8 @@
     <verse name="v5">
       <lines>ci fosse sempre il sole,<br />un sole che<br />brilla e non tramonta mai.</lines>
     </verse>
-    <verse name="v3">
-      <lines>Io vorrei, io vorrei</lines>
-    </verse>
-    <verse name="c2">
-      <lines>rovarti in cielo<br />un giorno insieme a Lui;<br />per cantar, ricordar,<br />come Gesù ci conquistò,<br />io vorrei…</lines>
+    <verse name="C2">
+      <lines>Io vorrei, io vorrei<br />ritrovarti in cielo<br />un giorno insieme a Lui;<br />per cantar, ricordar,<br />come Gesù ci conquistò,<br />io vorrei…</lines>
     </verse>
   </lyrics>
 </song>
