@@ -7,24 +7,21 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Dios puede salvar</lines>
-    </verse>
-    <verse name="v2">
       <lines>Todos necesitan amor que nunca falla,<br />Tu gracia y compacìon.<br />Todos necesitan perdon y esperanza,<br />De un Dios que salva.</lines>
     </verse>
     <verse name="c1">
       <lines>Cristo puede mover montes<br />Solo Dios puede salvar, mi Dios puede salvar!<br />Por siempre, autor de salvacion,<br />Jesus la muerte venciò<br />El la muerte venciò!</lines>
     </verse>
-    <verse name="v3">
+    <verse name="v2">
       <lines>Aun con mis temores,<br />se que me aceptas, llename otra vez.<br />Mi vida entera ofrezco,<br />Para seguir tus pasos, a ti me rindo!</lines>
     </verse>
     <verse name="c1">
       <lines>Cristo puede mover montes<br />Solo Dios puede salvar, mi Dios puede salvar!<br />Por siempre, autor de salvacion,<br />Jesus la muerte venciò<br />El la muerte venciò!</lines>
     </verse>
-    <verse name="v4">
+    <verse name="v3">
       <lines>En la tierra Tu luz brillara!<br />Cantamos, por la gloria de Tu Majestad!<br />(Jesus)<br />En la tierra Tu luz brillara!<br />Cantamos, por la gloria de Tu Majestad…</lines>
     </verse>
-    <verse name="v5">
+    <verse name="v4">
       <lines>Cristo puede mover montes<br />Solo Dios puede salvar, mi Dios puede salvar!<br />Por siempre, autor de salvacion,<br />Jesus la muerte venciò<br />El la muerte venciò!<br />Jesus…</lines>
     </verse>
   </lyrics>

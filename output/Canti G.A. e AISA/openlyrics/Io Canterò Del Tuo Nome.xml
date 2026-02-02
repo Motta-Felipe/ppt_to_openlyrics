@@ -7,7 +7,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Io canterò del tuo nome<br />Settimana di preghiera dei giovani<br />Distretto di Bergamo<br />17-23 Marzo 2024</lines>
+      <lines>Settimana di preghiera dei giovani<br />Distretto di Bergamo<br />17-23 Marzo 2024</lines>
     </verse>
     <verse name="v2">
       <lines>Io canterò soltanto del tuo nome<br />Che sta al di sopra di ogni mal<br />Perché la pace ho in tua presenza<br />Io prego te</lines>
@@ -26,27 +26,6 @@
     </verse>
     <verse name="c1">
       <lines>Tu sei la forza<br />Tu sei salvezza<br />Tu sei amor<br />Vincimi tu<br />Ti lascio entrare<br />Io sono tuo</lines>
-    </verse>
-    <verse name="v6">
-      <lines>Salute fisica</lines>
-    </verse>
-    <verse name="v7">
-      <lines>Salute mentale</lines>
-    </verse>
-    <verse name="v8">
-      <lines>Salute emotiva</lines>
-    </verse>
-    <verse name="v9">
-      <lines>Salute lavorativa</lines>
-    </verse>
-    <verse name="v10">
-      <lines>Salute sociale</lines>
-    </verse>
-    <verse name="v11">
-      <lines>Salute alimentare</lines>
-    </verse>
-    <verse name="v12">
-      <lines>Salute spirituale</lines>
     </verse>
   </lyrics>
 </song>

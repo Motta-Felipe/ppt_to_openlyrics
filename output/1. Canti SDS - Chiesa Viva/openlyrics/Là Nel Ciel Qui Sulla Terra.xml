@@ -7,24 +7,21 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Lá nel ciel qui sulla terra</lines>
-    </verse>
-    <verse name="v2">
       <lines>Là  nel ciel, qui sulla terra<br />pel mio cuor fervente e grato<br />non c'è nome più adorato<br />del bel nome di Gesù.</lines>
     </verse>
+    <verse name="v2">
+      <lines>Gesù Cristo, che bel nome<br />porta il Santo del Signore,<br />che mi amò d'immenso amore,<br />che mi aprì le vie del ciel.</lines>
+    </verse>
     <verse name="v3">
+      <lines>Nessun uomo sulla terra,<br />sia pur ricco di tesori<br />abbia pur di re gli onori,<br />è più grande di Gesù.</lines>
+    </verse>
+    <verse name="v2">
       <lines>Gesù Cristo, che bel nome<br />porta il Santo del Signore,<br />che mi amò d'immenso amore,<br />che mi aprì le vie del ciel.</lines>
     </verse>
     <verse name="v4">
-      <lines>Nessun uomo sulla terra,<br />sia pur ricco di tesori<br />abbia pur di re gli onori,<br />è più grande di Gesù.</lines>
-    </verse>
-    <verse name="v3">
-      <lines>Gesù Cristo, che bel nome<br />porta il Santo del Signore,<br />che mi amò d'immenso amore,<br />che mi aprì le vie del ciel.</lines>
-    </verse>
-    <verse name="v5">
       <lines>Mi è prezioso il santo affetto<br />di fratello o genitore,<br />ma non c'è nel mondo amore<br />pari a quello di Gesù.</lines>
     </verse>
-    <verse name="v3">
+    <verse name="v2">
       <lines>Gesù Cristo, che bel nome<br />porta il Santo del Signore,<br />che mi amò d'immenso amore,<br />che mi aprì le vie del ciel.</lines>
     </verse>
   </lyrics>

@@ -7,18 +7,15 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Dio è qui con noi!</lines>
-    </verse>
-    <verse name="v2">
       <lines>Dio è qui con noi,<br />sicuro come l’aria che respiro,<br />sicuro come il sole sorge nel mattino<br />sicuro come sto’ cantando, lo puoi sentir. (x2)</lines>
     </verse>
-    <verse name="v3">
+    <verse name="v2">
       <lines>Lo puoi sentir qui in questo istante,<br />lo puoi sentir dentro al tuo cuor,<br />lo puoi provare in tutti i tuoi problemi<br />lo puoi sentir, Dio è qui.</lines>
     </verse>
-    <verse name="v4">
+    <verse name="v3">
       <lines>Dios esta aqui<br />tan cierto como el aire que respiro,<br />tan cierto como la manana se levanta<br />tan cierto como yo te hablo<br />y me puedes oir. (x2)</lines>
     </verse>
-    <verse name="v5">
+    <verse name="v4">
       <lines>Lo puede sentir en este mismo istante<br />lo puede sentir muy cerca de tu corazon<br />te puede ayudar<br />en ese problema que tienes<br />Jesus esta aqui<br />si tu quieres, lo puede sentir.</lines>
     </verse>
   </lyrics>

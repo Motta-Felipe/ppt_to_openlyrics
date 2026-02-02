@@ -6,25 +6,22 @@
     </titles>
   </properties>
   <lyrics>
-    <verse name="v1">
-      <lines>0nore e gloria</lines>
-    </verse>
     <verse name="c1">
-      <lines>lode e poter<br />al trono dell’Agnel<br />lode e poter<br />a Cristo, adesso e per sempre<br />nostro Gesù Salvator</lines>
+      <lines>Onore e gloria<br />lode e poter<br />al trono dell’Agnel<br />Onore e gloria<br />lode e poter<br />a Cristo, adesso e per sempre<br />nostro Gesù Salvator</lines>
     </verse>
-    <verse name="v2">
+    <verse name="v1">
       <lines>Tu sei l’Agnello<br />Sei morto per noi<br />Purificando i cuor<br />Redenti davanti a Dio<br />Vivremo con Te Signor</lines>
     </verse>
     <verse name="c1">
-      <lines>lode e poter<br />al trono dell’Agnel<br />lode e poter<br />a Cristo, adesso e per sempre<br />nostro Gesù Salvator</lines>
+      <lines>Onore e gloria<br />lode e poter<br />al trono dell’Agnel<br />Onore e gloria<br />lode e poter<br />a Cristo, adesso e per sempre<br />nostro Gesù Salvator</lines>
     </verse>
-    <verse name="v3">
+    <verse name="v2">
       <lines>Tu sei risorto, oh Re<br />la morte hai vinto!<br />Tu sei il vincitor!<br />Per sempre Tu regnerai<br />per tutta l’eternità</lines>
     </verse>
     <verse name="c1">
-      <lines>lode e poter<br />al trono dell’Agnel<br />lode e poter<br />a Cristo, adesso e per sempre<br />nostro Gesù Salvator</lines>
+      <lines>Onore e gloria<br />lode e poter<br />al trono dell’Agnel<br />Onore e gloria<br />lode e poter<br />a Cristo, adesso e per sempre<br />nostro Gesù Salvator</lines>
     </verse>
-    <verse name="v4">
+    <verse name="v3">
       <lines>A Cristo, adesso e per sempre<br />nostro Gesù Salvator</lines>
     </verse>
   </lyrics>
