@@ -270,6 +270,112 @@ def extract_text_from_pptx(pptx_path: Path) -> list[list[str]]:
     return slides_text
 
 
+def extract_first_line_formatting(pptx_path: Path, title: str) -> dict | None:
+    """
+    Extract formatting information for the first line/run of the first slide.
+    Returns a dict with 'text', 'is_bold', 'is_underline', 'font_size', 'avg_font_size', 'has_title_formatting'
+    or None if extraction fails.
+    
+    This is used as a fallback for title detection when other methods fail.
+    The first line is considered to have "title formatting" if:
+    - It has bold OR underline formatting
+    - AND its font size is >= 120% of the average body text font size (or is the only text)
+    - AND the text matches the title (with normalization)
+    """
+    try:
+        prs = Presentation(str(pptx_path))
+        
+        if not prs.slides:
+            return None
+        
+        first_slide = prs.slides[0]
+        first_run_info = None
+        all_runs_info = []  # Store info about all runs for comparison
+        
+        # Collect all runs and their formatting
+        for shape in first_slide.shapes:
+            if not shape.has_text_frame:
+                continue
+            
+            for para in shape.text_frame.paragraphs:
+                for run in para.runs:
+                    run_text = run.text.strip()
+                    if not run_text:
+                        continue
+                    
+                    run_info = {
+                        'text': run_text,
+                        'is_bold': bool(run.font.bold),
+                        'is_underline': bool(run.font.underline),
+                        'font_size': run.font.size.pt if run.font.size else None
+                    }
+                    all_runs_info.append(run_info)
+                    
+                    # Store first run info
+                    if first_run_info is None:
+                        first_run_info = run_info
+        
+        if first_run_info is None:
+            return None
+        
+        # Calculate average font size from all runs except the first
+        all_font_sizes = [r['font_size'] for r in all_runs_info if r['font_size']]
+        if first_run_info['font_size'] and len(all_font_sizes) > 1:
+            body_sizes = [s for s in all_font_sizes[1:]]  # Exclude first run
+            if body_sizes:
+                avg_body_size = sum(body_sizes) / len(body_sizes)
+            else:
+                avg_body_size = sum(all_font_sizes) / len(all_font_sizes)
+        elif all_font_sizes:
+            avg_body_size = sum(all_font_sizes) / len(all_font_sizes)
+        else:
+            avg_body_size = None
+        
+        first_run_info['avg_font_size'] = avg_body_size
+        
+        # Determine if first run has title formatting
+        has_title_formatting = False
+        first_text_normalized = _normalize_for_title_comparison(first_run_info['text'])
+        title_normalized = _normalize_for_title_comparison(title)
+        title_no_number = _normalize_for_title_comparison(TITLE_NUMBER_PATTERN.sub('', title).strip())
+        
+        # Text must match title
+        text_matches_title = (first_text_normalized == title_normalized or 
+                             (first_text_normalized == title_no_number and title_no_number))
+        
+        # Also check after removing number from first run text
+        first_text_no_number = _normalize_for_title_comparison(
+            TITLE_NUMBER_PATTERN.sub('', first_run_info['text']).strip()
+        )
+        text_matches_title = text_matches_title or (first_text_no_number == title_normalized)
+        text_matches_title = text_matches_title or (first_text_no_number == title_no_number and title_no_number)
+        
+        if text_matches_title:
+            # Check formatting criteria
+            has_formatting = first_run_info['is_bold'] or first_run_info['is_underline']
+            
+            # Check font size (>= 120% of body text) - only if there IS body text to compare
+            has_larger_font = False
+            only_title_on_slide = len(all_runs_info) == 1  # Only one run = just the title
+            if first_run_info['font_size'] and avg_body_size and avg_body_size > 0:
+                font_ratio = first_run_info['font_size'] / avg_body_size
+                has_larger_font = font_ratio >= 1.2  # 120%
+            
+            # Title formatting if:
+            # 1. Has bold/underline AND larger font (when there's body text to compare), OR
+            # 2. Has bold/underline AND is the only text on slide 1 (title slide), OR
+            # 3. Has bold/underline (text matches title, so formatting alone is enough)
+            has_title_formatting = has_formatting  # Simplified: just need formatting if text matches
+        
+        first_run_info['has_title_formatting'] = has_title_formatting
+        first_run_info['text_matches_title'] = text_matches_title
+        
+        return first_run_info
+        
+    except Exception:
+        return None
+
+
 def extract_media_from_pptx(pptx_path: Path, output_dir: Path, base_name: str) -> str | None:
     """
     Extract embedded audio from PPTX if present.
@@ -470,11 +576,14 @@ def _is_title_line(line: str, title: str, is_first_line: bool, is_isolated: bool
 
 
 def parse_slides_to_blocks(slides_text: list[list[str]], title: str, 
-                           changes: list = None) -> list[dict]:
+                           changes: list = None,
+                           first_line_has_title_formatting: bool = False) -> list[dict]:
     """
     Parse slide text into verse/chorus blocks.
     Returns list of {'type': 'verse'|'chorus', 'lines': [...], 'number': int}
     If changes list is provided, appends information about filtered content.
+    If first_line_has_title_formatting is True, the first line of slide 1 will be
+    removed if it matches the title (fallback for formatting-based title detection).
     """
     blocks = []
     verse_num = 0
@@ -483,6 +592,7 @@ def parse_slides_to_blocks(slides_text: list[list[str]], title: str,
     filtered_items = []  # Track what was filtered
     verse_markers_found = []
     chorus_labels_found = []
+    first_line_removed_by_formatting = False  # Track if we used formatting fallback
     
     # Pre-check: do all slides have the title as first isolated line?
     all_slides_have_title = _check_if_all_slides_have_title_first(slides_text, title)
@@ -514,6 +624,31 @@ def parse_slides_to_blocks(slides_text: list[list[str]], title: str,
                 if filtered_items is not None:
                     filtered_items.append(f"Removed title slide: '{combined_content}'")
                 continue
+        
+        # Fallback: Check if first line has title formatting (bold/underline + larger font)
+        # This only triggers on slide 0 if the whole slide wasn't already identified as a title slide
+        if slide_index == 0 and first_line_has_title_formatting and non_empty_lines and not first_line_removed_by_formatting:
+            first_line = non_empty_lines[0]
+            first_line_normalized = _normalize_for_title_comparison(first_line)
+            first_line_no_number = _normalize_for_title_comparison(TITLE_NUMBER_PATTERN.sub('', first_line).strip())
+            title_normalized = _normalize_for_title_comparison(title)
+            title_no_number = _normalize_for_title_comparison(TITLE_NUMBER_PATTERN.sub('', title).strip())
+            
+            if (first_line_normalized == title_normalized or 
+                first_line_normalized == title_no_number or
+                first_line_no_number == title_normalized or
+                (first_line_no_number == title_no_number and title_no_number)):
+                # First line has title formatting and matches title - remove it
+                if filtered_items is not None:
+                    filtered_items.append(f"Removed formatted title line: '{first_line}'")
+                # Remove the first line from lines list
+                first_line_removed_by_formatting = True
+                # Find and remove the first non-empty line from lines
+                for i, l in enumerate(lines):
+                    if l.strip() == first_line:
+                        lines = lines[:i] + lines[i+1:]
+                        break
+                non_empty_lines = non_empty_lines[1:]
         
         filtered_lines = []
         current_is_chorus = False
@@ -834,8 +969,13 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
                     log.log(filename, "SKIPPED", notes="No text content found after conversion")
                     return False
                 
+                # Check if first line has title formatting (fallback detection)
+                first_line_formatting = extract_first_line_formatting(actual_pptx, title)
+                first_line_has_title_formatting = (first_line_formatting and 
+                                                   first_line_formatting.get('has_title_formatting', False))
+                
                 # Parse into blocks
-                blocks = parse_slides_to_blocks(slides_text, title, changes)
+                blocks = parse_slides_to_blocks(slides_text, title, changes, first_line_has_title_formatting)
                 
                 if not blocks:
                     log.log(filename, "SKIPPED", notes="No verse/chorus blocks detected")
@@ -873,8 +1013,13 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
             log.log(filename, "SKIPPED", notes="No text content found")
             return False
         
+        # Check if first line has title formatting (fallback detection)
+        first_line_formatting = extract_first_line_formatting(actual_pptx, title)
+        first_line_has_title_formatting = (first_line_formatting and 
+                                           first_line_formatting.get('has_title_formatting', False))
+        
         # Parse into blocks
-        blocks = parse_slides_to_blocks(slides_text, title, changes)
+        blocks = parse_slides_to_blocks(slides_text, title, changes, first_line_has_title_formatting)
         
         if not blocks:
             log.log(filename, "SKIPPED", notes="No verse/chorus blocks detected")
