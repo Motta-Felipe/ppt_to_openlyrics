@@ -178,8 +178,13 @@ def extract_title_from_filename(filename: str) -> tuple[str, list[str], str | No
     Controlled by PPT_REMOVE_NUMBER_PREFIX environment variable.
     If set to 'false', '0', 'no', or 'off' (case insensitive), numbers are kept.
     
+    Case conversion rules:
+    - All UPPERCASE -> Sentence case (first letter upper, rest lower)
+    - First letter lowercase -> Capitalize first letter only
+    - Mixed case -> Keep as is
+    
     Returns:
-        - title: The title in Title Case
+        - title: The processed title
         - changes: List of changes made
         - songbook_name: Title without number prefix (for songbook feature)
         - songbook_entry: The number prefix if present (for songbook entry)
@@ -214,31 +219,31 @@ def extract_title_from_filename(filename: str) -> tuple[str, list[str], str | No
     # Clean up extra spaces
     name = ' '.join(name.split())
     
-    # Convert to Title Case
+    # Apply case conversion rules
     name = name.strip() or Path(filename).stem
     
-    # Custom title case that handles apostrophes and accented chars better
-    def title_case_word(word: str) -> str:
-        if not word:
-            return word
-        # Handle words with apostrophes (e.g., "DELL'AMICIZIA" -> "Dell'Amicizia")
-        if "'" in word:
-            parts = word.split("'")
-            return "'".join(part.capitalize() for part in parts)
-        return word.capitalize()
-    
-    words = name.split()
-    titled = ' '.join(title_case_word(word) for word in words)
+    # Determine if case conversion is needed
+    titled = name
+    if name.isupper():
+        # All uppercase -> convert to sentence case
+        titled = name.capitalize()
+        changes.append(f"Converted from UPPERCASE to Sentence case: '{name}' → '{titled}'")
+    elif name and name[0].islower():
+        # First letter is lowercase -> capitalize only first letter
+        titled = name[0].upper() + name[1:]
+        changes.append(f"Capitalized first letter: '{name}' → '{titled}'")
+    # Otherwise, keep as is (mixed case already)
     
     # Songbook name is title without number (always computed)
     name_without_number = TITLE_NUMBER_PATTERN.sub('', original_name).strip()
     name_without_number = ' '.join(name_without_number.split())
-    songbook_words = name_without_number.split()
-    songbook_name = ' '.join(title_case_word(word) for word in songbook_words)
     
-    # Check if title case changed anything
-    if titled != name:
-        changes.append(f"Converted to Title Case: '{original_name}' → '{titled}'")
+    # Apply same case rules to songbook name
+    songbook_name = name_without_number
+    if songbook_name.isupper():
+        songbook_name = songbook_name.capitalize()
+    elif songbook_name and songbook_name[0].islower():
+        songbook_name = songbook_name[0].upper() + songbook_name[1:]
     
     return titled, changes, songbook_name, songbook_entry
 
