@@ -222,15 +222,51 @@ def extract_title_from_filename(filename: str) -> tuple[str, list[str], str | No
     # Apply case conversion rules
     name = name.strip() or Path(filename).stem
     
+    # Get sacred names from environment
+    sacred_names_str = os.getenv('SACRED_NAMES', '')
+    sacred_names = [n.strip() for n in sacred_names_str.split(',') if n.strip()] if sacred_names_str else []
+    
+    def capitalize_sacred_names(text: str, sacred_names: list) -> str:
+        """Capitalize sacred names in the text while preserving other words."""
+        if not sacred_names:
+            return text
+        
+        words = text.split()
+        result = []
+        
+        for word in words:
+            # Check if this word (ignoring punctuation) matches a sacred name
+            # Strip common punctuation for comparison
+            word_stripped = word.strip(".,;:!?'\"")
+            matched = False
+            
+            for sacred in sacred_names:
+                if word_stripped.lower() == sacred.lower():
+                    # Preserve any leading/trailing punctuation
+                    prefix = word[:len(word) - len(word.lstrip(".,;:!?'\""))]
+                    suffix = word[len(word.rstrip(".,;:!?'\"")):]
+                    result.append(prefix + sacred + suffix)
+                    matched = True
+                    break
+            
+            if not matched:
+                result.append(word)
+        
+        return ' '.join(result)
+    
     # Determine if case conversion is needed
     titled = name
     if name.isupper():
         # All uppercase -> convert to sentence case
         titled = name.capitalize()
+        # Then capitalize sacred names
+        titled = capitalize_sacred_names(titled, sacred_names)
         changes.append(f"Converted from UPPERCASE to Sentence case: '{name}' → '{titled}'")
     elif name and name[0].islower():
         # First letter is lowercase -> capitalize only first letter
         titled = name[0].upper() + name[1:]
+        # Also ensure sacred names are capitalized
+        titled = capitalize_sacred_names(titled, sacred_names)
         changes.append(f"Capitalized first letter: '{name}' → '{titled}'")
     # Otherwise, keep as is (mixed case already)
     
@@ -242,6 +278,7 @@ def extract_title_from_filename(filename: str) -> tuple[str, list[str], str | No
     songbook_name = name_without_number
     if songbook_name.isupper():
         songbook_name = songbook_name.capitalize()
+        songbook_name = capitalize_sacred_names(songbook_name, sacred_names)
     elif songbook_name and songbook_name[0].islower():
         songbook_name = songbook_name[0].upper() + songbook_name[1:]
     
