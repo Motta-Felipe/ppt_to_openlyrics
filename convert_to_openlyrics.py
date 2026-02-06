@@ -6,12 +6,17 @@ Converts PowerPoint presentation files containing song lyrics to OpenLyrics XML 
 Follows the rules in agent_instructions.md.
 
 Usage:
-    python convert_to_openlyrics.py [input_path]
+    python convert_to_openlyrics.py [input_path] [songbook_name]
 
     input_path: Optional path to a folder or single file to process.
                 If not provided, defaults to 'input' folder.
                 If a file, processes that single file.
                 If a folder, processes all supported files in it.
+    
+    songbook_name: Optional name for the songbook. If not provided:
+                   - Uses SONG_BOOK_NAME environment variable if set
+                   - For files in subfolders: uses the folder name
+                   - For files in root or single files: uses the song title
 """
 
 import os
@@ -943,14 +948,21 @@ def generate_openlyrics_xml(title: str, blocks: list[dict],
     return xml
 
 
-def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool:
+def convert_file(input_path: Path, output_dir: Path, log: ConversionLog, songbook_name_override: str = None) -> bool:
     """
     Convert a single PPT/PPTX file to OpenLyrics XML.
     Returns True if successful.
     """
     filename = input_path.name
-    title, title_changes, songbook_name, songbook_entry = extract_title_from_filename(filename)
+    title, title_changes, extracted_songbook_name, songbook_entry = extract_title_from_filename(filename)
     changes = title_changes.copy()  # Track all changes
+    
+    # Determine songbook_name
+    if songbook_name_override:
+        songbook_name = songbook_name_override
+    else:
+        songbook_name = title  # For single files, use the song title
+    
     temp_pptx = None
     
     # Check if songbook feature is enabled
@@ -1102,8 +1114,13 @@ def convert_file(input_path: Path, output_dir: Path, log: ConversionLog) -> bool
 
 def main():
     """Main entry point."""
-    # Accept optional command-line argument for input path
+    # Accept optional command-line arguments
     input_path_str = sys.argv[1] if len(sys.argv) > 1 else "input"
+    songbook_name_arg = sys.argv[2] if len(sys.argv) > 2 else None
+    
+    # Get songbook name from environment if not provided via command line
+    songbook_name = songbook_name_arg or os.getenv('SONG_BOOK_NAME')
+    
     input_path = Path(input_path_str)
     
     if not input_path.exists():
@@ -1125,7 +1142,7 @@ def main():
         
         print(f"Processing single file: {input_path.name}")
         
-        if convert_file(input_path, output_folder, log):
+        if convert_file(input_path, output_folder, log, songbook_name):
             print("    [OK] Converted successfully")
             # Move processed file to input_done
             try:
@@ -1161,13 +1178,16 @@ def main():
         print(f"Found {len(ppt_files)} presentation files")
         print("-" * 40)
         
+        # Determine songbook_name for this folder
+        current_songbook_name = songbook_name or subfolder.name
+        
         success_count = 0
         skip_count = 0
         
         for ppt_file in ppt_files:
             print(f"  Processing: {ppt_file.name}")
             
-            if convert_file(ppt_file, output_folder, log):
+            if convert_file(ppt_file, output_folder, log, current_songbook_name):
                 success_count += 1
                 print("    [OK] Converted successfully")
             else:
@@ -1210,7 +1230,7 @@ def main():
         for ppt_file in ppt_files:
             print(f"  Processing: {ppt_file.name}")
             
-            if convert_file(ppt_file, output_folder, log):
+            if convert_file(ppt_file, output_folder, log, songbook_name):
                 success_count += 1
                 print("    [OK] Converted successfully")
                 # Move processed file to input_done
