@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Tu sei degno</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu sei degno, sei l’agnello<br />Santo sei Signor<br />al tuo trono<br />un canto nuovo<br />innalziamo a Te</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Santo, Santo, Santo<br />è Dio Onnipotente<br />che era e sempre sarà<br />tutto il mondo canta<br />lodi al Re dei Re<br />tutto Tu sei per me<br />ed io Ti adoro<br />(♪♪♪)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>La tua voce è come il tuono<br />splendi in maestà<br />benedizione, onore<br />forza e potenza a Te<br />che sei il Santo, il solo Re</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Santo, Santo, Santo<br />è Dio Onnipotente<br />che era e sempre sarà<br />tutto il mondo canta<br />lodi al Re dei Re<br />tutto Tu sei per me<br />ed io Ti adoro<br />(♪♪♪)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Meraviglioso, Sorprendente<br />è il nome di Gesù<br />è il pane della vita<br />è l’acqua che disseta<br />Tu salvezza sei per me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Santo, Santo, Santo<br />è Dio Onnipotente<br />che era e sempre sarà<br />tutto il mondo canta<br />lodi al Re dei Re<br />tutto Tu sei per me<br />ed io Ti adoro</lines>
+    </verse>
+  </lyrics>
+</song>

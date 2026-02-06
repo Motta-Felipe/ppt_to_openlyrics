@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Ti lodero’</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ogni mattina sorgerai<br />Su ogni fiore che vedrò<br />Nel cielo limpido e blu<br />Io ti loderò.<br />E una luce scende in me,<br />E risplende più del sole<br />Sulla terra e nel cielo nessuno è come te</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ti loderò con tutto il cuore, sarò come vorrai<br />Alleluya! Sarò come vorrai!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ti amo e dirtelo vorrò, con la vita che vivrò,<br />Mentre adoro il tuo nome, guardami nel cuore!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ti loderò con tutto il cuore, sarò come vorrai<br />Alleluya! Sarò come vorrai!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Voglio assomigliare a te signore, e sarò come vorrai, quanta gioia ed amore, mi darai!<br />Ti loderò con tutto il cuore, sarò come vorrai<br />Alleluya! Sarò come vorrai! (2volte)</lines>
+    </verse>
+  </lyrics>
+</song>

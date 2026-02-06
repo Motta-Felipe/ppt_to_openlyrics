@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Così qual sono</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Così qual sono, pien di peccato<br />ma pel tuo sangue<br />che m’ha lavato.<br />E per l’invito fatto al cuor mio,<br />oh, Agnel di Dio, io vengo a Te.<br />(♪♪♪)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Così qual sono, mi vedi e sei<br />sol sacrificio, per i falli miei.<br />A te che togli il fallo mio,<br />oh, Agnel di Dio, io vengo  a Te.<br />(♪♪♪)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Così qual sono, l’amor tuo santo<br />mi calma il cuore,<br />mi asciuga il pianto.<br />In Te riposa questo cuor mio,<br />oh, Agnel di Dio, io vengo a Te.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In Te riposa questo cuor mio,<br />oh, Agnel di Dio, io vengo a Te.<br />Così qual sono, io vengo a Te.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Kumbaya</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Noi crediamo in te, o Signor<br />Noi cerchiamo te, o signor<br />Noi amiamo te, o Signor<br />Tu ci ascolti, o Signor<br />Tu ci ascolti, o Signor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Noi cerchiamo te, o Signor<br />Noi speriamo in te, o Signor<br />Noi cantiamo a te, o Signor<br />Tu ci ascolti, o Signor<br />Tu ci ascolti, o Signor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sei con noi, Signor, sei con noi<br />Nella gloria tu sei con noi<br />Nel dolore tu sei con noi<br />Tu per sempre sei con noi<br />Tu per sempre sei con noi</lines>
+    </verse>
+    <verse name="v4">
+      <lines>C’è chi prega Signor: vieni qui<br />C’è chi soffre signor: vieni qui<br />C’è chi opera Signor: vieni qui<br />O Signor, vieni qui<br />O Signor, vieni qui</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kumbaya, Signor, Kumbaya<br />Kumbaya, Signor, Kumbaya<br />Kumbaya, Signor, Kumbaya<br />Signor, Kumbaya<br />Signor, Kumbaya</lines>
+    </verse>
+  </lyrics>
+</song>

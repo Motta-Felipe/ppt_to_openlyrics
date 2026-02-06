@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Sei giorni abbiam per lavorar</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sei giorni abbiam per lavorar e per giocare insieme, ma il settimo noi riposiam, perché appartiene a Cristo</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1, 2, 3, 4, 5, 6 per me, 1, 2, 3, 4, 5, 6 per me, 1, 2, 3, 4, 5, 6 per me, ma il settimo e di Cristo.</lines>
+    </verse>
+  </lyrics>
+</song>

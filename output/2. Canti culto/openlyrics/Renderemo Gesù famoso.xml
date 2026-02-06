@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Renderemo Gesù famoso</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nel nostro cuore c’è un desiderio<br />che la nazione sia unita<br />dall’ovest all’est, dal nord al sud<br />in un solo grido cantiamo a Gesù</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tu ritornerai splendente Re<br />in un solo istante tutto cambierà<br />la nostra speranza<br />è che la nazione<br />conosca Te come Salvatore e Signore<br />conosca Te come Salvatore e Signore</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Renderemo, renderemo<br />renderemo Gesù famoso<br />e faremo, e faremo<br />e faremo con Lui prodezze</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tu ritornerai splendente Re<br />in un solo istante tutto cambierà<br />la nostra speranza<br />è che la nazione<br />conosca Te come Salvatore e Signore<br />conosca Te come Salvatore e Signore</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Renderemo, renderemo<br />renderemo Gesù famoso<br />e faremo, e faremo<br />e faremo con Lui prodezze<br />(x 2)</lines>
+    </verse>
+  </lyrics>
+</song>

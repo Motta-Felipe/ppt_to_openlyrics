@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Gloria al Suo nome</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Su quella croce Gesù morì, dal peccato Egli mi lavò<br />Il mio cuore Ei purificò, gloria al Suo nome.<br />Gloria al Suo nome, gloria al Suo nome,<br />Cristo ha donato il suo sangue,<br />Gloria al suo nome.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Il mio dolce e buon Gesù, dal peccato Egli mi salvò<br />E sulla croce mi perdonò, gloria al Suo nome.<br />Gloria al Suo nome, gloria al Suo nome,<br />Cristo ha donato il suo sangue,<br />Gloria al suo nome.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu sei prezioso, o mio Signor, e mi hai donato l’eternità<br />Vivrò per sempre con Te mio Re, gloria al Suo nome.<br />Gloria al Suo nome, gloria al Suo nome,<br />Cristo ha donato il suo sangue,<br />Gloria al Suo nome.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vieni al Signore o peccator, gettati ai piedi del Salvator<br />Lui ti chiama al suo amor, gloria al Suo nome.<br />Gloria al Suo nome, gloria al Suo nome.<br />Cristo ha donato il suo sangue,<br />Gloria al Suo nome.<br />Gloria al Suo nome, gloria al Suo nome.<br />Cristo ha donato il suo sangue,<br />Gloria al Suo nome.</lines>
+    </verse>
+  </lyrics>
+</song>

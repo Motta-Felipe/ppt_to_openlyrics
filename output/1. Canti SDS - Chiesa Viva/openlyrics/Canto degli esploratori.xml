@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Canto degli esploratori</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Esploratori noi siamo, con gioia il Signor serviam camminiamo in fedeltà con sicurezza e libertà.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Al mondo noi dire vogliamo, parole di verità, Gesù il Salvator ritornerà, per me e per te.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Esploratori noi siamo, con gioia il Signor serviam camminiamo in fedeltà con sicurezza e libertà.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Al mondo noi dire vogliamo, parole di verità, Gesù il Salvator ritornerà, per me e per te.</lines>
+    </verse>
+  </lyrics>
+</song>

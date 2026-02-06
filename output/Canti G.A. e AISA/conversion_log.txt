@@ -1,0 +1,163 @@
+Conversion Log - Started 2026-02-06T20:40:50.280851
+============================================================
+
+File: Alla tua presenza.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Alla tua presenza'
+    - Auto-detected 4 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:40:50.307634
+----------------------------------------
+File: Canto di vittoria.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Canto di Vittoria'
+  Processed: 2026-02-06T20:40:50.333533
+----------------------------------------
+File: Che magnifico nome.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Che magnifico nome'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:40:50.363114
+----------------------------------------
+File: GESU’ DOLCE MUSICA.ppt
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted from UPPERCASE to Sentence case: 'GESU’ DOLCE MUSICA' → 'Gesu’ dolce musica'
+    - Converted from legacy .ppt format via LibreOffice
+    - Removed title slide: 'Gesu’ dolce musica'
+  Processed: 2026-02-06T20:40:51.457311
+----------------------------------------
+File: Il potere dell'amore.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Il potere dell’amore'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:40:51.478142
+----------------------------------------
+File: io canterò del tuo nome.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Capitalized first letter: 'io canterò del tuo nome' → 'Io canterò del tuo nome'
+    - Removed title from slide 1: 'Io canterò del tuo nome'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:40:51.510381
+----------------------------------------
+File: Io ti dono il mio cuor.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Io ti dono il mio cuor'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:40:51.543071
+----------------------------------------
+File: La casa sulla roccia.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'La casa sulla roccia'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:40:51.560972
+----------------------------------------
+File: LA LUCE VEDRA'.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted from UPPERCASE to Sentence case: 'LA LUCE VEDRA'' → 'La luce vedra''
+    - Removed title slide: 'La luce vedra’'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:40:51.588531
+----------------------------------------
+File: Meraviglioso sei.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Meraviglioso sei'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:40:51.622921
+----------------------------------------
+File: Proviamo a farlo anche noi.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Proviamo a farlo anche noi'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:40:51.677104
+----------------------------------------
+File: Quando penso a Cristo.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Quando penso a cristo'
+  Processed: 2026-02-06T20:40:51.706105
+----------------------------------------
+File: QUANDO TU TORNERAI.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted from UPPERCASE to Sentence case: 'QUANDO TU TORNERAI' → 'Quando tu tornerai'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:40:51.747759
+----------------------------------------
+File: QUESTA E' LA MIA FEDE - USARE QUESTO.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted from UPPERCASE to Sentence case: 'QUESTA E' LA MIA FEDE - USARE QUESTO' → 'Questa e' la mia fede - usare questo'
+  Processed: 2026-02-06T20:40:51.783231
+----------------------------------------
+File: Questa è la mia fede.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Questa e’ la Mia fede'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:40:51.832042
+----------------------------------------
+File: Renderemo Gesù famoso.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'RENDEREMO GESù FAMOSO'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:40:51.912588
+----------------------------------------
+File: Se il mio popolo prega.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Se il mio popolo Prega'
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:40:51.941037
+----------------------------------------
+File: Son soddisfatto.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Son soddisfatto'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:40:51.980350
+----------------------------------------
+File: Sono qui a lodarti.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Sono qui a lodarti.mp3
+  Changes Applied:
+    - Removed title slide: 'Sono qui a lodarti'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:40:52.023825
+----------------------------------------
+File: Tu sei santo.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Tu sei santo'
+  Processed: 2026-02-06T20:40:52.050836
+----------------------------------------

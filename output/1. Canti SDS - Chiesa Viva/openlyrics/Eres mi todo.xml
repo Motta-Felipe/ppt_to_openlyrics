@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Eres mi todo</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tú eres mi fuerza y mi poder<br />el gran tesoro que busqué<br />eres mi todo Dios.<br />Perla de precio sin igual<br />nunca tu amor podré dejar<br />eres mi todo Dios.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cristo, Salvador, digno de adorar<br />Cristo, Redentor, digno de adorar</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Diste tu vida allá en la cruz<br />resucitaste mi Jesús<br />eres mi todo Dios.<br />En sequedad o en tentación<br />tú me sostienes mi Señor<br />eres mi todo Dios.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cristo, Salvador, digno de adorar<br />Cristo, Redentor, digno de adorar<br />Digno de adorar…<br />Digno de adorar.</lines>
+    </verse>
+  </lyrics>
+</song>

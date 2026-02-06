@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>La casa sulla roccia</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>La casa tua mai dovrai costruir<br />vicino al mar, sulla sabbia<br />altrimenti la vedrai<br />crollar giù e tu dovrai<br />costruire la tua casa ancor</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Se costruisci invece su Gesù<br />più forte e solida<br />la casa tua sarà<br />i venti soffieran su lei<br />ma la tempesta non l’abbatterà</lines>
+    </verse>
+    <verse name="c1">
+      <lines>La casa tua mai dovrai costruir<br />vicino al mar, sulla sabbia<br />altrimenti la vedrai<br />crollar giù e tu dovrai<br />costruire la tua casa ancor</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Se costruisci invece su Gesù<br />più forte e solida<br />la casa tua sarà<br />i venti soffieran su lei<br />ma la tempesta non l’abbatterà</lines>
+    </verse>
+  </lyrics>
+</song>

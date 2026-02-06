@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Io ho deciso di seguire Cristo</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Io ho deciso di seguir Cristo<br />io ho deciso di seguir Cristo<br />io ho deciso di seguir Cristo<br />indietro, no, non tornerò!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>La croce afferro, il mondo lascio<br />la croce afferro, il mondo lascio<br />la croce afferro, il mondo lascio<br />indietro, no, non tornerò!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se nessun vien con me,<br />ancor Lo seguirò<br />se nessun vien con me,<br />ancor Lo seguirò<br />se nessun vien con me,<br />ancor Lo seguirò<br />indietro, no, non tornerò!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Decidi ora di seguir Cristo<br />decidi ora di seguir Cristo<br />decidi ora di seguir Cristo<br />indietro, no, non tornar più!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Decidi ora di seguir Cristo<br />indietro, no, non tornar più!</lines>
+    </verse>
+  </lyrics>
+</song>

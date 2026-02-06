@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Quando tu tornerai</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Volerei fino al cielo</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Volerei fino al cielo<br />per potergli stare più vicino;<br />Griderei al vento: “portami!”<br />Lascio i vecchi giorni per seguire Te.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Quando Tu tornerai,<br />mio Gesù, da lassù,<br />per portarmi nel tuo regno,<br />tutto illuminerai.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Questi fiori, questi prati,<br />van crescendo sotto la tua mano;<br />come un fiume trova la sua via,<br />l’ho cercata ed ora so qual è la mia.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Quando Tu tornerai,<br />mio Gesù, da lassù,<br />per portarmi nel tuo regno,<br />tutto illuminerai.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So che mi ascolti quando canto la Tua lode,<br />so che sorridi quando parlo con Te,<br />non posso capire quanto grande sia il Tuo amore,<br />ma quel che so è che sei qui.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Quando Tu tornerai,<br />mio Gesù, da lassù,<br />per portarmi nel tuo regno,<br />(tutto illuminerai x2).</lines>
+    </verse>
+  </lyrics>
+</song>

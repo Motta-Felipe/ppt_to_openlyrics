@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Inno del missionario</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Signor, prendi la mia vita,<br />Prima che l’attesa consumi gli anni miei.<br />Io son attento a cio’ che chiedi,<br />Qualunque cosa sia<br />Tu chiamami a servir.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Portami la’ dove all’uomo<br />Manchino le tue parole<br />E la voglia di vivere con te.<br />Dove manchi la speranza,<br />Dove manchi l’allegria,<br />Solamente perche’ non san di te.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ti do, il mio cuor sincero<br />Per dire con coraggio, quanto e’ bello il tuo amor.<br />Signor, ho un cuore missionario,<br />Conducimi alla terra<br />Che si disseti in te.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Portami la’ dove all’uomo<br />Manchino le tue parole<br />E la voglia di vivere con te.<br />Dove manchi la speranza,<br />Dove manchi l’allegria,<br />Solamente perche’ non san di te.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cosi’, io portero’ il mio canto<br />A tutti predicando, la tua immensita’.<br />Saro’, servo senza sosta,<br />Il tuo predicatore,<br />La forza del tuo amor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Portami la’ dove all’uomo<br />Manchino le tue parole<br />E la voglia di vivere con te.<br />Dove manchi la speranza,<br />Dove manchi l’allegria,<br />Solamente perche’ non san di te.<br />(x2)<br />Solamente perché non san di te.</lines>
+    </verse>
+  </lyrics>
+</song>

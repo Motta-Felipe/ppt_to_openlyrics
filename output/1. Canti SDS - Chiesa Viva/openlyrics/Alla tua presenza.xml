@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Alla tua presenza</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alla tua presenza portaci oh Signor,<br />Nei tuoi atri noi vogliamo dimorar.<br />Nel tuo Tempio intoneremo inni a te,<br />Canti di Lode alla tua Maestà.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Il tuo Santo Spirito ci guidi là dove sei tu,<br />Alla tua presenza, Signore Gesù.<br />In Eterno canteremo gloria a Te Signor.<br />Alla tua presenza, alla tua presenza,<br />Per sempre insieme a te, Gesù.</lines>
+    </verse>
+  </lyrics>
+</song>

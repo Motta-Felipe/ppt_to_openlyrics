@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Lodiamo il Signore</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ora tutti insieme<br />Lodiamo il Signore<br />Oh, popoli della terra<br />Venite a veder.<br />(x 2 volte)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>L’amore è come il sole<br />Che scende su di noi<br />L’amore è una corona d’oro<br />Ora tutti insieme<br />Lodiamo il Signore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alleluia!!  Alleluia!!<br />Alleluia!!  Alleluia!!  (x2 volte)</lines>
+    </verse>
+  </lyrics>
+</song>

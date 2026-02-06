@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>L’ uomo di galilea</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>L’uomo di galilea</lines>
+    </verse>
+    <verse name="c1">
+      <lines>La tua mano nella mano di Colui che fermò le acque,<br />la tua mano nella mano di colui che calmò il mar.<br />La tua vita sarà migliore se metterai,<br />La tua mano nella mano di quell’Uomo di Galilea.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se un istante nel profondo pensi al creato,<br />Nella notte tu guardi gli astri che stan lassù,<br />Come un palpito sentirai la sua Presenza,<br />La sua Immensa mano, la tua accoglierà.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>La tua mano nella mano di Colui che fermò le acque,<br />la tua mano nella mano di colui che calmò il mar.<br />La tua vita sarà migliore se metterai,<br />La tua mano nella mano di quell’Uomo di Galilea.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Taci, calmati, Gesù disse al mare e al vento,<br />Taci, calmati, al tuo cuore Egli dirà.<br />Se sul mare tempestoso tornò il sereno,<br />Il tuo cuore inquieto in Lui riposo avrà.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>La tua mano nella mano di Colui che fermò le acque,<br />la tua mano nella mano di colui che calmò il mar.<br />La tua vita sarà migliore se metterai,<br />La tua mano nella mano di quell’Uomo di Galilea.<br />La tua vita sarà migliore se metterai,<br />La tua mano nella mano di quell’Uomo di Galilea.</lines>
+    </verse>
+  </lyrics>
+</song>

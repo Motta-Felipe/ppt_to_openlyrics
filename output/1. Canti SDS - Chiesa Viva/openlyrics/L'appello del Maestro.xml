@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>L'appello del Maestro</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Echeggiò l’appello di Gesù<br />«Chi sarà mio volontario?»<br />Con amor risponder devi tu:<br />«Fa di me un missionario».</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Missionario del Signore,<br />Volontario del gran Re dei re.<br />Va, proclama al mondo il grande amor<br />Che salvò, che avvinse te.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Il cammino che Gesù seguì<br />Lo propone anche a te.<br />Sul peccato la vittoria avrai,<br />Se con Lui camminerai.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Missionario del Signore,<br />Volontario del gran Re dei re.<br />Va, proclama al mondo il grande amor<br />Che salvò, che avvinse te.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quando alfine<br />Il giorno giungerà,<br />Tutti insieme noi sarem;<br />Il Signor dal cielo tornerà,<br />E con Lui trionferemo.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Missionario del Signore,<br />Volontario del gran Re dei re.<br />Va, proclama al mondo il grande amor<br />Che salvò, che avvinse te.</lines>
+    </verse>
+  </lyrics>
+</song>

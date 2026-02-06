@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Lascia che il Cristo ti raggiunga</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lascia che il Cristo ti raggiunga<br />e ti stringa forte a sé<br />ch’Egli riempia<br />la tua vita col suo amor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nelle Sue mani puoi deporre<br />tutti i pesi che hai, perché<br />solo allor verrà lo Spirito su te</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vieni, Signore<br />vieni dentro me<br />Vieni, Signore<br />voglio star con Te</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cantiamo insieme d’un sol cuore<br />la bontà del nostro Dio<br />guardiam con fiducia<br />al nostro Salvator</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Portiamo a Lui ogni tristezza<br />che opprime il nostro cuor<br />solo allora sentiremo il suo calor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vieni, Signore<br />vieni dentro me<br />Vieni, Signore<br />voglio star con Te</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vieni, Signore<br />voglio star con Te</lines>
+    </verse>
+  </lyrics>
+</song>

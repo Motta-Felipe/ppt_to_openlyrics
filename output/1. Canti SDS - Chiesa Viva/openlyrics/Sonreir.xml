@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Sonreir</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Sonreir el rostro iluminar,<br />levantar las manos hacia Dios,<br />vuestras manos estrechad ,<br />que felicidad…<br />(2X)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Sonreir el rostro iluminar,<br />levantar las manos hacia Dios,<br />vuestras manos estrechad ,<br />que felicidad…<br />vuestras manos estrechad ,<br />que felicidad…</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Io ho un amico che mi ama</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Io ho un amico che mi ama,<br />mi ama, non mi abbandona.<br />Io ho un amico che mi ama<br />Il suo nome è Gesù<br />Che mi ama, che mi ama<br />che mi ama<br />col suo grande amor<br />Che mi ama, che mi ama che mi ama col suo grande amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu hai un amico che ti ama,<br />ti ama, non ti abbandona.<br />Tu hai un amico che ti ama<br />il suo nome è Gesù.<br />Che ti ama, che ti ama<br />che ti ama<br />col suo grande amor.<br />Che ti ama, che ti ama<br />che ti ama col suo grande amor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Noi abbiamo un amico<br />che ci ama,<br />ci ama, non ci abbandona.<br />Noi abbiamo un amico<br />che ci  ama,<br />il suo nome è Gesù.<br />Che ci ama, che ci ama<br />che ci ama col suo grande amor<br />Che ci ama, che ci ama<br />che ci ama col suo grande amor.</lines>
+    </verse>
+  </lyrics>
+</song>

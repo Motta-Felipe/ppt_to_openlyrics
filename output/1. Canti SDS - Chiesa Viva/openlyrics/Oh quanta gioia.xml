@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Oh quanta gioia</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, quanta gioia di seguir gesu’<br />Oh, quanta gioia di seguir gesu’<br />Oh, quanta gioia di seguir gesu’<br />Cammina nella luce del signor<br />Oh, cammina , cammina, cammina nella luce<br />Oh, cammina , cammina, cammina nella luce<br />Oh, cammina , cammina, cammina nella luce<br />Cammina nella luce del signor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, quanta gioia di seguir gesu’<br />Oh, quanta gioia di seguir gesu’<br />Oh, quanta gioia di seguir gesu’<br />Salta nella luce del signor<br />Oh, salta, salta, salta nella luce<br />Oh, salta, salta, salta nella luce<br />Oh, salta, salta, salta nella luce<br />Salta nella luce del signor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, quanta gioia di seguir gesu’<br />Oh, quanta gioia di seguir gesu’<br />Oh, quanta gioia di seguir gesu’<br />Gira nella luce del signor<br />Oh, gira, gira, gira nella luce<br />Oh, gira, gira, gira nella luce<br />Oh, gira, gira, gira nella luce<br />Gira nella luce del signor</lines>
+    </verse>
+  </lyrics>
+</song>

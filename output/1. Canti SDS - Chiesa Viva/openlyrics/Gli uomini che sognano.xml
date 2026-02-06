@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Gli uomini che sognano</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amico mio, ascoltami<br />Sai che c’e’ una via migliore<br />Per colmare quel vuoto che ti fa sentire<br />Cosi’ solo<br />Se i colori della tua vita<br />Non sono belli come l’arcobaleno</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E i bagliori di questo mondo<br />Non rischiarano il buio che c’e’ in te<br />Ricordati che dio e’ morto anche per te<br />Lui l’ha fatto per amore e ti tende la sua mano.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Si, lui ti accarezza<br />Quando i raggi del sole riscaldano<br />Il tuo cuore triste.<br />Si, lui ti comprende<br />Anche quando il dolore ed il male<br />Ti soffocan l’anima.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Si, lo so’, tu pensi che e’ troppo facile sognare<br />Vivere sperando che il domani sia migliore.<br />Ma le certezze che ti offre questo mondo incivile<br />Sono forse piu’ concrete dell’amore del signore?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Se tu crederai lui ti accogliera’<br />Nella terra che ha promesso a tutti gli uomini<br />Che sognano.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Si, lui ti accarezza<br />Quando i raggi del sole riscaldano<br />Il tuo cuore triste.<br />Si, lui ti comprende<br />Anche quando il dolore ed il male<br />Ti soffocan l’anima.</lines>
+    </verse>
+  </lyrics>
+</song>

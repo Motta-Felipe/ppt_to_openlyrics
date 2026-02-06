@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Metti luce</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Metti luce nel mio cuor, fa’ ch’io splenda<br />Metti luce nel mio cuor, Gesu’.<br />Metti luce nel mio cuor, fa ch’io splenda<br />Fa ch’io splenda notte e di quaggiù.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Canta Osanna, canta Osanna,<br />Canta Osanna solo al tuo Signor.<br />Canta Osanna, canta Osanna<br />Canta Osanna al Re dei Re.</lines>
+    </verse>
+  </lyrics>
+</song>

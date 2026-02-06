@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Mio signor che mattino</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Mio signor che mattino,<br />Mio signor che mattino,<br />Mio signor che mattino<br />Quando il mondo ti vedra’.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ho vissuto nel dolor,<br />Ho pianto tanto e lui lo sa.<br />Ma al ritorno del signor,<br />So che tutto cambiera’.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mio signor che mattino,<br />Mio signor che mattino,<br />Mio signor che mattino<br />Quando il mondo ti vedra’.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>La mia vita ha un perche’,<br />Tutta la storia e’ cosi’.<br />L’umanita’ che cerca e va,<br />Mentre dio e’ dentro di noi.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mio signor che mattino,<br />Mio signor che mattino,<br />Mio signor che mattino<br />Quando il mondo ti vedra’.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Camminiamo verso il ciel,<br />Una speranza dentro il cuor.<br />Risorgeremo tutti un di’<br />E vivrem con te signor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mio signor che mattino,<br />Mio signor che mattino,<br />Mio signor che mattino<br />Quando il mondo ti vedra’.</lines>
+    </verse>
+  </lyrics>
+</song>

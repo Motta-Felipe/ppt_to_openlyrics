@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Una casa nel cielo</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Io ho una casa lassu, su nel cielo,<br />Oltre le stelle dove vive Gesù,<br />In quella casa felici saremo,<br />Perchè il dolore non ci sarà più.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Si ho una casa lassù, su nel cielo,<br />Che il mio signore a me donerà<br />Si, ho una casa lassù nel cielo,<br />Dove in eterno con Lui vivrò</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gesù ritorna per darmi la vita,<br />Ed una casa proprio tutta per me<br />In quella casa per sempre felici,<br />In sua presenza con gioia vivrem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Si ho una casa lassù, su nel cielo,<br />Che il mio signore a me donerà<br />Si, ho una casa lassù nel cielo,<br />Dove in eterno con Lui vivrò</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Con i fratelli saremmo felici,<br />I santi angeli gioiranno con noi,<br />Abbracceremo i santi profeti,<br />E tutti insieme in eterno vivrem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Si ho una casa lassù, su nel cielo,<br />Che il mio signore a me donerà<br />Si, ho una casa lassù nel cielo,<br />Dove in eterno con Lui vivrò</lines>
+    </verse>
+  </lyrics>
+</song>

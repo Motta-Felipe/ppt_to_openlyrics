@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Sei tu</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cerco nel mio mondo<br />Il coraggio di specchiarmi<br />Cancellare ogni difetto<br />Apparire a tutti perfetto<br />E se cerchi in me l’amico<br />Il più grande e vero amico</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ricorda che son speciale<br />Perché son figlio di Dio<br />Il mio migliore amico<br />Il mio migliore amico</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sei tu che mi guardi dentro<br />Sei tu che tocchi l’anima mia<br />Sei tu che mi parli al cuore<br />Sei tu che ascolti la voce mia<br />Sei tu-uuuuu</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cerco nel tuo mondo<br />Quella forza di cambiare<br />Una taglia un colore<br />Ma ogni fiore ha il suo odore<br />E se cerco in te l’amico<br />Il più grande e vero amico</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ti dico che sei speciale<br />Perché sei figlio di Dio<br />Il mio migliore amico<br />Il mio migliore amico</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sei tu che mi guardi dentro<br />Sei tu che tocchi l’anima mia<br />Sei tu che mi parli al cuore<br />Sei tu che ascolti la voce mia<br />Sei tu-uuu</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Sei tu che mi guardi dentro<br />Sei tu che tocchi l’anima mia<br />Sei tu che mi parli al cuore<br />Sei tu che ascolti la voce mia</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Sei tu<br />Sei tu<br />Sei tu</lines>
+    </verse>
+  </lyrics>
+</song>

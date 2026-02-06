@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Meraviglioso sei</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meraviglioso sei<br />chi è pari a Te, Gesù<br />solo Tu puoi ristorar<br />e rinnovar<br />il mio cuor…</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Meraviglioso sei,<br />per l’eternità<br />il canto mio sarai<br />hai conquistato<br />ogni parte di me,<br />Meraviglioso sei!!!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Padre di grazia<br />nessun altro è<br />come Te<br />Tu soltanto<br />puoi guarir<br />le ferite che ho<br />nel mio cuor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Meraviglioso sei,<br />per l’eternità<br />il canto mio sarai<br />hai conquistato<br />ogni parte di me,<br />Meraviglioso sei!!!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Io non desidero<br />che te…<br />Io non desidero<br />che te…<br />(x 2)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Meraviglioso sei,<br />per l’eternità<br />il canto mio sarai<br />hai conquistato<br />ogni parte di me,<br />Meraviglioso sei!!!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Voglio vivere</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ed ogni volta che mi guardo dentro<br />Ho un motivo in più<br />Per lottare anche contro vento<br />Non ho paura se resti con me.<br />Ed ogni passo che io muovo adesso<br />Porta verso Te<br />E questa pelle che mi porto addosso<br />È la mia vita nuova insieme a Te</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Voglio vivere amando il Cielo come lo ami tu<br />Nei miei pensieri, mille colori con Te<br />Voglio regalare al mondo quello che Tu hai dato a me<br />Con le mie mani, con la mia voce<br />E con tutta la forza che ho… con Te, che ho…con Te.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ed ogni volta che mi parli dentro,<br />Ho un motivo in più<br />Per gridare forte insieme al vento:<br />Che non c’è vita se non ci sei Tu.<br />Ed ogni sguardo che io incontro adesso<br />È di un fratello in più<br />Questa speranza che io sento addosso<br />Mi fa sentire vivo anche quaggiù.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Voglio vivere amando il Cielo come lo ami tu<br />Nei miei pensieri, mille colori con Te<br />Voglio regalare al mondo quello che Tu hai dato a me<br />Con le mie mani, con la mia voce, con Te.<br />Voglio vivere amando il Cielo come lo ami tu<br />Nei miei pensieri, mille colori con Te<br />Voglio regalare al mondo quello che Tu hai dato a me<br />Con le mie mani, con la mia voce<br />E con tutta la forza che ho… con Te, che ho…con Te.</lines>
+    </verse>
+  </lyrics>
+</song>

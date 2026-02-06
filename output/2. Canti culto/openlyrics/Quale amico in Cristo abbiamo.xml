@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Quale amico in Cristo abbiamo</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quale amico in Cristo abbiamo,<br />qual rifugio nel dolor!<br />Nella prece a lui portiamo<br />tutto quel che turba il cuor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, la pace che perdiamo,<br />oh, gl'inutili dolor!<br />Perché tutto non portiamo<br />in preghiera al Salvator?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Se ci assal la tentazione,<br />se il peccato insidia il cuor,<br />di temer non v'è ragione:<br />portiam tutto al Salvator.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Un amico sì verace<br />dove mai potrem trovar?<br />Ci comprende, ci dà pace,<br />ogni peso ei vuol portar.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Quando stanchi e travagliati<br />nella prova ci troviam,<br />il Signor non ci hai lasciati:<br />tutto, tutto a lui portiam.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ci abbandonino gli amici,<br />ma Gesù ci accoglierà;<br />e con lui sarem felici,<br />ei riposo ci darà.</lines>
+    </verse>
+  </lyrics>
+</song>

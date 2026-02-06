@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>Chi son io</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chi son io<br />perché questo grande Dio<br />conosca il nome mio<br />si preoccupi di me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chi son io<br />perché la Stella del mattino<br />mi illumini il cammino<br />quando il cuore si è smarrito</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Non per quello che ero io<br />ma per ciò che hai fatto Tu<br />non per ciò che ho fatto io<br />ma per quello che Tu sei</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sono simile ad un fiore<br />prima sboccia dopo muore<br />un’onda mossa nel mare<br />un soffio portato via<br />Però, mi ascolti quando chiamo<br />mi rialzi quando cado<br />e mi hai detto chi son io<br />sono tuo, sono tuo  (♪♪♪)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chi son io<br />perché hai visto il mio peccato<br />ma lo stesso mi hai amato<br />mi hai voluto rialzar</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chi son io<br />che Colui che ferma il mare<br />mi parla e vuol calmare<br />la tempesta che c’è in me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Non per quello che ero io<br />ma per ciò che hai fatto Tu<br />non per ciò che ho fatto io<br />ma per quello che Tu sei</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sono simile ad un fiore<br />prima sboccia dopo muore<br />un’onda mossa nel mare<br />un soffio portato via<br />Però, mi ascolti quando chiamo<br />mi rialzi quando cado<br />e mi hai detto chi son io<br />sono tuo, sono tuo (♪♪♪)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Chi temerò<br />Chi temerò<br />Io sono tuo<br />(♪♪♪)<br />Io sono tuo</lines>
+    </verse>
+  </lyrics>
+</song>

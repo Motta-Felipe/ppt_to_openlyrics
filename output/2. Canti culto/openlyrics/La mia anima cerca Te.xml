@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>La mia anima cerca Te</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>La mia anima<br />cerca Te, Signore<br />come la cerva che<br />assetata si accosta a bere<br />l’acqua del torrente</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Solo Te voglio adorar<br />io t’amo più di ogni cosa,<br />oh Dio<br />sei il mio scudo, il mio rifugio<br />la mia forza è solo in Te</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sei il più intimo<br />dei miei amici<br />anche se Tu sei il mio Re<br />Tu per me vali più dell’oro<br />vali più del mondo inter</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Solo Te voglio adorar<br />io t’amo più di ogni cosa,<br />oh Dio<br />sei il mio scudo, il mio rifugio<br />la mia forza è solo in Te<br />(x 2)</lines>
+    </verse>
+  </lyrics>
+</song>

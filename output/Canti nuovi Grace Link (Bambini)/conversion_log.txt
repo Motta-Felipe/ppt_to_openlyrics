@@ -1,0 +1,152 @@
+Conversion Log - Started 2026-02-06T20:39:39.325476
+============================================================
+
+File: C'è tanta gioia.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'C’e’ tanta gioia'
+  Processed: 2026-02-06T20:39:39.360925
+----------------------------------------
+File: Gesù cambia tutto.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Gesù cambia tutto.mp3
+  Changes Applied:
+    - Removed title slide: 'Gesu’ cambia tutto'
+  Processed: 2026-02-06T20:39:39.422220
+----------------------------------------
+File: Gesù il Creatore.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Gesù il Creatore.mp3
+  Changes Applied:
+    - Removed title slide: 'gesu’ il creatore'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:39:39.488759
+----------------------------------------
+File: Gesù m'ama.pptx
+  Status: SUCCESS
+  Has Media: No
+  Processed: 2026-02-06T20:39:39.528190
+----------------------------------------
+File: Il frutto dello Spirito.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Il frutto dello spirito'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:39:39.558309
+----------------------------------------
+File: Io ho un amico che mi ama.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Io ho un amico che Mi ama'
+  Processed: 2026-02-06T20:39:39.593219
+----------------------------------------
+File: La mia offerta.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'La mia offerta'
+  Processed: 2026-02-06T20:39:39.613204
+----------------------------------------
+File: La sua luce splende nella vita mia.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'La sua luce splende nella vita mia'
+    - Detected chorus labels: Rit.
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:39:39.655518
+----------------------------------------
+File: Nel sacchetto metto.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Nel sacchetto metto'
+  Processed: 2026-02-06T20:39:39.679595
+----------------------------------------
+File: Sono piccolo ma Gesù.pptx
+  Status: SUCCESS
+  Has Media: Yes
+  Media Extracted: Sono piccolo ma Gesù.mp3
+  Changes Applied:
+    - Removed title slide: 'Sono piccolo ma gesu’'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:39:39.740738
+----------------------------------------
+File: C'è tanta gioia.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'C’e’ tanta gioia'
+  Processed: 2026-02-06T20:40:52.091492
+----------------------------------------
+File: Gesù cambia tutto.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Gesu’ cambia tutto'
+  Processed: 2026-02-06T20:40:52.142480
+----------------------------------------
+File: Gesù il Creatore.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'gesu’ il creatore'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:40:52.191940
+----------------------------------------
+File: Gesù m'ama.pptx
+  Status: SUCCESS
+  Has Media: No
+  Processed: 2026-02-06T20:40:52.216760
+----------------------------------------
+File: Il frutto dello Spirito.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Il frutto dello spirito'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:40:52.258635
+----------------------------------------
+File: Io ho un amico che mi ama.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Io ho un amico che Mi ama'
+  Processed: 2026-02-06T20:40:52.291622
+----------------------------------------
+File: La mia offerta.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'La mia offerta'
+  Processed: 2026-02-06T20:40:52.309037
+----------------------------------------
+File: La sua luce splende nella vita mia.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'La sua luce splende nella vita mia'
+    - Detected chorus labels: Rit.
+    - Auto-detected 2 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:40:52.332674
+----------------------------------------
+File: Nel sacchetto metto.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Nel sacchetto metto'
+  Processed: 2026-02-06T20:40:52.352020
+----------------------------------------
+File: Sono piccolo ma Gesù.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Removed title slide: 'Sono piccolo ma gesu’'
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-06T20:40:52.392900
+----------------------------------------
