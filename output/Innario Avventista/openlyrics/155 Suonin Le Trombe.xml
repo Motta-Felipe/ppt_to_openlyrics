@@ -5,7 +5,7 @@
       <title>155 Suonin Le Trombe</title>
     </titles>
     <songbooks>
-      <songbook name="Suonin Le Trombe" entry="155"/>
+      <songbook name="Innario Avventista" entry="155"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -13,10 +13,7 @@
       <lines>Suonin le trombe, cantiamolo in cor:<br />presto ritorna il Signor!<br />Più non si pianga, rinasca il vigor:<br />presto ritorna il Signor!<br />Gesù verrà, si tornerà,<br />dal ciel ritorna il Signore!</lines>
     </verse>
     <verse name="v2">
-      <lines>Risuoni l’eco del canto di ogni dì:<br />presto ritorna il Signor!</lines>
-    </verse>
-    <verse name="c1">
-      <lines>orna in gloria l’Agnel che morì:<br />presto ritorna il Signor!<br />Gesù verrà, si tornerà,<br />dal ciel ritorna il Signore!</lines>
+      <lines>Risuoni l’eco del canto di ogni dì:<br />presto ritorna il Signor!<br />Ritorna in gloria l’Agnel che morì:<br />presto ritorna il Signor!<br />Gesù verrà, si tornerà,<br />dal ciel ritorna il Signore!</lines>
     </verse>
     <verse name="v3">
       <lines>Non più tempeste e non più terror :<br />presto ritorna il Signor!<br />La terra trema, il mare è in fragore:<br />presto ritorna il Signor!<br />Gesù verrà, si tornerà,<br />dal ciel ritorna il Signore!</lines>

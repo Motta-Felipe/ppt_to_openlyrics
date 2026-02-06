@@ -1,0 +1,43 @@
+Conversion Log - Started 2026-02-05T21:23:44.583728
+============================================================
+
+File: 36 TU SEI.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: '36 TU SEI' → '36 Tu Sei'
+    - Removed title slide: 'Tu sei'
+    - Detected chorus labels: RIT:
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-05T21:23:44.634994
+----------------------------------------
+File: 36 TU SEI.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: '36 TU SEI' → '36 Tu Sei'
+    - Removed title slide: 'Tu sei'
+    - Detected chorus labels: RIT:
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-05T21:24:45.037718
+----------------------------------------
+File: 36 TU SEI.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: '36 TU SEI' → '36 Tu Sei'
+    - Removed title slide: 'Tu sei'
+    - Detected chorus labels: RIT:
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-05T21:28:05.413907
+----------------------------------------
+File: 36 TU SEI.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: '36 TU SEI' → '36 Tu Sei'
+    - Removed title slide: 'Tu sei'
+    - Detected chorus labels: RIT:
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-05T21:36:20.696904
+----------------------------------------

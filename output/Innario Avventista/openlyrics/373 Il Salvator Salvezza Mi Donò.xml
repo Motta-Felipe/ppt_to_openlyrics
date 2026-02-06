@@ -5,7 +5,7 @@
       <title>373 Il Salvator Salvezza Mi Donò</title>
     </titles>
     <songbooks>
-      <songbook name="Il Salvator Salvezza Mi Donò" entry="373"/>
+      <songbook name="Innario Avventista" entry="373"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -15,10 +15,10 @@
     <verse name="v2">
       <lines>Chi crede in lui, in Cristo redentor,<br />avrà la vita che non finirà.<br />Nel Salvator c’è gioia a sazietà.<br />Alleluia! Alleluia!</lines>
     </verse>
-    <verse name="c1">
-      <lines>ornerà il Cristo redentor,<br />sarà un giorno pieno di fulgor:<br />i santi allor andranno con Gesù.<br />Alleluia! Alleluia!</lines>
-    </verse>
     <verse name="v3">
+      <lines>Ritornerà il Cristo redentor,<br />sarà un giorno pieno di fulgor:<br />i santi allor andranno con Gesù.<br />Alleluia! Alleluia!</lines>
+    </verse>
+    <verse name="v4">
       <lines>In quel mattino vedrò il mio Signor,<br />e il volto suo pieno di splendor<br />contemplerò, si, per l’eternità.<br />Alleluia! Alleluia!</lines>
     </verse>
   </lyrics>

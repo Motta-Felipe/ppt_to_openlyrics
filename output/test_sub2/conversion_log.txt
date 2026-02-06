@@ -1,0 +1,13 @@
+Conversion Log - Started 2026-02-05T21:26:34.081161
+============================================================
+
+File: 36 TU SEI.pptx
+  Status: SUCCESS
+  Has Media: No
+  Changes Applied:
+    - Converted to Title Case: '36 TU SEI' → '36 Tu Sei'
+    - Removed title slide: 'Tu sei'
+    - Detected chorus labels: RIT:
+    - Auto-detected 1 chorus pattern(s) from repeated blocks
+  Processed: 2026-02-05T21:26:34.164666
+----------------------------------------

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song version="0.8" xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>36 Tu Sei</title>
+    </titles>
+    <songbooks>
+      <songbook name="EnvBook" entry="36"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu sei, la prima stella del mattino<br />Tu sei, la nostra grande nostalgia,<br />Tu sei, il cielo chiaro dopo la paura,<br />Dopo la paura d’esserci perduti,<br />E tornerà la vita, in questo mare.(x2)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>soffierà, soffierà il vento forte della vita soffierà sulle vele e le gonfierà di te!<br />Soffierà, soffierà il vento forte della vita, soffierà sulle vele e le gonfierà di te.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu sei l’unico volto della pace,<br />Tu sei, speranza nelle nostre mani,<br />Tu sei, il vento nuovo sulle nostre ali,<br />Sulle nostre ali, soffierà la vita<br />E gonfierà le vele per questo mare.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>soffierà, soffierà il vento forte della vita soffierà sulle vele e le gonfierà di te!<br />Soffierà, soffierà il vento forte della vita, soffierà sulle vele e le gonfierà di te.</lines>
+    </verse>
+  </lyrics>
+</song>

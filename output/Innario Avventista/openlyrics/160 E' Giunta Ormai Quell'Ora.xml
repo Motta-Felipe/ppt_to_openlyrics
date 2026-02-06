@@ -5,15 +5,12 @@
       <title>160 E' Giunta Ormai Quell'Ora</title>
     </titles>
     <songbooks>
-      <songbook name="E' Giunta Ormai Quell'Ora" entry="160"/>
+      <songbook name="Innario Avventista" entry="160"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>160   È giunta ormai quell’ora<br />È giunta ormai quell’ora,<br />il tempo se ne va;<br />si sta schiarendo il cielo:<br />Gesù ritornerà.<br />Sulle nuvole dorate</lines>
-    </verse>
-    <verse name="c1">
-      <lines>orna il Salvator<br />e gli uomini salvati<br />raggiungono il Signor.</lines>
+      <lines>È giunta ormai quell’ora,<br />il tempo se ne va;<br />si sta schiarendo il cielo:<br />Gesù ritornerà.<br />Sulle nuvole dorate<br />ritorna il Salvator<br />e gli uomini salvati<br />raggiungono il Signor.</lines>
     </verse>
     <verse name="v2">
       <lines>La schiera degli eletti<br />riflette il suo splendor:<br />la luce della vita<br />ovunque splenderà.<br />Il premio del Signore<br />riceveranno allor<br />coloro che per fede<br />già furon vincitor.</lines>
